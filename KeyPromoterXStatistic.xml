@@ -1,12 +1,20 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'⌘K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Python Console">
         <Item>
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Python Console</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -14,7 +22,15 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
