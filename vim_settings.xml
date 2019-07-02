@@ -17,12 +17,12 @@
       <file name="/Python Console" timestamp="1562082136605">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562086627298">
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562094162498">
         <mark key="'" line="506" column="0" />
-        <mark key="[" line="377" column="0" />
-        <mark key="]" line="377" column="0" />
-        <mark key="." line="377" column="0" />
-        <mark key="^" line="378" column="57" />
+        <mark key="[" line="376" column="70" />
+        <mark key="]" line="376" column="81" />
+        <mark key="." line="376" column="81" />
+        <mark key="^" line="376" column="81" />
       </file>
     </filemarks>
     <jumps>
@@ -86,8 +86,8 @@
       <jump line="506" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoZidOZXcgYnBtOiB7c2VsZi5icG1zW25vd119JykK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -291,7 +291,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[args.testcase]:</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>for h</text>
