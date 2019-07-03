@@ -17,12 +17,12 @@
       <file name="/Python Console" timestamp="1562082136605">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562094162498">
-        <mark key="'" line="506" column="0" />
-        <mark key="[" line="376" column="70" />
-        <mark key="]" line="376" column="81" />
-        <mark key="." line="376" column="81" />
-        <mark key="^" line="376" column="81" />
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562171012276">
+        <mark key="'" line="221" column="40" />
+        <mark key="[" line="188" column="45" />
+        <mark key="]" line="185" column="43" />
+        <mark key="." line="185" column="43" />
+        <mark key="^" line="185" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -84,10 +84,31 @@
       <jump line="372" column="85" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="506" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="389" column="28" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="485" column="48" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="329" column="68" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="308" column="43" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="307" column="23" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="306" column="53" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="305" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="552" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="401" column="12" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="16" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="571" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="244" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="263" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="532" column="23" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="509" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="222" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="205" column="10" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="192" column="31" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="394" column="4" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="250" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="220" column="40" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>8</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -291,48 +312,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>for h</text>
+        <text>division</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoZidOZXcgYnBtOiB7c2VsZi5icG1zW25vd119JykK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpZCA9PSAxOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ05ldyB0aW1pbmc6IHt9L3t9Jy5mb3JtYXQoY3VycmVudF90aW1lc2lnLnRvcCwgY3VycmVudF90aW1lc2lnLmJvdHRvbSkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudF90aW1lc2lnID0gVGltZVNpZ25hdHVyZSgpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBzaWduYXR1cmVfYXRfdGltZShzZWxmLCB0aW1lKToKICAgICAgICAjIFRPRE8KICAgICAgICByZXR1cm4gVGltZVNpZ25hdHVyZSg0LCA0KQoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LS0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGluZS5zdGFydHN3aXRoKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmRlZmluZXMgPSB7fQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBiNWQzNTEzNTZkMWZhMWNhOWE2ZjRjYmEyYTMyMzlhMDFiZWM3YjU0Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIApIb2xkTgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgaWYgc2VsZi5zdGF0ZSA9PSBzZWxmLlN0YXRlLkJFQVRfSU5GTzoKICAgICAgICAgICAgdGltZXNpZyA9IFRpbWVTaWduYXR1cmUoaW50KHNwbGl0dGVkWzFdKSwgaW50KHNwbGl0dGVkWzJdKSkKPT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLm1ldGFkYXRhX2RpZmZpY3VsdHkgPSBuZXh0KGZpbHRlcihsYW1iZGEgZDogZC50YWcgPT0gcGFyc2VyLmRpZmZpY3VsdHkudG9feG1sX25hbWUoKSwgcGFyc2VyLm1ldGFkYXRhLmZpbmQoJ2RpZmZpY3VsdHknKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoZidOZXcgYnBtOiB7c2VsZi5icG1zW25vd119JykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>for h</last-search>
+      <last-search>division</last-search>
       <last-offset />
-      <last-pattern>for h</last-pattern>
-      <last-replace>char</last-replace>
-      <last-substitute encoding="base64">XDxjXD4=</last-substitute>
+      <last-pattern>division</last-pattern>
+      <last-replace>&quot;division&quot;</last-replace>
+      <last-substitute>division</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -350,11 +371,19 @@
         <entry>btn</entry>
         <entry>beat</entry>
         <entry>for h</entry>
+        <entry>split</entry>
+        <entry>ValuError</entry>
+        <entry>define</entry>
+        <entry>defines</entry>
+        <entry>[\([0-9]*]\)]</entry>
+        <entry>division</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
         <entry encoding="base64">JzwsJz5z</entry>
         <entry encoding="base64">JzwsJz5zL1w8Y1w+L2NoYXIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1tcKFswLTldKl1cKV0ve2RpdmlzaW9uOiBcMX0v</entry>
+        <entry encoding="base64">JzwsJz5zL2RpdmlzaW9uLyJkaXZpc2lvbiIv</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

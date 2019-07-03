@@ -9,6 +9,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Python Console">
         <Item>
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
@@ -22,7 +30,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Terminal</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -30,7 +38,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
     </option>
