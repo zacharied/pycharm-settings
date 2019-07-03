@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1562175575134">
+      <file name="/Dummy.txt" timestamp="1562176423393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vox2ksh/converter.py" timestamp="1562080260138">
@@ -17,18 +17,15 @@
       <file name="/Python Console" timestamp="1562175198155">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562175493325">
-        <mark key="'" line="449" column="64" />
-        <mark key="[" line="494" column="0" />
-        <mark key="]" line="495" column="52" />
-        <mark key="." line="495" column="52" />
-        <mark key="^" line="495" column="52" />
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562176419457">
+        <mark key="'" line="328" column="30" />
+        <mark key="[" line="328" column="25" />
+        <mark key="]" line="328" column="47" />
+        <mark key="." line="328" column="47" />
+        <mark key="^" line="328" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="333" column="34" filename="$USER_HOME$/PycharmProjects/vox2ksh/converter.py" />
-      <jump line="334" column="17" filename="$USER_HOME$/PycharmProjects/vox2ksh/converter.py" />
-      <jump line="335" column="17" filename="$USER_HOME$/PycharmProjects/vox2ksh/converter.py" />
       <jump line="337" column="22" filename="$USER_HOME$/PycharmProjects/vox2ksh/converter.py" />
       <jump line="478" column="19" filename="$USER_HOME$/PycharmProjects/vox2ksh/converter.py" />
       <jump line="477" column="19" filename="$USER_HOME$/PycharmProjects/vox2ksh/converter.py" />
@@ -59,7 +56,6 @@
       <jump line="308" column="43" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="307" column="23" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="306" column="53" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="305" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="552" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="401" column="12" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="16" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -110,7 +106,6 @@
       <jump line="116" column="4" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="89" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="92" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="94" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="98" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="100" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="102" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -126,10 +121,15 @@
       <jump line="436" column="27" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="448" column="24" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="449" column="64" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="94" column="18" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="305" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="327" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="328" column="30" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGJ0biA9PSBCdXR0b24uRlhfTCBvciBidG4gPT0gQnV0dG9uLkZYX1I6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB5ZXMgPSAnMicKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhvbGQgPSAnMScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIE1ha2Ugc3VyZSAK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -333,49 +333,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>in the ksh format</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50X3RpbWVzaWdcPg==</text>
+        <text>bpm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGl2aXNpb24gPSBwYXJhbXNbJ2RpdmlzaW9uJ10gb3IgOAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGJ0biA9PSBCdXR0b24uRlhfTCBvciBidG4gPT0gQnV0dG9uLkZYX1I6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB5ZXMgPSAnMicKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhvbGQgPSAnMScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIE1ha2Ugc3VyZSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgYnRuID09IEJ1dHRvbi5GWF9MIG9yIGJ0biA9PSBCdXR0b24uRlhfUjoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHllcyA9ICcyJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaG9sZCA9ICcxJwoK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGJ0biA9PSBCdXR0b24uRlhfTCBvciBidG4gPT0gQnV0dG9uLkZYX1I6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB5ZXMgPSAnMicKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhvbGQgPSAnMScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgYnRuID09IEJ1dHRvbi5GWF9MIG9yIGJ0biA9PSBCdXR0b24uRlhfUjoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHllcyA9ICcyJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaG9sZCA9ICcxJwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VuZF8K</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZAo=</text>
+        <text encoding="base64">ICAgICAgICBzb3VuZF8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBmcm9tX3ByZV92NF92b3hfc291bmRfaWQoY2xzLCBpZCk6CiAgICAgICAgaWQK</text>
+        <text encoding="base64">ICAgICAgICBpZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIGRlZiBmcm9tX3ByZV92NF92b3hfc291bmRfaWQoY2xzLCBpZCk6CiAgICAgICAgaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmFpc2UgUGFyc2VyRXJyb3IoJ2ZvbycsIDEyKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">cmFpc2UgUGFyc2VyRXJyb3IoJ2ZvbycsIDEyKQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50X3RpbWVzaWdcPg==</last-search>
+      <last-search>bpm</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50X3RpbWVzaWdcPg==</last-pattern>
+      <last-pattern>bpm</last-pattern>
       <last-replace>&quot;division&quot;</last-replace>
       <last-substitute>division</last-substitute>
       <last-dir>1</last-dir>
@@ -383,8 +383,6 @@
     </search>
     <history>
       <history-search>
-        <entry>beat</entry>
-        <entry>for h</entry>
         <entry>split</entry>
         <entry>ValuError</entry>
         <entry>define</entry>
@@ -403,6 +401,8 @@
         <entry encoding="base64">XDxmcm9tX3ByZV92NF92b3hfc291bmRfaWRcPg==</entry>
         <entry>lambda e</entry>
         <entry encoding="base64">XDxjdXJyZW50X3RpbWVzaWdcPg==</entry>
+        <entry>int</entry>
+        <entry>bpm</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
