@@ -40,12 +40,12 @@
         <mark key="." line="219" column="16" />
         <mark key="^" line="219" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562349233017">
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562354366312">
         <mark key="'" line="289" column="8" />
-        <mark key="[" line="516" column="116" />
-        <mark key="]" line="516" column="117" />
-        <mark key="^" line="516" column="117" />
-        <mark key="." line="516" column="117" />
+        <mark key="[" line="93" column="50" />
+        <mark key="]" line="96" column="11" />
+        <mark key="^" line="96" column="11" />
+        <mark key="." line="96" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -152,7 +152,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>effec</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -356,7 +356,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>effec</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19qYWNrZXRfaWZzX251bWVyXD4=</text>
