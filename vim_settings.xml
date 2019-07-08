@@ -40,13 +40,6 @@
         <mark key="." line="219" column="16" />
         <mark key="^" line="219" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562356158217">
-        <mark key="'" line="79" column="8" />
-        <mark key="[" line="522" column="0" />
-        <mark key="]" line="522" column="0" />
-        <mark key="^" line="524" column="112" />
-        <mark key="." line="522" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="398" column="28" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
