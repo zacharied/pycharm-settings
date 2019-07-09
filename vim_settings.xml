@@ -40,16 +40,14 @@
         <mark key="." line="219" column="16" />
         <mark key="^" line="219" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562691593620">
-        <mark key="'" line="103" column="17" />
-        <mark key="[" line="79" column="32" />
-        <mark key="]" line="79" column="31" />
-        <mark key="^" line="79" column="31" />
-        <mark key="." line="79" column="31" />
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562695195770">
+        <mark key="'" line="14" column="18" />
+        <mark key="[" line="1184" column="96" />
+        <mark key="]" line="1186" column="0" />
+        <mark key="." line="1186" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="100" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="102" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="104" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -149,10 +147,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="884" column="29" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="103" column="17" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="14" column="18" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -365,28 +364,28 @@
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfdm94X25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnQ0FNX1JvdFgnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICdDQU1fUmFkaScKICAgICAgICB9KQoKICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfa3NoX25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnem9vbV90b3AnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICd6b29tX2JvdHRvbScKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF9NQVBfCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfdm94X25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnQ0FNX1JvdFgnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICdDQU1fUmFkaScKICAgICAgICB9KQoKICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfa3NoX25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnem9vbV90b3AnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICd6b29tX2JvdHRvbScKICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b19rc2hfc2ltcGxlX25hbWUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX25hbWUoKS5nZXQoc2VsZikK</text>
+        <text encoding="base64">ICAgIF9NQVBfCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzY2FsaW5nX2ZhY3RvcihzZWxmKToKICAgICAgICBpZiBzZWxmID09IHNlbGYuUk9UX1g6CiAgICAgICAgICAgIHJldHVybiAxNTAuMAogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLlJBRF9JOgogICAgICAgICAgICByZXR1cm4gLTE1MC4wCgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiB0b19rc2hfc2ltcGxlX25hbWUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX25hbWUoKS5nZXQoc2VsZikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZyb21fdm94X25hbWUoY2xzLCB2b3hfbmFtZSk6CiAgICAgICAgaWYgdm94X25hbWUgPT0gJ0NBTV9Sb3RYJzoKICAgICAgICAgICAgcmV0dXJuIGNscy5ST1RfWAogICAgICAgIGVsaWYgdm94X25hbWUgPT0gJ0NBTV9SYWRpJzoKICAgICAgICAgICAgcmV0dXJuIGNscy5SQURfSQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgZGVmIHRvX2tzaF9uYW1lKHNlbGYpOgogICAgICAgIGlmIHNlbGYgPT0gc2VsZi5ST1RfWDoKICAgICAgICAgICAgcmV0dXJuICd6b29tX3RvcCcKICAgICAgICBlbGlmIHNlbGYgPT0gc2VsZi5SQURfSToKICAgICAgICAgICAgcmV0dXJuICd6b29tX2JvdHRvbScK</text>
+        <text encoding="base64">ICAgIGRlZiBzY2FsaW5nX2ZhY3RvcihzZWxmKToKICAgICAgICBpZiBzZWxmID09IHNlbGYuUk9UX1g6CiAgICAgICAgICAgIHJldHVybiAxNTAuMAogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLlJBRF9JOgogICAgICAgICAgICByZXR1cm4gLTE1MC4wCgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -434,10 +433,10 @@
         <entry encoding="base64">JzwsJz5zL1tcKFswLTldKl1cKV0ve2RpdmlzaW9uOiBcMX0v</entry>
         <entry encoding="base64">JzwsJz5zL2RpdmlzaW9uLyJkaXZpc2lvbiIv</entry>
         <entry>set relativenumb</entry>
-        <entry>set relativenumber</entry>
-        <entry>set number</entry>
         <entry>ww</entry>
         <entry>nohl</entry>
+        <entry>set relativenumber</entry>
+        <entry>set number</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
