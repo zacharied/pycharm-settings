@@ -40,11 +40,12 @@
         <mark key="." line="219" column="16" />
         <mark key="^" line="219" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562696299157">
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562696548765">
         <mark key="'" line="14" column="18" />
-        <mark key="[" line="1184" column="76" />
-        <mark key="]" line="1186" column="0" />
-        <mark key="." line="1186" column="0" />
+        <mark key="[" line="1186" column="61" />
+        <mark key="]" line="1186" column="73" />
+        <mark key="." line="1186" column="73" />
+        <mark key="^" line="1186" column="73" />
       </file>
     </filemarks>
     <jumps>
@@ -150,8 +151,8 @@
       <jump line="14" column="18" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aXRoIG9wZW4oRkFJTFVSRVNfT1VULCAK</text>
+      <register name="&quot;" type="4">
+        <text>FAILURES_OUT</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -355,7 +356,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>traceback.format_exc()}')</text>
+        <text>FAILURES_OUT</text>
       </register>
       <register name="/" type="4">
         <text>@cache</text>
