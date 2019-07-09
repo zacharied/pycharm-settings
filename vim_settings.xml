@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1562356562142">
+      <file name="/Dummy.txt" timestamp="1562679925590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vox2ksh/converter.py" timestamp="1562080260138">
@@ -40,13 +40,15 @@
         <mark key="." line="219" column="16" />
         <mark key="^" line="219" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562613547054">
-        <mark key="'" line="884" column="29" />
-        <mark key="[" line="944" column="25" />
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562680918266">
+        <mark key="'" line="103" column="17" />
+        <mark key="[" line="107" column="8" />
+        <mark key="]" line="107" column="19" />
+        <mark key="^" line="107" column="19" />
+        <mark key="." line="107" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="98" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="100" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="102" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -146,10 +148,11 @@
       <jump line="947" column="76" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="884" column="29" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="103" column="17" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>copy_jacket</text>
+        <text>_name</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -353,49 +356,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>copy_jacket</text>
+        <text>_name</text>
       </register>
       <register name="/" type="4">
-        <text>no_clobber</text>
+        <text>@cache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXJncGFyc2VyX2pvYi5hZGRfYXJndW1lbnQoJy1jJywgJy0tY29udmVydCcsIGFjdGlvbj0nc3RvcmVfdHJ1ZScsIGhlbHA9J2Z1bGwgY29udmVyc2lvbiAoZGVmYXVsdCknKQo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXJncGFyc2VyLmFkZF9hcmd1bWVudCgnLXAnLCAnLS1wcmV2aWV3LW9ubHknLCBhY3Rpb249J3N0b3JlX3RydWUnKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBzY2FsaW5nX2ZhY3RvcihzZWxmKToKICAgICAgICBpZiBzZWxmID09IHNlbGYuUk9UX1g6CiAgICAgICAgICAgIHJldHVybiAxNTAuMAogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLlJBRF9JOgogICAgICAgICAgICByZXR1cm4gLTE1MC4wCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXJncGFyc2VyLmFkZF9hcmd1bWVudCgnLW0nLCAnLS1tZXRhZGF0YS1vbmx5JywgYWN0aW9uPSdzdG9yZV90cnVlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXJncGFyc2VyX2pvYi5hZGRfYXJndW1lbnQoJy1jJywgJy0tY29udmVydCcsIGFjdGlvbj0nc3RvcmVfdHJ1ZScsIGhlbHA9J2Z1bGwgY29udmVyc2lvbiAoZGVmYXVsdCknKQo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZyb21fdm94X25hbWUoY2xzLCB2b3hfbmFtZSk6CiAgICAgICAgaWYgdm94X25hbWUgPT0gJ0NBTV9Sb3RYJzoKICAgICAgICAgICAgcmV0dXJuIGNscy5ST1RfWAogICAgICAgIGVsaWYgdm94X25hbWUgPT0gJ0NBTV9SYWRpJzoKICAgICAgICAgICAgcmV0dXJuIGNscy5SQURfSQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgZGVmIHRvX2tzaF9uYW1lKHNlbGYpOgogICAgICAgIGlmIHNlbGYgPT0gc2VsZi5ST1RfWDoKICAgICAgICAgICAgcmV0dXJuICd6b29tX3RvcCcKICAgICAgICBlbGlmIHNlbGYgPT0gc2VsZi5SQURfSToKICAgICAgICAgICAgcmV0dXJuICd6b29tX2JvdHRvbScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXJncGFyc2VyLmFkZF9hcmd1bWVudCgnLWMnLCAnLS1jb252ZXJ0JywgYWN0aW9uPSdzdG9yZV90cnVlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXJncGFyc2VyLmFkZF9hcmd1bWVudCgpCg==</text>
+        <text encoding="base64">ICAgIAogICAgZGVmIG1hcF9zY2FsaW5nX2ZhY3Rvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXJncGFyc2VyLmFkZF9hcmd1bWVudCgnLXQnLCAnLS10ZXN0Y2FzZScpCg==</text>
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIEBjYWNoZShtYXhzaXplPU5vbmUpCiAgICBkZWYgbWFwX3NjYWxpbmdfCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXJncGFyc2VyLmFkZF9hcmd1bWVudCgnLW4nLCAnLS1uby1tZWRpYScsIGFjdGlvbj0nc3RvcmVfdHJ1ZScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXJncGFyc2VyLmFkZF9hcmd1bWVudCgnLUonLCAnLS1qYWNrZXQtZGlyJywgZGVmYXVsdD0nRDpcXFNEVlgtRXh0cmFjdCAoamspJykK</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXJncGFyc2VyLmFkZF9hcmd1bWVudCgnLWEnLCAnLS1hdWRpbycsIGFjdGlvbj0nYXBwZW5kX2NvbnN0JywgZGVzdD0nam9icycsIGNvbnN0PSdhdWRpbycpCmFyZ3BhcnNlci5hZGRfYXJndW1lbnQoJy1wJywgJy0tcHJldmlldycsIGFjdGlvbj0nYXBwZW5kX2NvbnN0JywgZGVzdD0nam9icycsIGNvbnN0PSdwcmV2aWV3JykK</text>
+        <text encoding="base64">ICAgIEBjYWNoZShtYXhzaXplPU5vbmUpCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBtYXBfdm94X25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgUk9UX1gK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>no_clobber</last-search>
+      <last-search>@cache</last-search>
       <last-offset />
-      <last-pattern>no_clobber</last-pattern>
+      <last-pattern>@cache</last-pattern>
       <last-replace>&quot;division&quot;</last-replace>
       <last-substitute>division</last-substitute>
       <last-dir>1</last-dir>
@@ -403,7 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50X3RpbWVzaWdcPg==</entry>
         <entry>int</entry>
         <entry>bpm</entry>
         <entry>1001</entry>
@@ -423,6 +425,7 @@
         <entry>* 100</entry>
         <entry encoding="base64">XDxzY2FsaW5nX2ZhY3Rvclw+</entry>
         <entry>no_clobber</entry>
+        <entry>@cache</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
