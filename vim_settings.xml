@@ -40,9 +40,9 @@
         <mark key="." line="219" column="16" />
         <mark key="^" line="219" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562695195770">
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562696299157">
         <mark key="'" line="14" column="18" />
-        <mark key="[" line="1184" column="96" />
+        <mark key="[" line="1184" column="76" />
         <mark key="]" line="1186" column="0" />
         <mark key="." line="1186" column="0" />
       </file>
@@ -151,7 +151,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aXRoIG9wZW4oRkFJTFVSRVNfT1VULCAK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -355,7 +355,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>auto()</text>
+        <text>traceback.format_exc()}')</text>
       </register>
       <register name="/" type="4">
         <text>@cache</text>
@@ -364,31 +364,31 @@
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aXRoIG9wZW4oRkFJTFVSRVNfT1VULCAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfdm94X25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnQ0FNX1JvdFgnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICdDQU1fUmFkaScKICAgICAgICB9KQoKICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfa3NoX25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnem9vbV90b3AnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICd6b29tX2JvdHRvbScKICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF9NQVBfCgo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfdm94X25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnQ0FNX1JvdFgnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICdDQU1fUmFkaScKICAgICAgICB9KQoKICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfa3NoX25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnem9vbV90b3AnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICd6b29tX2JvdHRvbScKICAgICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9NQVBfCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b19rc2hfc2ltcGxlX25hbWUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX25hbWUoKS5nZXQoc2VsZikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBzY2FsaW5nX2ZhY3RvcihzZWxmKToKICAgICAgICBpZiBzZWxmID09IHNlbGYuUk9UX1g6CiAgICAgICAgICAgIHJldHVybiAxNTAuMAogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLlJBRF9JOgogICAgICAgICAgICByZXR1cm4gLTE1MC4wCgo=</text>
+        <text encoding="base64">ICAgIGRlZiB0b19rc2hfc2ltcGxlX25hbWUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX25hbWUoKS5nZXQoc2VsZikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzY2FsaW5nX2ZhY3RvcihzZWxmKToKICAgICAgICBpZiBzZWxmID09IHNlbGYuUk9UX1g6CiAgICAgICAgICAgIHJldHVybiAxNTAuMAogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLlJBRF9JOgogICAgICAgICAgICByZXR1cm4gLTE1MC4wCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -445,6 +445,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
