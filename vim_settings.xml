@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1562699555309">
+      <file name="/Dummy.txt" timestamp="1562783145335">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vox2ksh/converter.py" timestamp="1562080260138">
@@ -24,7 +24,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1562344705843">
+      <file name="/Python Console" timestamp="1562782724292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/data/vox_09_ifs/003_0871_thestarineclipse_siikee_3e.vox" timestamp="1562349790644">
@@ -40,47 +40,18 @@
         <mark key="." line="219" column="16" />
         <mark key="^" line="219" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562696548765">
-        <mark key="'" line="14" column="18" />
-        <mark key="[" line="1186" column="61" />
-        <mark key="]" line="1186" column="73" />
-        <mark key="." line="1186" column="73" />
-        <mark key="^" line="1186" column="73" />
+      <file name="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" timestamp="1562783119937">
+        <mark key="'" line="16656" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562783080577">
+        <mark key="'" line="1011" column="21" />
+        <mark key="[" line="728" column="119" />
+        <mark key="]" line="728" column="119" />
+        <mark key="." line="728" column="119" />
+        <mark key="^" line="728" column="119" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="102" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="104" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="107" column="52" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="379" column="62" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="88" column="11" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="87" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="85" column="12" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="319" column="35" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="428" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="436" column="27" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="448" column="24" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="449" column="64" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="94" column="18" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="305" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="327" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="328" column="30" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="25" column="40" filename="$USER_HOME$/Code/vox2ksh/data/music_db.xml" />
-      <jump line="39814" column="42" filename="$USER_HOME$/Code/vox2ksh/data/music_db.xml" />
-      <jump line="39872" column="42" filename="$USER_HOME$/Code/vox2ksh/data/music_db.xml" />
-      <jump line="78474" column="6" filename="$USER_HOME$/Code/vox2ksh/data/music_db.xml" />
-      <jump line="746" column="13" filename="$USER_HOME$/Code/vox2ksh/data/vox_11_ifs/004_1005_its_a_new_day_papikorin_5m.vox" />
-      <jump line="28" column="0" filename="$USER_HOME$/Code/vox2ksh/data/vox_11_ifs/004_1005_its_a_new_day_papikorin_5m.vox" />
-      <jump line="745" column="7" filename="$USER_HOME$/Code/vox2ksh/data/vox_11_ifs/004_1005_its_a_new_day_papikorin_5m.vox" />
-      <jump line="51" column="0" filename="$USER_HOME$/Code/vox2ksh/data/vox_11_ifs/004_1005_its_a_new_day_papikorin_5m.vox" />
-      <jump line="40" column="35" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="284" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="287" column="6" filename="$USER_HOME$/Code/vox2ksh/data/music_db.xml" />
-      <jump line="284" column="4" filename="$USER_HOME$/Code/vox2ksh/data/music_db.xml" />
-      <jump line="265" column="37" filename="$USER_HOME$/Code/vox2ksh/data/music_db.xml" />
-      <jump line="632" column="37" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="723" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="732" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="763" column="23" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -110,7 +81,6 @@
       <jump line="430" column="27" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="497" column="77" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="756" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="701" column="34" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="729" column="91" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="12" column="17" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="97" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -145,14 +115,47 @@
       <jump line="79" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="868" column="7" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="947" column="76" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="884" column="29" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="103" column="17" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="14" column="18" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="165" column="27" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="433" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="107" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="21" column="6" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1166" column="56" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="641" column="14" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="695" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="696" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="699" column="22" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="884" column="35" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="701" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="711" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1011" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="366" column="9" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="3478" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="4082" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="4302" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="4979" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="5029" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="6626" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="6916" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="7207" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="7691" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="7982" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="8128" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="8952" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="9343" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="15928" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="16025" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="16219" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="16413" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="16607" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="16656" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TW9kdWxhcml6ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -356,49 +359,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FAILURES_OUT</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>@cache</text>
+        <text>tilt=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TW9kdWxhcml6ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiB0b2tlbi5zdGFydHN3aXRoKCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aXRoIG9wZW4oRkFJTFVSRVNfT1VULCAK</text>
+        <text encoding="base64">TW9kdWxhcml6ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aXRoIG9wZW4oRkFJTFVSRVNfT1VULCAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfdm94X25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnQ0FNX1JvdFgnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICdDQU1fUmFkaScKICAgICAgICB9KQoKICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfa3NoX25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnem9vbV90b3AnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICd6b29tX2JvdHRvbScKICAgICAgICB9KQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIF9NQVBfCgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfdm94X25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnQ0FNX1JvdFgnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICdDQU1fUmFkaScKICAgICAgICB9KQoKICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfa3NoX25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnem9vbV90b3AnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICd6b29tX2JvdHRvbScKICAgICAgICB9KQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIF9NQVBfCgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b19rc2hfc2ltcGxlX25hbWUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX25hbWUoKS5nZXQoc2VsZikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>@cache</last-search>
+      <last-search>tilt=</last-search>
       <last-offset />
-      <last-pattern>@cache</last-pattern>
+      <last-pattern>tilt=</last-pattern>
       <last-replace>&quot;division&quot;</last-replace>
       <last-substitute>division</last-substitute>
       <last-dir>1</last-dir>
@@ -406,11 +409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>int</entry>
-        <entry>bpm</entry>
-        <entry>1001</entry>
-        <entry encoding="base64">PGlkPSIxMDAx</entry>
-        <entry>id=&quot;1000</entry>
         <entry>skip_extra</entry>
         <entry>fallback</entry>
         <entry encoding="base64">XDxlZmZlY3RcPg==</entry>
@@ -426,6 +424,11 @@
         <entry encoding="base64">XDxzY2FsaW5nX2ZhY3Rvclw+</entry>
         <entry>no_clobber</entry>
         <entry>@cache</entry>
+        <entry>RevMap</entry>
+        <entry encoding="base64">XDxldmVudHNfdGlsdG1vZGVcPg==</entry>
+        <entry>events_tiltmode</entry>
+        <entry>process_state</entry>
+        <entry>tilt=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
@@ -439,6 +442,7 @@
         <entry>set relativenumber</entry>
         <entry>set number</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
