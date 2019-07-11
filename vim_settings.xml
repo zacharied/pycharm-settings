@@ -43,19 +43,11 @@
       <file name="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" timestamp="1562783119937">
         <mark key="'" line="16656" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562783080577">
-        <mark key="'" line="1011" column="21" />
-        <mark key="[" line="728" column="119" />
-        <mark key="]" line="728" column="119" />
-        <mark key="." line="728" column="119" />
-        <mark key="^" line="728" column="119" />
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562862000848">
+        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="723" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="732" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="763" column="23" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="765" column="24" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="768" column="55" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="773" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="754" column="12" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -123,13 +115,6 @@
       <jump line="107" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="21" column="6" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1166" column="56" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="641" column="14" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="695" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="696" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="699" column="22" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="884" column="35" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="701" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="711" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1011" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="366" column="9" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
@@ -152,6 +137,17 @@
       <jump line="16413" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
       <jump line="16607" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
       <jump line="16656" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
+      <jump line="717" column="18" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="699" column="29" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="701" column="28" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="884" column="42" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="885" column="63" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1052" column="5" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="696" column="28" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="695" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="641" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="728" column="83" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -362,7 +358,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>tilt=</text>
+        <text>Tilt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkK</text>
@@ -399,9 +395,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tilt=</last-search>
+      <last-search>Tilt</last-search>
       <last-offset />
-      <last-pattern>tilt=</last-pattern>
+      <last-pattern>Tilt</last-pattern>
       <last-replace>&quot;division&quot;</last-replace>
       <last-substitute>division</last-substitute>
       <last-dir>1</last-dir>
@@ -409,8 +405,6 @@
     </search>
     <history>
       <history-search>
-        <entry>skip_extra</entry>
-        <entry>fallback</entry>
         <entry encoding="base64">XDxlZmZlY3RcPg==</entry>
         <entry encoding="base64">XDx0b19rc2hfbmFtZVw+</entry>
         <entry>effect</entry>
@@ -429,6 +423,8 @@
         <entry>events_tiltmode</entry>
         <entry>process_state</entry>
         <entry>tilt=</entry>
+        <entry>tilt</entry>
+        <entry>Tilt</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
