@@ -29,6 +29,13 @@
         <mark key="^" line="75" column="20" />
         <mark key="." line="75" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563131985828">
+        <mark key="[" line="752" column="42" />
+        <mark key="]" line="752" column="42" />
+        <mark key="^" line="752" column="42" />
+        <mark key="." line="752" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/out/freedomdive_xi/advanced.ksh" timestamp="1563132023900" />
       <file name="$USER_HOME$/Code/vox2ksh/data/music_db.xml" timestamp="1562344852012">
         <mark key="'" line="267" column="37" />
         <mark key="[" line="217" column="18" />
@@ -46,9 +53,15 @@
       <file name="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" timestamp="1562783119937">
         <mark key="'" line="16656" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1563131859161">
+        <mark key="'" line="222" column="8" />
+        <mark key="[" line="1067" column="27" />
+        <mark key="]" line="1067" column="32" />
+        <mark key="^" line="1067" column="32" />
+        <mark key="." line="1067" column="32" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="768" column="55" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="773" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="754" column="12" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="779" column="86" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -148,10 +161,11 @@
       <jump line="641" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="728" column="83" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="222" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdkb3VibGUtZngnOiAnCg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -355,49 +369,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>This will</text>
       </register>
       <register name="/" type="4">
-        <text>Tilt</text>
+        <text encoding="base64">XDxmcm9tX2VmZmVjdF9pbmZvX2xpbmVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiB0b2tlbi5zdGFydHN3aXRoKCcK</text>
+        <text encoding="base64">ICAgICdkb3VibGUtZngnOiAnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TW9kdWxhcml6ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIFRoaXMgd2lsbCBhbGxvdyB0aGUgc2Vjb25kIGxpbmUgdG8gb3ZlcnJpZGUgdGhlIGZpcnN0Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aXRoIG9wZW4oRkFJTFVSRVNfT1VULCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBUaGlzIHdpbGwgYWxsb3cgdGhlIHNlY29uZCBsaW5lIHRvIG92ZXJyaWRlIHRoZSBmaXJzdC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxpbmUuaXNzcGFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfdm94X25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnQ0FNX1JvdFgnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICdDQU1fUmFkaScKICAgICAgICB9KQoKICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBtYXBfa3NoX25hbWUoY2xzKToKICAgICAgICByZXR1cm4gUmV2TWFwKHsKICAgICAgICAgICAgY2xzLlJPVF9YOiAnem9vbV90b3AnLAogICAgICAgICAgICBjbHMuUkFEX0k6ICd6b29tX2JvdHRvbScKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF9NQVBfCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiB0b2tlbi5zdGFydHN3aXRoKCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TW9kdWxhcml6ZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Tilt</last-search>
+      <last-search encoding="base64">XDxmcm9tX2VmZmVjdF9pbmZvX2xpbmVcPg==</last-search>
       <last-offset />
-      <last-pattern>Tilt</last-pattern>
+      <last-pattern encoding="base64">XDxmcm9tX2VmZmVjdF9pbmZvX2xpbmVcPg==</last-pattern>
       <last-replace>&quot;division&quot;</last-replace>
       <last-substitute>division</last-substitute>
       <last-dir>1</last-dir>
@@ -405,7 +419,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlZmZlY3RcPg==</entry>
         <entry encoding="base64">XDx0b19rc2hfbmFtZVw+</entry>
         <entry>effect</entry>
         <entry>4</entry>
@@ -425,6 +438,7 @@
         <entry>tilt=</entry>
         <entry>tilt</entry>
         <entry>Tilt</entry>
+        <entry encoding="base64">XDxmcm9tX2VmZmVjdF9pbmZvX2xpbmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
@@ -437,8 +451,8 @@
         <entry>nohl</entry>
         <entry>set relativenumber</entry>
         <entry>set number</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
