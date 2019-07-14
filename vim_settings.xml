@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1562783145335">
+      <file name="/Dummy.txt" timestamp="1563125117943">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/vox2ksh/converter.py" timestamp="1562080260138">
@@ -14,18 +14,14 @@
         <mark key="^" line="45" column="4" />
         <mark key="n" line="127" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/data/vox_11_ifs/004_1005_its_a_new_day_papikorin_5m.vox" timestamp="1562179244157">
-        <mark key="a" line="745" column="7" />
-        <mark key="'" line="51" column="0" />
+      <file name="/Python Console" timestamp="1562782724292">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/data/vox_11_ifs/004_1058_pb_medley_jubeat_5m.vox" timestamp="1562179395301">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
-      </file>
-      <file name="/Python Console" timestamp="1562782724292">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/data/vox_09_ifs/003_0871_thestarineclipse_siikee_3e.vox" timestamp="1562349790644">
         <mark key="[" line="75" column="20" />
@@ -40,11 +36,15 @@
         <mark key="." line="219" column="16" />
         <mark key="^" line="219" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" timestamp="1562783119937">
-        <mark key="'" line="16656" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562862000848">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/data/vox_11_ifs/004_1005_its_a_new_day_papikorin_5m.vox" timestamp="1562179244157">
+        <mark key="a" line="745" column="7" />
+        <mark key="'" line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" timestamp="1562783119937">
+        <mark key="'" line="16656" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -449,6 +449,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
