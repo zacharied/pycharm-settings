@@ -81,9 +81,15 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563311570274">
+        <mark key="'" line="846" column="20" />
+        <mark key="[" line="802" column="47" />
+        <mark key="]" line="802" column="63" />
+        <mark key="^" line="802" column="63" />
+        <mark key="." line="802" column="63" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="641" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="728" column="83" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="222" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
@@ -130,7 +136,6 @@
       <jump line="785" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="942" column="44" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1203" column="81" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="803" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1278" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1272" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -153,7 +158,6 @@
       <jump line="1271" column="16" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1202" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="17" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="18" column="7" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="19" column="92" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="801" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -162,7 +166,6 @@
       <jump line="830" column="16" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1004" column="47" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1273" column="44" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="654" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1129" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -178,15 +181,19 @@
       <jump line="1207" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="683" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="702" column="16" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="802" column="48" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="847" column="56" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1193" column="44" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="802" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="847" column="81" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1194" column="16" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1204" column="16" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1273" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="17" column="45" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="803" column="36" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="846" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>path</text>
+        <text>self.get_metadata(&quot;ascii&quot;)</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -390,10 +397,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>self.get_metadata(&quot;ascii&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>write_to</text>
+        <text encoding="base64">XDx3cml0ZV90b19leGNlcHRpb25zXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWZpbmUgPSBLc2hFZmZlY3REZWZpbmUoKQogICAgICAgIGRlZmluZS5pbmRleCA9IGluZGV4CiAgICAgICAgZGVmaW5lLmVmZmVjdCA9IFNvdW5kRWZmZWN0LkZMQU5HRVIKCiAgICAgICAgaWYgc3BsaXR0ZWRbMF0gPT0gJzEnIG9yIHNwbGl0dGVkWzBdID09ICc4JzoKICAgICAgICAgICAgIyBSZXRyaWdnZXIgLyBlY2hvICh0aGV5J3JlIHByZXR0eSBtdWNoIHRoZSBzYW1lIHRoaW5nKQogICAgICAgICAgICBkZWZpbmUuZWZmZWN0ID0gU291bmRFZmZlY3QuUkVUUklHR0VSCgogICAgICAgICAgICBpZiBmbG9hdChzcGxpdHRlZFszXSkgPCAwOgogICAgICAgICAgICAgICAgZGVmaW5lLm1haW5fcGFyYW0gPSBpbnQoZmxvYXQoc3BsaXR0ZWRbMV0pICogMTYpCiAgICAgICAgICAgICAgICBkZWZpbmUucGFyYW1zWyd3YXZlTGVuZ3RoJ10gPSBmIjEve2RlZmluZS5tYWluX3BhcmFtfSIKICAgICAgICAgICAgICAgIGRlZmluZS5wYXJhbXNbJ3VwZGF0ZVBlcmlvZCddID0gIjEvMTgiCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBkZWZpbmUubWFpbl9wYXJhbSA9IGludCgoNCAvIGZsb2F0KHNwbGl0dGVkWzNdKSkgKiBmbG9hdChzcGxpdHRlZFsxXSkpCiAgICAgICAgICAgICAgICBkZWZpbmUucGFyYW1zWyd3YXZlTGVuZ3RoJ10gPSBmJzEve2RlZmluZS5tYWluX3BhcmFtfScKICAgICAgICAgICAgICAgIGRlZmluZS5wYXJhbXNbJ3VwZGF0ZVBlcmlvZCddID0gZiIxL3s0IC8gZmxvYXQoc3BsaXR0ZWRbM10pfSIKICAgICAgICAgICAgcmF0ZSA9IGYne2ludChmbG9hdChzcGxpdHRlZFs1XSkgKiAxMDApfSUnCiAgICAgICAgICAgIGZlZWRiYWNrX2xldmVsID0gZid7aW50KGZsb2F0KHNwbGl0dGVkWzRdKSAqIDEwMCl9JScKCiAgICAgICAgICAgIGRlZmluZS5wYXJhbXNbJ21peCddID0gZicwJT57aW50KGZsb2F0KHNwbGl0dGVkWzJdKSl9JScKCiAgICAgICAgICAgIGlmIGZlZWRiYWNrX2xldmVsICE9ICcxMDAlJzoKICAgICAgICAgICAgICAgIGRlZmluZS5lZmZlY3QgPSBTb3VuZEVmZmVjdC5FQ0hPCiAgICAgICAgICAgICAgICBkZWZpbmUucGFyYW1zWydmZWVkYmFja0xldmVsJ10gPSBmZWVkYmFja19sZXZlbAogICAgICAgICAgICAgICAgaWYgc3BsaXR0ZWRbMF0gPT0gJzgnOgogICAgICAgICAgICAgICAgICAgIGRlZmluZS5wYXJhbXNbJ3VwZGF0ZVBlcmlvZCddID0gMAogICAgICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1sndXBkYXRlVHJpZ2dlciddID0gJ29mZj5vbicgaWYgc3BsaXR0ZWRbMF0gPT0gJzgnIGVsc2UgJ29mZicKICAgICAgICAgICAgZWxpZiBmbG9hdChzcGxpdHRlZFszXSkgPCAwOgogICAgICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1sncmF0ZSddID0gcmF0ZQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1sncmF0ZSddID0gcmF0ZQogICAgICAgICAgICAgICAgaWYgc3BsaXR0ZWRbMF0gPT0gJzgnOgogICAgICAgICAgICAgICAgICAgIGRlZmluZS5wYXJhbXNbJ3VwZGF0ZVRyaWdnZXInXSA9ICdvZmY+b24nCiAgICAgICAgICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1sndXBkYXRlUGVyaW9kJ10gPSAwCgogICAgICAgIGVsaWYgc3BsaXR0ZWRbMF0gPT0gJzInOgogICAgICAgICAgICAjIEdhdGUKICAgICAgICAgICAgZGVmaW5lLmVmZmVjdCA9IFNvdW5kRWZmZWN0LkdBVEUKICAgICAgICAgICAgZGVmaW5lLm1haW5fcGFyYW0gPSAoMiAvIGZsb2F0KHNwbGl0dGVkWzNdKSkgKiBmbG9hdChzcGxpdHRlZFsyXSkKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snd2F2ZUxlbmd0aCddID0gZicxL3tkZWZpbmUubWFpbl9wYXJhbX0nCiAgICAgICAgICAgIGRlZmluZS5wYXJhbXNbJ21peCddID0gZicwJT57aW50KGZsb2F0KHNwbGl0dGVkWzFdKSl9JScKCiAgICAgICAgZWxpZiBzcGxpdHRlZFswXSA9PSAnMyc6CiAgICAgICAgICAgICMgRmxhbmdlcgogICAgICAgICAgICBkZWZpbmUuZWZmZWN0ID0gU291bmRFZmZlY3QuRkxBTkdFUgogICAgICAgICAgICBkZWZpbmUucGFyYW1zWydkZWxheSddID0gZid7aW50KGZsb2F0KHNwbGl0dGVkWzJdKSAqIDEwMCl9c2FtcGxlcycKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snZGVwdGgnXSA9IGYne2ludChmbG9hdChzcGxpdHRlZFszXSkgKiAxMDApfXNhbXBsZXMnCiAgICAgICAgICAgIGRlZmluZS5wYXJhbXNbJ2ZlZWRiYWNrJ10gPSBmJ3tpbnQoc3BsaXR0ZWRbNF0pfSUnICMgVE9ETyBOb3Qgc3VyZSBhYm91dCB0aGlzIG9uZQogICAgICAgICAgICBkZWZpbmUucGFyYW1zWydwZXJpb2QnXSA9IHN0cihmbG9hdChzcGxpdHRlZFs1XSkpCiAgICAgICAgICAgIGRlZmluZS5wYXJhbXNbJ3ZvbHVtZSddID0gZid7bWluKGludChmbG9hdChzcGxpdHRlZFsxXSkgKiAxLjMzKSwgMTAwKX0lJyAjIE5vcm1hbGx5IG5vIG11bHRpcGxpZXIgYnV0IGkgbGlrZSB0aGlzCgogICAgICAgIGVsaWYgc3BsaXR0ZWRbMF0gPT0gJzQnOgogICAgICAgICAgICAjIFRhcGUgc3RvcAogICAgICAgICAgICBkZWZpbmUuZWZmZWN0ID0gU291bmRFZmZlY3QuVEFQRVNUT1AKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbWl4J10gPSBmJzAlPntpbnQoZmxvYXQoc3BsaXR0ZWRbMV0pKX0lJwogICAgICAgICAgICBzcGVlZCA9IGZsb2F0KHNwbGl0dGVkWzNdKSAqIGZsb2F0KHNwbGl0dGVkWzJdKSAqIDkuODEyNQogICAgICAgICAgICBpZiBzcGVlZCA+IDUwOgogICAgICAgICAgICAgICAgc3BlZWQgPSA1MAogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgc3BlZWQgPSBpbnQoc3BlZWQpCiAgICAgICAgICAgIGRlZmluZS5tYWluX3BhcmFtID0gc3BlZWQKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snc3BlZWQnXSA9IGYne2RlZmluZS5tYWluX3BhcmFtfSUnCgogICAgICAgIGVsaWYgc3BsaXR0ZWRbMF0gPT0gJzUnOgogICAgICAgICAgICAjIFNpZGVjaGFpbgogICAgICAgICAgICBkZWZpbmUuZWZmZWN0ID0gU291bmRFZmZlY3QuU0lERUNIQUlOCiAgICAgICAgICAgIGRlZmluZS5tYWluX3BhcmFtID0gaW50KGZsb2F0KHNwbGl0dGVkWzJdKSAqIDIpCiAgICAgICAgICAgIGRlZmluZS5wYXJhbXNbJ3BlcmlvZCddID0gZicxL3tkZWZpbmUubWFpbl9wYXJhbX0nCgogICAgICAgIGVsaWYgc3BsaXR0ZWRbMF0gPT0gJzYnOgogICAgICAgICAgICAjIFdvYmJsZQogICAgICAgICAgICBkZWZpbmUuZWZmZWN0ID0gU291bmRFZmZlY3QuV09CQkxFCiAgICAgICAgICAgIGRlZmluZS5tYWluX3BhcmFtID0gaW50KGZsb2F0KHNwbGl0dGVkWzZdKSkgKiA0CiAgICAgICAgICAgIGRlZmluZS5wYXJhbXNbJ3dhdmVMZW5ndGgnXSA9IGYnMS97ZGVmaW5lLm1haW5fcGFyYW19JwogICAgICAgICAgICBkZWZpbmUucGFyYW1zWydsb0ZyZXEnXSA9IGYne2ludChmbG9hdChzcGxpdHRlZFs0XSkpfUh6JwogICAgICAgICAgICBkZWZpbmUucGFyYW1zWydoaUZyZXEnXSA9IGYne2ludChmbG9hdChzcGxpdHRlZFs1XSkpfUh6JwogICAgICAgICAgICBkZWZpbmUucGFyYW1zWydRJ10gPSBzdHIoZmxvYXQoc3BsaXR0ZWRbN10pKQogICAgICAgICAgICBkZWZpbmUucGFyYW1zWydtaXgnXSA9IGYnMCU+e2ludChmbG9hdChzcGxpdHRlZFszXSkpfSUnCgogICAgICAgIGVsaWYgc3BsaXR0ZWRbMF0gPT0gJzcnOgogICAgICAgICAgICAjIEJpdGNydXNoZXIKICAgICAgICAgICAgZGVmaW5lLmVmZmVjdCA9IFNvdW5kRWZmZWN0LkJJVENSVVNIRVIKICAgICAgICAgICAgZGVmaW5lLm1haW5fcGFyYW0gPSBpbnQoc3BsaXR0ZWRbMl0pCiAgICAgICAgICAgIGRlZmluZS5wYXJhbXNbJ3JlZHVjdGlvbiddID0gZid7ZGVmaW5lLm1haW5fcGFyYW19c2FtcGxlcycKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbWl4J10gPSBmJzAlPntpbnQoZmxvYXQoc3BsaXR0ZWRbMV0pKX0lJwoKICAgICAgICBlbGlmIHNwbGl0dGVkWzBdID09ICc5JzoKICAgICAgICAgICAgIyBQaXRjaHNoaWZ0CiAgICAgICAgICAgIGRlZmluZS5lZmZlY3QgPSBTb3VuZEVmZmVjdC5QSVRDSFNISUZUCiAgICAgICAgICAgIGRlZmluZS5tYWluX3BhcmFtID0gaW50KGZsb2F0KHNwbGl0dGVkWzJdKSkKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1sncGl0Y2gnXSA9IHN0cihkZWZpbmUubWFpbl9wYXJhbSkKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbWl4J10gPSBmJzAlPntpbnQoZmxvYXQoc3BsaXR0ZWRbMV0pKX0nCgogICAgICAgIGVsaWYgc3BsaXR0ZWRbMF0gPT0gJzExJzoKICAgICAgICAgICAgZGVmaW5lLmVmZmVjdCA9IFNvdW5kRWZmZWN0LldPQkJMRQogICAgICAgICAgICBkZWZpbmUubWFpbl9wYXJhbSA9IDEKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbG9GcmVxJ10gPSBmJ3tpbnQoZmxvYXQoc3BsaXR0ZWRbM10pKX1IeicKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snaGlGcmVxJ10gPSBkZWZpbmUucGFyYW1zWyJsb0ZyZXEiXQogICAgICAgICAgICBkZWZpbmUucGFyYW1zWydRJ10gPSAnMS40JwoKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludChmJ3Vuc3VwcG9ydGVkIGVmZmVjdCBkZWZpbmUgSUQge3NwbGl0dGVkWzBdfScpCgogICAgICAgIHJldHVybiBkZWZpbmUK</text>
@@ -430,9 +437,9 @@
       </register>
     </registers>
     <search>
-      <last-search>write_to</last-search>
+      <last-search encoding="base64">XDx3cml0ZV90b19leGNlcHRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern>write_to</last-pattern>
+      <last-pattern encoding="base64">XDx3cml0ZV90b19leGNlcHRpb25zXD4=</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -440,7 +447,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tilt</entry>
         <entry>Tilt</entry>
         <entry encoding="base64">XDxmcm9tX2VmZmVjdF9pbmZvX2xpbmVcPg==</entry>
         <entry>KshootEffect</entry>
@@ -460,6 +466,7 @@
         <entry>get_metadata</entry>
         <entry>write_exceptions</entry>
         <entry>write_to</entry>
+        <entry encoding="base64">XDx3cml0ZV90b19leGNlcHRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
