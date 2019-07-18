@@ -26,12 +26,12 @@
       <file name="/a.dummy" timestamp="1563135947854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1563474803617">
-        <mark key="'" line="682" column="8" />
-        <mark key="[" line="1190" column="37" />
-        <mark key="]" line="1191" column="51" />
-        <mark key="." line="1191" column="51" />
-        <mark key="^" line="1191" column="51" />
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1563475616666">
+        <mark key="'" line="1052" column="25" />
+        <mark key="[" line="1052" column="60" />
+        <mark key="]" line="1052" column="59" />
+        <mark key="." line="1052" column="59" />
+        <mark key="^" line="1052" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1563136595644">
         <mark key="'" line="30" column="38" />
@@ -97,46 +97,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="17" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="920" column="30" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1019" column="22" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="34" column="6" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1051" column="26" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1262" column="31" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1256" column="24" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1003" column="4" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1235" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1260" column="29" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="54" column="6" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1264" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="19" column="55" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="55" column="31" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="57" column="23" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="63" column="42" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1261" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1190" column="19" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="753" column="22" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="759" column="18" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="828" column="26" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="787" column="26" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="779" column="34" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="772" column="30" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="767" column="26" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="758" column="18" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="730" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1191" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1018" column="68" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="846" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1259" column="24" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1056" column="23" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="43" column="6" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1270" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1266" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1197" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1183" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1058" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1187" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="17" column="4" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="113" column="12" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="684" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="794" column="66" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -158,22 +120,18 @@
       <jump line="129" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="94" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="796" column="24" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1055" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1184" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1194" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1267" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1263" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1140" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="175" column="19" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1045" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1050" column="46" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="840" column="29" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="227" column="12" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1196" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="780" column="29" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="637" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="761" column="25" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="763" column="25" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="773" column="33" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="775" column="33" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -197,10 +155,52 @@
       <jump line="1181" column="26" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1017" column="29" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="682" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1197" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1204" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1273" column="39" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1277" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="17" column="4" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="784" column="52" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="799" column="60" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1055" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1202" column="33" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="32" column="56" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1054" column="38" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1135" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="82" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="656" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="655" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="39" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="49" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="59" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="249" column="0" filename="$USER_HOME$/Code/vox2ksh/exceptions.txt" />
+      <jump line="1288" column="1" filename="$USER_HOME$/Code/vox2ksh/exceptions.txt" />
+      <jump line="778" column="34" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="828" column="26" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1045" column="26" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1053" column="23" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1040" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="670" column="22" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="917" column="24" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1079" column="4" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="34" column="6" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1013" column="22" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1018" column="22" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="771" column="30" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="766" column="26" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="761" column="35" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="758" column="18" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="752" column="22" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1198" column="19" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="42" column="6" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="956" column="24" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="729" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1052" column="25" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2VsZi52b3hmaWxlLm5hbWUsIGwg</text>
+        <text>self.voxfile.name,</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -404,10 +404,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZi52b3hmaWxlLm5hbWUsIGwg</text>
+        <text>self.voxfile.name,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcm9tX2ZpbGVcPg==</text>
+        <text encoding="base64">XDxwcm9jZXNzX3N0YXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYnUGFyc2luZyB2b3ggZmlsZSBmYWlsZWQgd2l0aCB0cmFjZWJhY2s6XG57dHJhY2ViYWNrLmZvcm1hdF9leGMoKX0nKQogICAgICAgICAgICAgICAgd3JpdGVfdG9fZXhjZXB0aW9ucyh2b3hfcGF0aCwgaXNfaW5wdXRfZXJyb3I9VHJ1ZSwgaXNfY3JpdGljYWw9VHJ1ZSkKICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
@@ -444,9 +444,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcm9tX2ZpbGVcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzX3N0YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcm9tX2ZpbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzX3N0YXRlXD4=</last-pattern>
       <last-replace>filter_id</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -454,18 +454,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">LT4=</entry>
-        <entry encoding="base64">XDxLc2hDb252ZXJ0RXJyb3JcPg==</entry>
-        <entry>outfile</entry>
-        <entry encoding="base64">XDxwcm9jZXNzX3N0YXRlXD4=</entry>
-        <entry encoding="base64">XDxwYXJzZVw+</entry>
-        <entry encoding="base64">XDx3cml0ZV90b19rc2hcPg==</entry>
-        <entry encoding="base64">XDxWb3hQYXJzZUVycm9yXD4=</entry>
-        <entry>filter</entry>
-        <entry encoding="base64">XDxmcm9tX3ZveF9maWx0ZXJfaWRcPg==</entry>
-        <entry>raise</entry>
-        <entry encoding="base64">XDxmcm9tX3ZveF9uYW1lXD4=</entry>
-        <entry encoding="base64">XDx3cml0ZV90b19leGNlcHRpb25zXD4=</entry>
         <entry>from_pre_v4_vox</entry>
         <entry>old vox</entry>
         <entry encoding="base64">XDxlZmZlY3RfZGVmaW5lc1w+</entry>
@@ -474,6 +462,18 @@
         <entry>fx-</entry>
         <entry encoding="base64">XDxmcm9tX2VmZmVjdF9pbmZvX2xpbmVcPg==</entry>
         <entry encoding="base64">XDxmcm9tX2ZpbGVcPg==</entry>
+        <entry encoding="base64">XDxwYXJzZVw+</entry>
+        <entry encoding="base64">XDx3cml0ZV90b19leGNlcHRpb25zXD4=</entry>
+        <entry>Warning:</entry>
+        <entry encoding="base64">XDxzdHJcPg==</entry>
+        <entry>__str__</entry>
+        <entry>Warning</entry>
+        <entry>OUT</entry>
+        <entry>LookupError</entry>
+        <entry>Processing</entry>
+        <entry encoding="base64">XDxWb3hMb2FkRXJyb3JcPg==</entry>
+        <entry encoding="base64">XDxWb3hQYXJzZUVycm9yXD4=</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX3N0YXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
