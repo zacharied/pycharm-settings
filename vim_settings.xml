@@ -26,12 +26,12 @@
       <file name="/a.dummy" timestamp="1563135947854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1563466644738">
-        <mark key="'" line="790" column="0" />
-        <mark key="[" line="49" column="35" />
-        <mark key="]" line="48" column="3" />
-        <mark key="." line="48" column="3" />
-        <mark key="^" line="48" column="3" />
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1563468041753">
+        <mark key="'" line="686" column="97" />
+        <mark key="[" line="538" column="0" />
+        <mark key="]" line="538" column="0" />
+        <mark key="^" line="507" column="38" />
+        <mark key="." line="538" column="0" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/exceptions.txt" timestamp="1563465105807">
         <mark key="'" line="29520" column="9" />
@@ -97,26 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="675" column="12" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="679" column="115" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="652" column="39" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="684" column="4" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="382" column="37" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="450" column="45" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="757" column="111" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="761" column="70" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="766" column="58" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="289" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="516" column="76" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="351" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="523" column="94" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="79" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="868" column="7" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="947" column="76" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="103" column="17" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="14" column="18" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="165" column="27" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="433" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="21" column="6" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -153,7 +133,6 @@
       <jump line="695" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="641" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="728" column="83" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="222" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1027" column="20" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="12" column="14" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
@@ -197,10 +176,31 @@
       <jump line="782" column="75" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="69" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="781" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="168" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="503" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="553" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="892" column="28" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="893" column="28" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="959" column="60" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="977" column="52" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="962" column="79" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="974" column="31" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="418" column="12" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="871" column="108" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="872" column="33" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="538" column="6" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="532" column="4" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="613" column="27" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="694" column="70" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="702" column="70" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="710" column="70" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="531" column="6" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="686" column="97" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>desc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgRXZlbnRzT2ZUeXBlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGV2ZW50X2ZpbHRlcmVkKToKICAgICAgICBzZWxmLml0ciA9IGRpY3QoeyBrZXlbMV06IHZhbHVlIGZvciBrZXksIHZhbHVlIGluIGV2ZW50X2ZpbHRlcmVkLml0ZW1zKCkgfSkKCiAgICBkZWYgd2l0aF90aW1lKHNlbGYsIHRpbWluZyk6CiAgICAgICAgcmV0dXJuIHNlbGYuaXRyLmdldCh0aW1pbmcpCgo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -404,49 +404,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>desc</text>
+        <text>MAXIMUM</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcm9tX3RpbWVfc3RyXD4=</text>
+        <text encoding="base64">XDxFdmVudEtpbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZWZmZWN0X2RlZmluZXNbaW5kZXhdID0gS3NoRWZmZWN0RGVmaW5lLmZyb21fZWZmZWN0X2luZm9fbGluZShpbmRleCwgbGluZSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzb3VuZF9pZCA8IDI6CiAgICAgICAgICAgIGlmIHNvdW5kX2lkID09IDE6CiAgICAgICAgICAgICAgICBwcmludCgnQSBjaGFydCB1c2VkIDBidF8ybWl4LiBQbGVhc2UgbWFrZSBzdXJlIHRoZSBjaGFydCB3YXMgInB1bHNlX2xhc2VyX2hpZ2Vkcml2ZXJfMW4iLicpCiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgZWxpZiBzb3VuZF9pZCA9PSAyOgogICAgICAgICAgICByZXR1cm4gY2xzLlJFVFJJR0dFUiwgeyJkaXZpc2lvbiI6IDh9CiAgICAgICAgZWxpZiBzb3VuZF9pZCA9PSAzOgogICAgICAgICAgICByZXR1cm4gY2xzLlJFVFJJR0dFUiwgeyJkaXZpc2lvbiI6IDE2fQogICAgICAgIGVsaWYgc291bmRfaWQgPT0gNDoKICAgICAgICAgICAgcmV0dXJuIGNscy5HQVRFLCB7ImRpdmlzaW9uIjogMTZ9CiAgICAgICAgZWxpZiBzb3VuZF9pZCA9PSA1OgogICAgICAgICAgICByZXR1cm4gY2xzLkZMQU5HRVIKICAgICAgICBlbGlmIHNvdW5kX2lkID09IDY6CiAgICAgICAgICAgIHJldHVybiBjbHMuUkVUUklHR0VSLCB7ImRpdmlzaW9uIjogMzJ9CiAgICAgICAgZWxpZiBzb3VuZF9pZCA9PSA3OgogICAgICAgICAgICByZXR1cm4gY2xzLkdBVEUsIHsiZGl2aXNpb24iOiA4fQogICAgICAgIGVsaWYgc291bmRfaWQgPT0gODoKICAgICAgICAgICAgcmV0dXJuIGNscy5QSVRDSFNISUZUCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmJ1ByZS12NCB2b3ggc291bmQgaWQge3NvdW5kX2lkfSBkb2VzIG5vdCBleGlzdC4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Y2xhc3MgRXZlbnRzT2ZUeXBlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGV2ZW50X2ZpbHRlcmVkKToKICAgICAgICBzZWxmLml0ciA9IGRpY3QoeyBrZXlbMV06IHZhbHVlIGZvciBrZXksIHZhbHVlIGluIGV2ZW50X2ZpbHRlcmVkLml0ZW1zKCkgfSkKCiAgICBkZWYgd2l0aF90aW1lKHNlbGYsIHRpbWluZyk6CiAgICAgICAgcmV0dXJuIHNlbGYuaXRyLmdldCh0aW1pbmcpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBmaWxlLCBzZWN0aW9uLCBsaW5lLCBkZXNjKToKICAgICAgICBzZWxmLmZpbGUgPSBmaWxlCiAgICAgICAgc2VsZi5zZWMK</text>
+        <text encoding="base64">Y2xhc3MgUGFyc2VyRXJyb3IoRXhjZXB0aW9uKToKICAgICIiIiBFeGNlcHRpb24gcmFpc2VkIHdoZW4gdGhlIFZveCBwYXJzZXIgZW5jb3VudGVycyBpbnZhbGlkIHN5bnRheC4gIiIiCiAgICBkZWYgX19pbml0X18oc2VsZiwgbWVzc2FnZSwgZmlsZW5hbWUsIGxpbmUpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oZicoe2ZpbGVuYW1lfTp7c3RyKGxpbmUpfSB7bWVzc2FnZX0nKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFZveFBhcnNlRXJyb3IoCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHNlbGYgPT0gc2VsZi5NQVhJTVVNOgogICAgICAgICAgICByZXR1cm4gNAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwYXNzCg==</text>
+        <text encoding="base64">CiAgICBkZWYgdG9fa3NoX25hbWUoc2VsZiwgcGFyYW1zKToKICAgICAgICAjIFRPRE8gQ2xlYW4gdGhpcyB1cAogICAgICAgIGlmIHNlbGYgPT0gS3Nob290RWZmZWN0LlJFVFJJR0dFUjoKICAgICAgICAgICAgZGl2aXNpb24gPSA4IGlmIHBhcmFtcyBpcyBOb25lIGVsc2UgcGFyYW1zWydkaXZpc2lvbiddCiAgICAgICAgICAgIHJldHVybiBmJ1JldHJpZ2dlcjt7ZGl2aXNpb259JwoKICAgICAgICBlbGlmIHNlbGYgPT0gS3Nob290RWZmZWN0LkdBVEU6CiAgICAgICAgICAgIGRpdmlzaW9uID0gOCBpZiBwYXJhbXMgaXMgTm9uZSBlbHNlIHBhcmFtc1snZGl2aXNpb24nXQogICAgICAgICAgICByZXR1cm4gZidHYXRlO3tkaXZpc2lvbn0nCgogICAgICAgIGVsaWYgc2VsZiA9PSBLc2hvb3RFZmZlY3QuRkxBTkdFUjoKICAgICAgICAgICAgcmV0dXJuICdGbGFuZ2VyJwoKICAgICAgICBlbGlmIHNlbGYgPT0gS3Nob290RWZmZWN0LkJJVENSVVNIRVI6CiAgICAgICAgICAgIGRlZ3JlZSA9IDEwIGlmIHBhcmFtcyBpcyBOb25lIGVsc2UgcGFyYW1zWydkZWdyZWUnXQogICAgICAgICAgICByZXR1cm4gZidCaXRDcnVzaGVyO3tkZWdyZWV9JwoKICAgICAgICBlbGlmIHNlbGYgPT0gS3Nob290RWZmZWN0LlBIQVNFUjoKICAgICAgICAgICAgcmV0dXJuICdQaGFzZXInCgogICAgICAgIGVsaWYgc2VsZiA9PSBLc2hvb3RFZmZlY3QuV09CQkxFOgogICAgICAgICAgICBkaXZpc2lvbiA9IDEyIGlmIHBhcmFtcyBpcyBOb25lIGVsc2UgcGFyYW1zWydkaXZpc2lvbiddCiAgICAgICAgICAgIHJldHVybiBmJ1dvYmJsZTt7ZGl2aXNpb259JwoKICAgICAgICBlbGlmIHNlbGYgPT0gS3Nob290RWZmZWN0LlBJVENIU0hJRlQ6CiAgICAgICAgICAgIHRvbmVzID0gMTIgaWYgcGFyYW1zIGlzIE5vbmUgZWxzZSBwYXJhbXNbJ3RvbmVzJ10KICAgICAgICAgICAgcmV0dXJuIGYnUGl0Y2hTaGlmdDt7dG9uZXN9JwoKICAgICAgICBlbGlmIHNlbGYgPT0gS3Nob290RWZmZWN0LlRBUEVTVE9QOgogICAgICAgICAgICBzcGVlZCA9IDUwIGlmIHBhcmFtcyBpcyBOb25lIGVsc2UgcGFyYW1zWydzcGVlZCddCiAgICAgICAgICAgIHJldHVybiBmJ1RhcGVTdG9wO3tzcGVlZH0nCgogICAgICAgIGVsaWYgc2VsZiA9PSBLc2hvb3RFZmZlY3QuRUNITzoKICAgICAgICAgICAgIyBUT0RPIEZpZ3VyZSBvdXQgZWNobyBwYXJhbWV0ZXJzLgogICAgICAgICAgICB4ID0gNCBpZiBwYXJhbXMgaXMgTm9uZSBlbHNlIHBhcmFtc1sneCddCiAgICAgICAgICAgIHkgPSA2MCBpZiBwYXJhbXMgaXMgTm9uZSBlbHNlIHBhcmFtc1sneSddCiAgICAgICAgICAgIHJldHVybiBmJ0VjaG87e3h9O3t5fScKCiAgICAgICAgZWxpZiBzZWxmID09IEtzaG9vdEVmZmVjdC5TSURFQ0hBSU46CiAgICAgICAgICAgIHJldHVybiAnU2lkZUNoYWluJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgVm94TG9hZFdhcm5pbmcoRXhjZXB0aW9uKTogcGFzcwpjbGFzcyBWb3hQYXJzZVdhcm5pbmcoRXhjZXB0aW9uKToKICAgIHBhc3MKY2xhc3MgS3NoQ29udmVydFdhcm5pbmcoRXhjZXB0aW9uKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgS3NoQ29udmVydEVycm9yKEV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNscy5QSVRDSFNISUZUCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhcwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNscy5HQVRFLCB7ImRpdmlzaW9uIjogOH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgVm94TG9hZEVycm9yKEV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLmVmZmVjdCA9IEtzaG9vdEVmZmVjdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNsYXNzIEZhdGFsVm94TG9hZEVycm9yKEV4Y2VwdGlvbik6CiAgICBwYXNzCmNsYXNzIEZhdGFsUGFyc2VFcnJvcihFeGNlcHRpb24pOgogICAgcGFzcwpjbGFzcyBGYXRhbENvbnZlcnRFcnJvcihFeGNlcHRpb24pOgogICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNscy5GTEFOR0VSCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcm9tX3RpbWVfc3RyXD4=</last-search>
+      <last-search encoding="base64">XDxFdmVudEtpbmRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcm9tX3RpbWVfc3RyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxFdmVudEtpbmRcPg==</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -454,12 +454,6 @@
     </search>
     <history>
       <history-search>
-        <entry>events_tiltmode</entry>
-        <entry>process_state</entry>
-        <entry>tilt=</entry>
-        <entry>tilt</entry>
-        <entry>Tilt</entry>
-        <entry>KshootEffect</entry>
         <entry encoding="base64">XDx0b19rc2hfc2ltcGxlX25hbWVcPg==</entry>
         <entry>cls</entry>
         <entry>splitted</entry>
@@ -474,6 +468,12 @@
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDxmcm9tX2VmZmVjdF9pbmZvX2xpbmVcPg==</entry>
         <entry encoding="base64">XDxmcm9tX3RpbWVfc3RyXD4=</entry>
+        <entry encoding="base64">XDx0b19rc2hfbmFtZVw+</entry>
+        <entry encoding="base64">XDxwcmVzc1w+</entry>
+        <entry>ButtonPress(</entry>
+        <entry encoding="base64">XDxFdmVudHNPZlR5cGVcPg==</entry>
+        <entry encoding="base64">XDxUUkFDS1w+</entry>
+        <entry encoding="base64">XDxFdmVudEtpbmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
