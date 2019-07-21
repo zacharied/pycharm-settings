@@ -49,6 +49,9 @@
         <mark key="." line="219" column="16" />
         <mark key="^" line="219" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/exceptions.txt" timestamp="1563749511671">
+        <mark key="'" line="20664" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1563136595644">
         <mark key="'" line="30" column="38" />
         <mark key="[" line="2" column="16" />
@@ -85,12 +88,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563578793854">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="378" column="38" />
-        <mark key="]" line="378" column="38" />
-        <mark key="." line="378" column="38" />
-        <mark key="^" line="378" column="43" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563749994753">
+        <mark key="'" line="799" column="96" />
+        <mark key="[" line="563" column="35" />
+        <mark key="]" line="563" column="34" />
+        <mark key="." line="563" column="34" />
+        <mark key="^" line="563" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/scratch.py" timestamp="1563566596519">
         <mark key="[" line="6" column="48" />
@@ -100,72 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="46" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="409" column="60" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="643" column="32" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="644" column="38" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="645" column="62" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="733" column="77" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="675" column="12" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="679" column="115" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="652" column="39" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="684" column="4" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="382" column="37" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="450" column="45" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="757" column="111" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="761" column="70" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="766" column="58" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="289" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="516" column="76" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="351" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="523" column="94" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="79" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="868" column="7" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="947" column="76" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="103" column="17" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="14" column="18" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="165" column="27" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="433" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="107" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="21" column="6" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1166" column="56" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="711" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1011" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="366" column="9" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="3478" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="4082" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="4302" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="4979" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="5029" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="6626" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="6916" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="7207" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="7691" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="7982" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="8128" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="8952" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="9343" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="15928" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="16025" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="16219" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="16413" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="16607" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="16656" column="0" filename="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" />
-      <jump line="717" column="18" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="699" column="29" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="701" column="28" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="884" column="42" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="885" column="63" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1052" column="5" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="696" column="28" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="695" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="641" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="728" column="83" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="222" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1027" column="20" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="12" column="14" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Converter/src/util.py" />
       <jump line="2" column="10" filename="$USER_HOME$/Documents/Converter/src/ksh.py" />
@@ -200,10 +137,76 @@
       <jump line="1159" column="25" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="16" column="18" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="10" column="32" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1773" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1774" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1783" column="90" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1974" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1975" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1984" column="87" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="2476" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="2477" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="2486" column="101" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="2534" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="2535" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="2544" column="93" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="6842" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="6843" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="6852" column="91" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="8871" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="8872" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="8881" column="105" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="10464" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="10465" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="10474" column="107" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="12912" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="12913" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="12922" column="99" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="13745" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="13746" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="13755" column="95" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="18476" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="18477" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="18486" column="95" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19193" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19194" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19203" column="98" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19210" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19211" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19220" column="98" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19439" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19440" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19449" column="99" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19512" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19513" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19522" column="97" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19609" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19610" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19619" column="101" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19634" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19635" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19644" column="101" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19659" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19660" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19669" column="101" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19708" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19709" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19718" column="91" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19933" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19934" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="19943" column="95" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="20646" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="20647" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="20656" column="93" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="20663" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="20664" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="344" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="557" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="799" column="96" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>{int(float(splitted[1]))}</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -407,10 +410,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>{int(float(splitted[1]))}</text>
       </register>
       <register name="/" type="4">
-        <text>Traceback</text>
+        <text encoding="base64">XDxmcm9tX3ZveF9pZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbWl4J10gPSBmJzAlPntpbnQoZmxvYXQoc3BsaXR0ZWRbMV0pKX0nCg==</text>
@@ -447,9 +450,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Traceback</last-search>
+      <last-search encoding="base64">XDxmcm9tX3ZveF9pZFw+</last-search>
       <last-offset />
-      <last-pattern>Traceback</last-pattern>
+      <last-pattern encoding="base64">XDxmcm9tX3ZveF9pZFw+</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -457,9 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no_clobber</entry>
-        <entry>@cache</entry>
-        <entry>RevMap</entry>
         <entry encoding="base64">XDxldmVudHNfdGlsdG1vZGVcPg==</entry>
         <entry>events_tiltmode</entry>
         <entry>process_state</entry>
@@ -477,6 +477,9 @@
         <entry>splitx</entry>
         <entry>Traceback:</entry>
         <entry>Traceback</entry>
+        <entry>effect define</entry>
+        <entry>BIGGEST</entry>
+        <entry encoding="base64">XDxmcm9tX3ZveF9pZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
