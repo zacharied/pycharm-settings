@@ -10,7 +10,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563137746286">
+      <file name="/Dummy.txt" timestamp="1563751184347">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="31" />
       </file>
@@ -29,7 +29,7 @@
         <mark key="^" line="75" column="20" />
         <mark key="." line="75" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1563135947854">
+      <file name="/a.dummy" timestamp="1563751091090">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/src/ksh.py" timestamp="1563137630755">
@@ -66,6 +66,7 @@
       <file name="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" timestamp="1562783119937">
         <mark key="'" line="16656" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/data/vox_09_ifs/003_0863_censored_tpazolite_3e.vox" timestamp="1563750972212" />
       <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/install-certs.py" timestamp="1563566482155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
@@ -88,12 +89,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563749994753">
-        <mark key="'" line="799" column="96" />
-        <mark key="[" line="563" column="35" />
-        <mark key="]" line="563" column="34" />
-        <mark key="." line="563" column="34" />
-        <mark key="^" line="563" column="34" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563751520858">
+        <mark key="'" line="851" column="27" />
+        <mark key="[" line="491" column="84" />
+        <mark key="]" line="486" column="0" />
+        <mark key="." line="486" column="0" />
+        <mark key="^" line="501" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/scratch.py" timestamp="1563566596519">
         <mark key="[" line="6" column="48" />
@@ -103,16 +104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="14" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/Converter/src/util.py" />
-      <jump line="2" column="10" filename="$USER_HOME$/Documents/Converter/src/ksh.py" />
-      <jump line="51" column="21" filename="$USER_HOME$/Documents/Converter/src/ksh.py" />
-      <jump line="8" column="7" filename="$USER_HOME$/Documents/Converter/src/ksh.py" />
-      <jump line="121" column="8" filename="$USER_HOME$/Documents/Converter/src/vox.py" />
-      <jump line="215" column="54" filename="$USER_HOME$/Documents/Converter/src/vox.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/Documents/Converter/src/vox.py" />
-      <jump line="39" column="7" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="16" column="4" filename="$USER_HOME$/Documents/Converter/src/ksh.py" />
       <jump line="1026" column="23" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/Converter/src/util.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/Converter/src/util.py" />
@@ -203,10 +194,20 @@
       <jump line="344" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="557" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="799" column="96" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="489" column="16" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="440" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="444" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="447" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="628" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="845" column="44" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="495" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="458" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="851" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{int(float(splitted[1]))}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -410,49 +411,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{int(float(splitted[1]))}</text>
+        <text>start.position</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcm9tX3ZveF9pZFw+</text>
+        <text encoding="base64">XDxwb3NpdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbWl4J10gPSBmJzAlPntpbnQoZmxvYXQoc3BsaXR0ZWRbMV0pKX0nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbG9GcmVxJ10gPSAnMTBIeicKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snc3RhZ2UnXSA9ICcnCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snUSddID0gc3RyKGZsb2F0KHNwbGl0dGVkWzNdKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBQaGFzZXIgKG1vcmUgbGlrZSBjaG9ydXMpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbG9GcmVxJ10gPSAnMTBIeicKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snc3RhZ2UnXSA9ICcwJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snc3RhZ2UnXSA9ICcxMicK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhcmdzLnRlc3RjYXNlIGFuZCB2b3hfcGF0aCAhPSBDQVNFU1thcmdzLnRlc3RjYXNlXToKICAgICAgICAgICAgY29udGludWUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CmlmIGFyZ3MudGVzdGNhc2U6CiAgICBpZiBub3QgYXJncy50ZXN0Y2FzZSBpbiBDQVNFUzoKICAgICAgICBwcmludCgncGxlYXNlIHNwZWNpZnkgYSB2YWxpZCB0ZXN0Y2FzZScsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICBwcmludCgndmFsaWQgdGVzdGNhc2VzIGFyZTonLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgZm9yIGMgaW4gQ0FTRVMua2V5cygpOgogICAgICAgICAgICBwcmludCgnXHQnICsgYywgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgIGV4aXQoMSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiBkaXJlY3Rpb24oc2VsZik6CiAgICAgICAgaWYgc2VsZi5zdGFydC5wb3NpdGlvbiA+IHNlbGYuZW5kLnBvc2l0aW9uOgogICAgICAgICAgICByZXR1cm4gc2VsZi5EaXJlY3Rpb24uTEVGVAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLkRpcmVjdGlvbi5SSUdIVAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNsYXNzIERpcmVjdGlvbihFbnVtKToKICAgICAgICBMRUZUID0gYXV0bygpCiAgICAgICAgUklHSFQgPSBhdXRvKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgU2lkZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbG9GcmVxJ10gPSAnMTBIeicKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snc3RhZ2UnXSA9ICcnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snUSddID0gc3RyKGZsb2F0KHNwbGl0dGVkWzNdKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBQaGFzZXIgKG1vcmUgbGlrZSBjaG9ydXMpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbG9GcmVxJ10gPSAnMTBIeicKICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snc3RhZ2UnXSA9ICcwJwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBWT1hfUk9PVCA9ICdkYXRhJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snc3RhZ2UnXSA9ICcxMicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcm9tX3ZveF9pZFw+</last-search>
+      <last-search encoding="base64">XDxwb3NpdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcm9tX3ZveF9pZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwb3NpdGlvblw+</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -460,9 +461,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxldmVudHNfdGlsdG1vZGVcPg==</entry>
-        <entry>events_tiltmode</entry>
-        <entry>process_state</entry>
         <entry>tilt=</entry>
         <entry>tilt</entry>
         <entry>Tilt</entry>
@@ -480,6 +478,9 @@
         <entry>effect define</entry>
         <entry>BIGGEST</entry>
         <entry encoding="base64">XDxmcm9tX3ZveF9pZFw+</entry>
+        <entry>LEFT</entry>
+        <entry>direction</entry>
+        <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
