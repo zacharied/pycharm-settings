@@ -29,7 +29,7 @@
         <mark key="^" line="75" column="20" />
         <mark key="." line="75" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1563751091090">
+      <file name="/a.dummy" timestamp="1563753854843">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/src/ksh.py" timestamp="1563137630755">
@@ -88,12 +88,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563752495929">
-        <mark key="'" line="1050" column="43" />
-        <mark key="[" line="1059" column="86" />
-        <mark key="]" line="1059" column="87" />
-        <mark key="." line="1059" column="87" />
-        <mark key="^" line="1059" column="87" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563754100499">
+        <mark key="'" line="1145" column="12" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/scratch.py" timestamp="1563566596519">
         <mark key="[" line="6" column="48" />
@@ -103,14 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="32" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1773" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1774" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1783" column="90" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1974" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1975" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1984" column="87" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="2476" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="2477" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="2486" column="101" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="2534" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
@@ -194,7 +186,6 @@
       <jump line="1008" column="52" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1019" column="52" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1022" column="52" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="606" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="614" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="643" column="24" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -203,10 +194,19 @@
       <jump line="605" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1050" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="462" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="820" column="22" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="826" column="18" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1193" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1287" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1192" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="23" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1145" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeXMuZXhjX3ZhbHVlCg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -410,49 +410,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>start.</text>
+        <text>exc_value</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcGluX2RpdmlzaW9uXD4=</text>
+        <text>DEBUG</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbWl4J10gPSBmJzAlPntpbnQoZmxvYXQoc3BsaXR0ZWRbMV0pKX0nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeXMuZXhjX3ZhbHVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGxhc2VyLnNwaW5fZGl2aXNpb24gIT0gMDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBidWZmZXIuc3BpbiAhPSAnJzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhjZXB0aW9uc193cml0ZSgna3NoL2xhc2VyJywgJ3NwaW4gb24gYm90aCBsYXNlcnMnKQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIuc3BpbiA9ICdAJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGxhc2VyLmRpcmVjdGlvbigpID09IExhc2VyU2xhbS5EaXJlY3Rpb24uTEVGVDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gJygnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gJyknCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1ZmZlci5zcGluICs9IDE5MiAvIGxhc2VyLnN0YXJ0LnNwaW5fZGl2aXNpb24K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ3siW0lOXSIgaWYgaXNfaW5wdXRfZXJyb3IgZWxzZSAiW09VVF0ifSB7IioqKiAiIGlmIGlzX2NyaXRpY2FsIGVsc2UgIiJ9e0RFQlVHX2N1cnJfc29uZ317IjoiICsgc3RyKERFQlVHX2N1cnJfbGluZV9udW0pIGlmIGxpbmVfbm8gaXMgbm90IE5vbmUgZWxzZSAiIn06XG57dHJhY2ViYWNrLmZvcm1hdF9leGMoKX0nLCBmaWxlPWV4Y2VwdGlvbnNfZmlsZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidWZmZXIgPSBLc2hMaW5lQnVmKCkKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5sYXNlcnNbbGFzZXJdCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxhc2VyCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNwaW5fZGl2aXNpb24gPSBzcGluX2RpdmlzaW9uCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGxhc2VyLnNwaW5fZGl2aXNpb24gIT0gMDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBidWZmZXIuc3BpbiAhPSAnJzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhjZXB0aW9uc193cml0ZSgna3NoL2xhc2VyJywgJ3NwaW4gb24gYm90aCBsYXNlcnMnKQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIuc3BpbiA9ICdAJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGxhc2VyLmRpcmVjdGlvbigpID09IExhc2VyU2xhbS5EaXJlY3Rpb24uTEVGVDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gJygnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gJyknCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1ZmZlci5zcGluICs9IDE5MiAvIGxhc2VyLnN0YXJ0LnNwaW5fZGl2aXNpb24K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidWZmZXIgPSBLc2hMaW5lQnVmKCkKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5sYXNlcnNbbGFzZXJdCgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxhc2VyCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBkaXJlY3Rpb24oc2VsZik6CiAgICAgICAgaWYgc2VsZi5zdGFydC5wb3NpdGlvbiA+IHNlbGYuZW5kLnBvc2l0aW9uOgogICAgICAgICAgICByZXR1cm4gc2VsZi5EaXJlY3Rpb24uTEVGVAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLkRpcmVjdGlvbi5SSUdIVAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNwaW5fZGl2aXNpb24gPSBzcGluX2RpdmlzaW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzcGluX2RpdmlzaW9uXD4=</last-search>
+      <last-search>DEBUG</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcGluX2RpdmlzaW9uXD4=</last-pattern>
+      <last-pattern>DEBUG</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -460,8 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3cml0ZV90b19leGNlcHRpb25zXD4=</entry>
-        <entry encoding="base64">XDxmcm9tX3ZveF9maWx0ZXJfaWRcPg==</entry>
         <entry encoding="base64">XDxsaW5lX25vXD4=</entry>
         <entry>splitx</entry>
         <entry>Traceback:</entry>
@@ -480,6 +478,8 @@
         <entry>buffer.laser</entry>
         <entry encoding="base64">XDxzbGFtX2RpdmlzaW9uXD4=</entry>
         <entry encoding="base64">XDxzcGluX2RpdmlzaW9uXD4=</entry>
+        <entry encoding="base64">XDxWb3hQYXJzZUVycm9yXD4=</entry>
+        <entry>DEBUG</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
