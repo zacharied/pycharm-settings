@@ -20,8 +20,11 @@
         <mark key="^" line="3640" column="42" />
         <mark key="." line="3640" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1562782724292">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1563754193814">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/data/vox_09_ifs/003_0871_thestarineclipse_siikee_3e.vox" timestamp="1562349790644">
         <mark key="[" line="75" column="20" />
@@ -29,7 +32,7 @@
         <mark key="^" line="75" column="20" />
         <mark key="." line="75" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1563753854843">
+      <file name="/a.dummy" timestamp="1563754243140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/src/ksh.py" timestamp="1563137630755">
@@ -88,12 +91,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563754100499">
-        <mark key="'" line="1145" column="12" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="31" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563754743750">
+        <mark key="'" line="1354" column="50" />
+        <mark key="[" line="1243" column="0" />
+        <mark key="]" line="1243" column="0" />
+        <mark key="." line="1243" column="0" />
+        <mark key="^" line="1197" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/scratch.py" timestamp="1563566596519">
         <mark key="[" line="6" column="48" />
@@ -103,13 +106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2477" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="2486" column="101" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="2534" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="2535" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="2544" column="93" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="6842" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="6843" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="6852" column="91" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="8871" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="8872" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
@@ -170,7 +166,6 @@
       <jump line="845" column="44" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="495" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="458" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="851" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="485" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="882" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1042" column="42" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -200,13 +195,21 @@
       <jump line="1193" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1287" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1192" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="23" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1145" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1192" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="417" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="471" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="463" column="10" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="851" column="24" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1281" column="18" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1252" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1353" column="50" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1354" column="50" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMuZXhjX3ZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgb3MucGF0aC5iYXNlbmFtZShmKSA9PSAnamsnOgogICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -410,49 +413,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>exc_value</text>
+        <text>get_metadata(&quot;ascii&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>DEBUG</text>
+        <text>for e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbWl4J10gPSBmJzAlPntpbnQoZmxvYXQoc3BsaXR0ZWRbMV0pKX0nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMuZXhjX3ZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgb3MucGF0aC5iYXNlbmFtZShmKSA9PSAnamsnOgogICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ3siW0lOXSIgaWYgaXNfaW5wdXRfZXJyb3IgZWxzZSAiW09VVF0ifSB7IioqKiAiIGlmIGlzX2NyaXRpY2FsIGVsc2UgIiJ9e0RFQlVHX2N1cnJfc29uZ317IjoiICsgc3RyKERFQlVHX2N1cnJfbGluZV9udW0pIGlmIGxpbmVfbm8gaXMgbm90IE5vbmUgZWxzZSAiIn06XG57dHJhY2ViYWNrLmZvcm1hdF9leGMoKX0nLCBmaWxlPWV4Y2VwdGlvbnNfZmlsZSkK</text>
+        <text encoding="base64">REVCVUdfY3Vycl9zb25nID0gTm9uZQpERUJVR19jdXJyX2xpbmVfbnVtID0gMAoK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgIHNlbGYuCiAgICBzZWxmLgogICAgc2VsZi4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGxhc2VyLnNwaW5fZGl2aXNpb24gIT0gMDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBidWZmZXIuc3BpbiAhPSAnJzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhjZXB0aW9uc193cml0ZSgna3NoL2xhc2VyJywgJ3NwaW4gb24gYm90aCBsYXNlcnMnKQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIuc3BpbiA9ICdAJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGxhc2VyLmRpcmVjdGlvbigpID09IExhc2VyU2xhbS5EaXJlY3Rpb24uTEVGVDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gJygnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gJyknCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1ZmZlci5zcGluICs9IDE5MiAvIGxhc2VyLnN0YXJ0LnNwaW5fZGl2aXNpb24K</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzeXMuZXhjX3ZhbHVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidWZmZXIgPSBLc2hMaW5lQnVmKCkKCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ3siW0lOXSIgaWYgaXNfaW5wdXRfZXJyb3IgZWxzZSAiW09VVF0ifSB7IioqKiAiIGlmIGlzX2NyaXRpY2FsIGVsc2UgIiJ9e0RFQlVHX2N1cnJfc29uZ317IjoiICsgc3RyKERFQlVHX2N1cnJfbGluZV9udW0pIGlmIGxpbmVfbm8gaXMgbm90IE5vbmUgZWxzZSAiIn06XG57dHJhY2ViYWNrLmZvcm1hdF9leGMoKX0nLCBmaWxlPWV4Y2VwdGlvbnNfZmlsZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5sYXNlcnNbbGFzZXJdCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxhc2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGxhc2VyLnNwaW5fZGl2aXNpb24gIT0gMDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBidWZmZXIuc3BpbiAhPSAnJzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhjZXB0aW9uc193cml0ZSgna3NoL2xhc2VyJywgJ3NwaW4gb24gYm90aCBsYXNlcnMnKQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIuc3BpbiA9ICdAJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGxhc2VyLmRpcmVjdGlvbigpID09IExhc2VyU2xhbS5EaXJlY3Rpb24uTEVGVDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gJygnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gJyknCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1ZmZlci5zcGluICs9IDE5MiAvIGxhc2VyLnN0YXJ0LnNwaW5fZGl2aXNpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNwaW5fZGl2aXNpb24gPSBzcGluX2RpdmlzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DEBUG</last-search>
+      <last-search>for e</last-search>
       <last-offset />
-      <last-pattern>DEBUG</last-pattern>
+      <last-pattern>for e</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -460,9 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaW5lX25vXD4=</entry>
-        <entry>splitx</entry>
-        <entry>Traceback:</entry>
         <entry>Traceback</entry>
         <entry>effect define</entry>
         <entry>BIGGEST</entry>
@@ -480,6 +480,9 @@
         <entry encoding="base64">XDxzcGluX2RpdmlzaW9uXD4=</entry>
         <entry encoding="base64">XDxWb3hQYXJzZUVycm9yXD4=</entry>
         <entry>DEBUG</entry>
+        <entry>Builder</entry>
+        <entry encoding="base64">XDxWb3hcPg==</entry>
+        <entry>for e</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
@@ -522,6 +525,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
