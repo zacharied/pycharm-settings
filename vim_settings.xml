@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1563908334135">
+      <file name="/Dummy.txt" timestamp="1563909354305">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1563752642585">
         <mark key="[" line="4" column="4" />
@@ -28,12 +30,12 @@
       <file name="/a.dummy" timestamp="1563754243140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1563908332429">
-        <mark key="'" line="48" column="16" />
-        <mark key="[" line="1315" column="90" />
-        <mark key="]" line="1315" column="91" />
-        <mark key="." line="1315" column="91" />
-        <mark key="^" line="1315" column="91" />
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1563909338382">
+        <mark key="'" line="566" column="8" />
+        <mark key="[" line="1383" column="69" />
+        <mark key="]" line="1383" column="69" />
+        <mark key="." line="1383" column="69" />
+        <mark key="^" line="1383" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1563136595644">
         <mark key="'" line="30" column="38" />
@@ -106,10 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="490" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="855" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="868" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="455" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="492" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="886" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1044" column="42" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -173,7 +171,6 @@
       <jump line="42" column="49" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1299" column="37" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1380" column="10" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1383" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="87" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1142" column="26" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -205,11 +202,16 @@
       <jump line="1298" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="51" column="67" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="48" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1383" column="75" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1329" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1342" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1390" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="48" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="566" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q2xlYW5lciBlcnJvciByZXBvcnRpbmcsIGZld2VyIHdhcm5pbmdzCg==</text>
+      <register name="&quot;" type="4">
+        <text>Make error handling less verbo</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -413,10 +415,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>Make error handling less verbo</text>
       </register>
       <register name="/" type="4">
-        <text>process_state</text>
+        <text>INFINITE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLnBhcmFtc1snbWl4J10gPSBmJzAlPntpbnQoZmxvYXQoc3BsaXR0ZWRbMV0pKX0nCg==</text>
@@ -453,9 +455,9 @@
       </register>
     </registers>
     <search>
-      <last-search>process_state</last-search>
+      <last-search>INFINITE</last-search>
       <last-offset />
-      <last-pattern>process_state</last-pattern>
+      <last-pattern>INFINITE</last-pattern>
       <last-replace />
       <last-substitute>:.*$</last-substitute>
       <last-dir>1</last-dir>
@@ -463,8 +465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>events_tiltmode</entry>
-        <entry>tilt=</entry>
         <entry>tilt</entry>
         <entry>Tilt</entry>
         <entry encoding="base64">XDxmcm9tX2VmZmVjdF9pbmZvX2xpbmVcPg==</entry>
@@ -483,6 +483,8 @@
         <entry encoding="base64">XDxzZWN0aW9uX2xpbmVfbm9cPg==</entry>
         <entry encoding="base64">XDxwYXJzZVw+</entry>
         <entry>process_state</entry>
+        <entry encoding="base64">XDx1c2luZ19kaWZmaWN1bHR5X2F1ZGlvXD4=</entry>
+        <entry>INFINITE</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
