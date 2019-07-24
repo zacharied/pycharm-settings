@@ -93,12 +93,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563917487833">
-        <mark key="'" line="1026" column="79" />
-        <mark key="[" line="1021" column="69" />
-        <mark key="]" line="1021" column="107" />
-        <mark key="." line="1021" column="107" />
-        <mark key="^" line="1021" column="107" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563926124796">
+        <mark key="'" line="1397" column="27" />
+        <mark key="[" line="1043" column="86" />
+        <mark key="]" line="1045" column="78" />
+        <mark key="." line="1045" column="78" />
+        <mark key="^" line="1045" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" timestamp="1563917510461">
         <mark key="'" line="29" column="0" />
@@ -111,10 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20656" column="93" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="20663" column="23" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="20664" column="12" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="344" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="557" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="799" column="96" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="489" column="16" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -199,7 +195,6 @@
       <jump line="552" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="603" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="954" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1023" column="60" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1026" column="79" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="97" column="9" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="8176" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
@@ -211,6 +206,11 @@
       <jump line="9402" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="9452" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
+      <jump line="1219" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1021" column="84" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1023" column="86" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="153" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1397" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -421,7 +421,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>tilt</text>
+        <text encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>data/vox_01_ifs/</text>
@@ -458,9 +458,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tilt</last-search>
+      <last-search encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</last-search>
       <last-offset />
-      <last-pattern>tilt</last-pattern>
+      <last-pattern encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -468,7 +468,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzbGFtX2RpdmlzaW9uXD4=</entry>
         <entry encoding="base64">XDxzcGluX2RpdmlzaW9uXD4=</entry>
         <entry encoding="base64">XDxWb3hQYXJzZUVycm9yXD4=</entry>
         <entry>DEBUG</entry>
@@ -488,6 +487,7 @@
         <entry>scaling_factor</entry>
         <entry encoding="base64">XDx0b19rc2hfbmFtZVw+</entry>
         <entry>tilt</entry>
+        <entry encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
