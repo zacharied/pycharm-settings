@@ -10,7 +10,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563917517259">
+      <file name="/Dummy.txt" timestamp="1563927453129">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="29" />
       </file>
@@ -93,15 +93,15 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563926124796">
-        <mark key="'" line="1397" column="27" />
-        <mark key="[" line="1043" column="86" />
-        <mark key="]" line="1045" column="78" />
-        <mark key="." line="1045" column="78" />
-        <mark key="^" line="1045" column="78" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563927369007">
+        <mark key="'" line="1219" column="0" />
+        <mark key="[" line="1004" column="88" />
+        <mark key="]" line="1004" column="88" />
+        <mark key="." line="1004" column="88" />
+        <mark key="^" line="1004" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" timestamp="1563917510461">
-        <mark key="'" line="29" column="0" />
+        <mark key="'" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/scratch.py" timestamp="1563566596519">
         <mark key="[" line="6" column="48" />
@@ -206,11 +206,11 @@
       <jump line="9402" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="9452" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
-      <jump line="1219" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1021" column="84" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1023" column="86" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="153" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1397" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1219" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
