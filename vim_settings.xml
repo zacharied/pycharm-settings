@@ -10,7 +10,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564006349436">
+      <file name="/Dummy.txt" timestamp="1564007212050">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="29" />
       </file>
@@ -38,6 +38,9 @@
       </file>
       <file name="/fragment.py" timestamp="1563917131949">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" timestamp="1564007442582">
+        <mark key="'" line="91" column="4" />
       </file>
       <file name="/a.dummy" timestamp="1563754243140">
         <mark key="[" line="0" column="0" />
@@ -97,12 +100,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564006457026">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564007277004">
         <mark key="'" line="1424" column="27" />
-        <mark key="[" line="885" column="29" />
-        <mark key="]" line="886" column="7" />
-        <mark key="." line="886" column="7" />
-        <mark key="^" line="886" column="7" />
+        <mark key="[" line="182" column="13" />
+        <mark key="]" line="182" column="30" />
+        <mark key="." line="182" column="30" />
+        <mark key="^" line="182" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" timestamp="1563917510461">
         <mark key="'" line="26" column="0" />
@@ -118,14 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1145" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1192" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="417" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="471" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="463" column="10" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="851" column="24" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1281" column="18" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1252" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1353" column="50" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1354" column="50" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -218,6 +213,14 @@
       <jump line="6262" column="0" filename="$USER_HOME$/Documents/Converter/out/jugglers_maddness_lite_show_magic/exhaust.ksh" />
       <jump line="6843" column="0" filename="$USER_HOME$/Documents/Converter/out/jugglers_maddness_lite_show_magic/exhaust.ksh" />
       <jump line="6285" column="0" filename="$USER_HOME$/Documents/Converter/out/jugglers_maddness_lite_show_magic/exhaust.ksh" />
+      <jump line="177" column="28" filename="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" />
+      <jump line="54" column="4" filename="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" />
+      <jump line="57" column="12" filename="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" />
+      <jump line="66" column="16" filename="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" />
+      <jump line="42" column="12" filename="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" />
+      <jump line="39" column="4" filename="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" />
+      <jump line="91" column="4" filename="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -428,7 +431,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>tilt</text>
+        <text encoding="base64">XDw4XD4=</text>
       </register>
       <register name="0" type="4">
         <text>f'{cam_param.to_ksh_name()}={cam_param.to_ksh_value(cam_param.start_param)}'</text>
@@ -465,9 +468,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tilt</last-search>
+      <last-search encoding="base64">XDw4XD4=</last-search>
       <last-offset />
-      <last-pattern>tilt</last-pattern>
+      <last-pattern encoding="base64">XDw4XD4=</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -475,8 +478,6 @@
     </search>
     <history>
       <history-search>
-        <entry>for e</entry>
-        <entry>ascii</entry>
         <entry encoding="base64">XDxleGNlcHRpb25zX3dyaXRlX2xhc3RfZXJyb3JcPg==</entry>
         <entry>difficulty_token</entry>
         <entry>diff_token</entry>
@@ -495,6 +496,8 @@
         <entry>SPCONTROLLER</entry>
         <entry encoding="base64">XDxldmVudHNfc3Bjb250cm9sbGVyXD4=</entry>
         <entry>tilt</entry>
+        <entry encoding="base64">PDg+</entry>
+        <entry encoding="base64">XDw4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
