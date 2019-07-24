@@ -97,12 +97,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563927369007">
-        <mark key="'" line="1219" column="0" />
-        <mark key="[" line="1004" column="88" />
-        <mark key="]" line="1004" column="88" />
-        <mark key="." line="1004" column="88" />
-        <mark key="^" line="1004" column="88" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564005042118">
+        <mark key="'" line="820" column="48" />
+        <mark key="[" line="985" column="71" />
+        <mark key="]" line="985" column="72" />
+        <mark key="." line="985" column="72" />
+        <mark key="^" line="985" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" timestamp="1563917510461">
         <mark key="'" line="26" column="0" />
@@ -115,17 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="440" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="444" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="447" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="628" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="495" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="458" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="485" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="882" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1042" column="42" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="884" column="59" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="490" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="855" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="868" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="455" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -142,7 +131,6 @@
       <jump line="605" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1050" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="462" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="820" column="22" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="826" column="18" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1193" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -215,10 +203,22 @@
       <jump line="73136" column="22" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
       <jump line="73137" column="22" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
       <jump line="73135" column="22" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="116" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="120" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="622" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="623" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="701" column="53" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="702" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="718" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="817" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="874" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="873" column="38" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="820" column="48" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="231" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -425,46 +425,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>インビ</text>
+        <text>SPCONTROLLER</text>
       </register>
       <register name="0" type="4">
         <text>data/vox_01_ifs/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2ZvbycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmRlZiBjb3B5X2F1ZGlvKHZveCwgb3V0X2Rpcik6CiAgICBvdXRwdXRfcGF0aAo=</text>
+        <text encoding="base64">ICAgIGRlZiBkdXJhdGlvbl9zaW5jZShzZWxmLCBzdGFydCwgZW5kKToKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgb3MucGF0aC5iYXNlbmFtZShmKSA9PSAnamsnOgogICAgICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNhbV9wYXJhbSA9IGNhbV9wYXJhbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">REVCVUdfY3Vycl9zb25nID0gTm9uZQpERUJVR19jdXJyX2xpbmVfbnVtID0gMAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2ZvbycpCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgIHNlbGYuCiAgICBzZWxmLgogICAgc2VsZi4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CmRlZiBjb3B5X2F1ZGlvKHZveCwgb3V0X2Rpcik6CiAgICBvdXRwdXRfcGF0aAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgb3MucGF0aC5iYXNlbmFtZShmKSA9PSAnamsnOgogICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMuZXhjX3ZhbHVlCg==</text>
+        <text encoding="base64">REVCVUdfY3Vycl9zb25nID0gTm9uZQpERUJVR19jdXJyX2xpbmVfbnVtID0gMAoK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ3siW0lOXSIgaWYgaXNfaW5wdXRfZXJyb3IgZWxzZSAiW09VVF0ifSB7IioqKiAiIGlmIGlzX2NyaXRpY2FsIGVsc2UgIiJ9e0RFQlVHX2N1cnJfc29uZ317IjoiICsgc3RyKERFQlVHX2N1cnJfbGluZV9udW0pIGlmIGxpbmVfbm8gaXMgbm90IE5vbmUgZWxzZSAiIn06XG57dHJhY2ViYWNrLmZvcm1hdF9leGMoKX0nLCBmaWxlPWV4Y2VwdGlvbnNfZmlsZSkK</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAgIHNlbGYuCiAgICBzZWxmLgogICAgc2VsZi4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>インビ</last-search>
+      <last-search>SPCONTROLLER</last-search>
       <last-offset />
-      <last-pattern>インビ</last-pattern>
+      <last-pattern>SPCONTROLLER</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +472,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Builder</entry>
         <entry encoding="base64">XDxWb3hcPg==</entry>
         <entry>for e</entry>
         <entry>ascii</entry>
@@ -492,6 +491,7 @@
         <entry encoding="base64">g0ODk4Nyg1eDdYOLCQkJCQkJCSAJCQkJCQkJIAkJCQkJCQk=</entry>
         <entry>inbi</entry>
         <entry>インビ</entry>
+        <entry>SPCONTROLLER</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
@@ -543,6 +543,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
