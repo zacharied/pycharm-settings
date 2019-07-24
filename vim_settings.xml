@@ -20,6 +20,10 @@
         <mark key="^" line="3640" column="42" />
         <mark key="." line="3640" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/data/music_db.xml" timestamp="1563937004768">
+        <mark key="'" line="73135" column="22" />
+        <mark key="n" line="48" column="6" />
+      </file>
       <file name="/Python Console" timestamp="1563917156360">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -111,10 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="557" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="799" column="96" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="489" column="16" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="440" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="444" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="447" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -211,6 +211,10 @@
       <jump line="153" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1397" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1219" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="58" column="6" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="73136" column="22" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="73137" column="22" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="73135" column="22" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -421,7 +425,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</text>
+        <text>インビ</text>
       </register>
       <register name="0" type="4">
         <text>data/vox_01_ifs/</text>
@@ -458,9 +462,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</last-search>
+      <last-search>インビ</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</last-pattern>
+      <last-pattern>インビ</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -468,9 +472,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcGluX2RpdmlzaW9uXD4=</entry>
-        <entry encoding="base64">XDxWb3hQYXJzZUVycm9yXD4=</entry>
-        <entry>DEBUG</entry>
         <entry>Builder</entry>
         <entry encoding="base64">XDxWb3hcPg==</entry>
         <entry>for e</entry>
@@ -488,6 +489,9 @@
         <entry encoding="base64">XDx0b19rc2hfbmFtZVw+</entry>
         <entry>tilt</entry>
         <entry encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</entry>
+        <entry encoding="base64">g0ODk4Nyg1eDdYOLCQkJCQkJCSAJCQkJCQkJIAkJCQkJCQk=</entry>
+        <entry>inbi</entry>
+        <entry>インビ</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
@@ -536,6 +540,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
