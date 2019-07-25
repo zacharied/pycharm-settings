@@ -36,12 +36,13 @@
         <mark key="'" line="73135" column="22" />
         <mark key="n" line="48" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1564063319146">
-        <mark key="'" line="990" column="34" />
-        <mark key="[" line="970" column="109" />
-        <mark key="]" line="970" column="109" />
-        <mark key="." line="970" column="109" />
-        <mark key="^" line="970" column="109" />
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1564068485264">
+        <mark key="a" line="1156" column="105" />
+        <mark key="'" line="1011" column="16" />
+        <mark key="[" line="1168" column="96" />
+        <mark key="]" line="1168" column="96" />
+        <mark key="." line="1168" column="96" />
+        <mark key="^" line="1168" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" timestamp="1563917510461">
         <mark key="'" line="26" column="0" />
@@ -114,8 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="882" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1042" column="42" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="884" column="59" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="490" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="855" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -214,10 +213,12 @@
       <jump line="929" column="25" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="965" column="29" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="989" column="34" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1153" column="105" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1011" column="16" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VGhlIA==</text>
+        <text>map</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -421,40 +422,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGhlIA==</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lX2lzX2Fibm9ybWFsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>data/vox_01_ifs/</text>
+        <text>[(EventKind.TRACK, self.state_track)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ldmVudHNbCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBldmVudC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ldmVudHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBldmVudCA9IHNlbGYuZXZlbnRzX3NwY29udHJvbGxlcihjYW1fcGFyYW0pW25vd10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50aW1pbmdfcG9pbnQobm93KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIENhbWVyYSBldmVudHMuCiAgICAgICAgICAgICAgICAgICAgZm9yIGNhbV9wYXJhbSBpbiBsaXN0KENhbWVyYVBhcmFtKToKICAgICAgICAgICAgICAgICAgICAgICAgaWYgbm93IGluIHNlbGYuZXZlbnRzX3NwY29udHJvbGxlcihjYW1fcGFyYW0pIGFuZCBjYW1fcGFyYW0udG9fa3NoX3ZhbHVlKCkgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIEJlZ2lubmluZyBvZiBhbiBTcENvbnRyb2xsZXIgbm9kZSBoZXJlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm93ID0gVGltaW5nLmZyb21fdGltZV9zdHIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm93ID0gVGltaW5nLmZyb21fdGltZV9zdHIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3cuYmVhdCA+IDEgYW5kIG5vdy5vZmZzZXQgPiAwIGFuZCBub3cgaW4gc2VsZi5ldmVudHNfdGltZXNpZygpOgogICAgICAgICAgICAgICAgICAgICAgICByYWlzZSBLc2hDb252ZXJ0RXJyb3IoJ3RpbWUgc2lnbmF0dXJlIGNoYW5nZSBpbiB0aGUgbWlkZGxlIG9mIGEgbWVhc3VyZScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2ZvbycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3cuYmVhdCA+IDEgYW5kIG5vdy5vZmZzZXQgPiAwIGFuZCBub3cgaW4gc2VsZi5ldmVudHNfdGltZXNpZygpOgogICAgICAgICAgICAgICAgICAgICAgICByYWlzZSBLc2hDb252ZXJ0RXJyb3IoJ3RpbWUgc2lnbmF0dXJlIGNoYW5nZSBpbiB0aGUgbWlkZGxlIG9mIGEgbWVhc3VyZScpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmRlZiBjb3B5X2F1ZGlvKHZveCwgb3V0X2Rpcik6CiAgICBvdXRwdXRfcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50c19rZXkgPSAoKEV2ZW50S2luZC5UUkFDSywgc2VsZi5zdGF0ZV90cmFjayksIFRpbWluZy5mcm9tX3RpbWVfc3RyKHNwbGl0dGVkWzBdKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgb3MucGF0aC5iYXNlbmFtZShmKSA9PSAnamsnOgogICAgICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ldmVudHNbCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
