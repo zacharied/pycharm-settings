@@ -3,87 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Converter/src/util.py" timestamp="1563136820256">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-      </file>
       <file name="/Dummy.txt" timestamp="1563927453129">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/out/crystalmissile_fuhringcatmark/maximum.ksh" timestamp="1563578429158">
-        <mark key="[" line="3640" column="26" />
-        <mark key="]" line="3640" column="26" />
-        <mark key="^" line="3640" column="42" />
-        <mark key="." line="3640" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/data/music_db.xml" timestamp="1563937004768">
-        <mark key="'" line="73135" column="22" />
-        <mark key="n" line="48" column="6" />
-      </file>
-      <file name="/Python Console" timestamp="1563917156360">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/vox2ksh/data/vox_09_ifs/003_0871_thestarineclipse_siikee_3e.vox" timestamp="1562349790644">
-        <mark key="[" line="75" column="20" />
-        <mark key="]" line="75" column="20" />
-        <mark key="^" line="75" column="20" />
-        <mark key="." line="75" column="20" />
-      </file>
-      <file name="/fragment.py" timestamp="1563917131949">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1563754243140">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/src/ksh.py" timestamp="1563137630755">
-        <mark key="'" line="130" column="0" />
-        <mark key="[" line="144" column="70" />
-        <mark key="]" line="146" column="58" />
-        <mark key="." line="146" column="58" />
-        <mark key="^" line="146" column="58" />
-      </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562862000848">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/vox2ksh/data/music_db.xml" timestamp="1562344852012">
-        <mark key="'" line="267" column="37" />
-        <mark key="[" line="217" column="18" />
-        <mark key="]" line="219" column="16" />
-        <mark key="." line="219" column="16" />
-        <mark key="^" line="219" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1563136595644">
-        <mark key="'" line="30" column="38" />
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" timestamp="1562783119937">
-        <mark key="'" line="16656" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/install-certs.py" timestamp="1563566482155">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1563134320964">
-        <mark key="[" line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/src/vox.py" timestamp="1563137583681">
-        <mark key="'" line="407" column="12" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="293" column="21" />
-        <mark key="^" line="31" column="39" />
-        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1563752642585">
         <mark key="[" line="4" column="4" />
@@ -97,6 +19,84 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="/Python Console" timestamp="1563917156360">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1563917131949">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/vox.py" timestamp="1563137583681">
+        <mark key="'" line="407" column="12" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="293" column="21" />
+        <mark key="^" line="31" column="39" />
+        <mark key="." line="89" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1563754243140">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/data/music_db.xml" timestamp="1563937004768">
+        <mark key="'" line="73135" column="22" />
+        <mark key="n" line="48" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1564062125788">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="928" column="58" />
+        <mark key="]" line="928" column="76" />
+        <mark key="." line="928" column="76" />
+        <mark key="^" line="928" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" timestamp="1563917510461">
+        <mark key="'" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1563136595644">
+        <mark key="'" line="30" column="38" />
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/scratch.py" timestamp="1563566596519">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+        <mark key="^" line="6" column="54" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/install-certs.py" timestamp="1563566482155">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1563134320964">
+        <mark key="[" line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/data/vox_09_ifs/003_0871_thestarineclipse_siikee_3e.vox" timestamp="1562349790644">
+        <mark key="[" line="75" column="20" />
+        <mark key="]" line="75" column="20" />
+        <mark key="^" line="75" column="20" />
+        <mark key="." line="75" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/data/vox_01_ifs/001_0079_ikasama_kemu_4i.vox" timestamp="1564061879699" />
+      <file name="$USER_HOME$/Code/vox2ksh/data/music_db.xml" timestamp="1562344852012">
+        <mark key="'" line="267" column="37" />
+        <mark key="[" line="217" column="18" />
+        <mark key="]" line="219" column="16" />
+        <mark key="." line="219" column="16" />
+        <mark key="^" line="219" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/out/crystalmissile_fuhringcatmark/maximum.ksh" timestamp="1563578429158">
+        <mark key="[" line="3640" column="26" />
+        <mark key="]" line="3640" column="26" />
+        <mark key="^" line="3640" column="42" />
+        <mark key="." line="3640" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" timestamp="1562783119937">
+        <mark key="'" line="16656" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1563927369007">
         <mark key="'" line="1219" column="0" />
         <mark key="[" line="1004" column="88" />
@@ -104,14 +104,19 @@
         <mark key="." line="1004" column="88" />
         <mark key="^" line="1004" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" timestamp="1563917510461">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/src/ksh.py" timestamp="1563137630755">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="144" column="70" />
+        <mark key="]" line="146" column="58" />
+        <mark key="." line="146" column="58" />
+        <mark key="^" line="146" column="58" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/scratch.py" timestamp="1563566596519">
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="6" column="48" />
-        <mark key="." line="6" column="48" />
-        <mark key="^" line="6" column="54" />
+      <file name="$USER_HOME$/Documents/Converter/src/util.py" timestamp="1563136820256">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -218,7 +223,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -422,7 +427,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>インビ</text>
@@ -489,7 +494,7 @@
         <entry encoding="base64">XDx0b19rc2hfbmFtZVw+</entry>
         <entry>tilt</entry>
         <entry encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</entry>
-        <entry encoding="base64">g0ODk4Nyg1eDdYOLCQkJCQkJCSAJCQkJCQkJIAkJCQkJCQk=</entry>
+        <entry encoding="base64">77+9Q++/ve+/ve+/vXLvv71X77+9de+/ve+/vQkJCQkJCQkgCQkJCQkJCSAJCQkJCQkJ</entry>
         <entry>inbi</entry>
         <entry>インビ</entry>
       </history-search>
