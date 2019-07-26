@@ -7,11 +7,8 @@
         <mark key="'" line="73135" column="22" />
         <mark key="n" line="48" column="6" />
       </file>
-      <file name="/Python Console" timestamp="1564100790282">
+      <file name="/Python Console" timestamp="1564105041327">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/data/vox_09_ifs/003_0871_thestarineclipse_siikee_3e.vox" timestamp="1562349790644">
         <mark key="[" line="75" column="20" />
@@ -30,41 +27,21 @@
       <file name="/a.dummy" timestamp="1563754243140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/ksh.py" timestamp="1563137630755">
-        <mark key="'" line="130" column="0" />
-        <mark key="[" line="144" column="70" />
-        <mark key="]" line="146" column="58" />
-        <mark key="." line="146" column="58" />
-        <mark key="^" line="146" column="58" />
-      </file>
       <file name="$USER_HOME$/Code/mapped_enum/__init__.py" timestamp="1564099723767">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="29" />
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/data/music_db.xml" timestamp="1562344852012">
-        <mark key="'" line="267" column="37" />
-        <mark key="[" line="217" column="18" />
-        <mark key="]" line="219" column="16" />
-        <mark key="." line="219" column="16" />
-        <mark key="^" line="219" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1563136595644">
-        <mark key="'" line="30" column="38" />
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1563134320964">
         <mark key="[" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564101086214">
+      <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="15" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/scratch.py" timestamp="1563566596519">
         <mark key="[" line="6" column="48" />
@@ -72,14 +49,7 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/util.py" timestamp="1563136820256">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1564012530662">
+      <file name="/Dummy.txt" timestamp="1564105335156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/crystalmissile_fuhringcatmark/maximum.ksh" timestamp="1563578429158">
@@ -106,18 +76,17 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mapped_enum/test.py" timestamp="1564105240896">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="37" column="28" />
+      </file>
       <file name="$USER_HOME$/Code/mapped_enum/README.md" timestamp="1564101257521">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="6" />
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/src/vox.py" timestamp="1563137583681">
-        <mark key="'" line="407" column="12" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="293" column="21" />
-        <mark key="^" line="31" column="39" />
-        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1563752642585">
         <mark key="[" line="4" column="4" />
@@ -241,8 +210,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBhcnJheSBpbXBvcnQgYXJyYXkK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -446,37 +415,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>) if len(args) == 1 else args</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lX2lzX2Fibm9ybWFsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGhhc2F0dHIoY2xzLCBmJ3RvX3thcmd9Jyk6CiAgICAgICAgICAgICAgICBzZXRhdHRyKGNscywgZid0b197YXJnfScsIG1hcHRvKQo=</text>
+        <text encoding="base64">S1dBUkdfUEFSQU1fVE9fUFJFRklYID0gJ3RvX3ByZWZpeCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDMnCg==</text>
+        <text encoding="base64">ZnJvbSBhcnJheSBpbXBvcnQgYXJyYXkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgbmV4dCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGFyZ3MpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlbnVtIGltcG9ydCBFbnVtCgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNsYXNzIG1vZHVsZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHdhcm5pbmdzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGVudW1fbWFwKCd2b3gnLCAna3NoJykKY2xhc3MgTWFwVGVzdChFbnVtKToKICAgIEZPTyA9ICdmb28gdm94JywgJ2ZvbyBrc2gnCiAgICBCQVIgPSAnYmFyIHZveCcsICdiYXIga3NoJwoKbWFwdGVzdCA9IE1hcFRlc3QuQkFSCnByaW50KG1hcHRlc3QudG9fa3NoKCkpCnByaW50KE1hcFRlc3QuZnJvbV9rc2goJ2JhciBrc2gnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2FybmluZ3MuZmlsdGVyd2FybmluZ3MoJ2lnbm9yZScsIG1lc3NhZ2U9IkxvY2FsIGNsYXNzICdGb28nIGlzIG5vdCB1c2VkIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMuX21hcCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBTYW1lIHRoaW5nIGhlcmUuCiAgICAgICAgICAgIGRlZiBtYXBmcm9tKGssIGk9aW5kZXgpOgogICAgICAgICAgICAgICAgZm9yIG0gaW4gY2xzOgogICAgICAgICAgICAgICAgICAgIGlmIG0udmFsdWVbaV0gPT0gazoKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG0KCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
