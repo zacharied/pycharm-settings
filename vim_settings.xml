@@ -58,7 +58,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564105335156">
+      <file name="/Dummy.txt" timestamp="1564167375111">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
         <mark key="." line="0" column="48" />
@@ -94,11 +94,11 @@
         <mark key="^" line="31" column="39" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1564165676128">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="35" />
-        <mark key="^" line="6" column="35" />
-        <mark key="." line="6" column="35" />
+      <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1564167361238">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1564160595768">
         <mark key="a" line="1120" column="105" />
@@ -170,11 +170,15 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="15" column="63" />
       </file>
+      <file name="$USER_HOME$/Code/mapped-enum/test.py" timestamp="1564167332827">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="52" column="45" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="1" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
-      <jump line="8173" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="8224" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="8615" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="8665" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
@@ -272,10 +276,13 @@
       <jump line="985" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="434" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" />
+      <jump line="6" column="21" filename="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" />
+      <jump line="46" column="21" filename="$USER_HOME$/Code/mapped-enum/test.py" />
+      <jump line="1" column="26" filename="$USER_HOME$/Code/mapped-enum/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhcnJheSBpbXBvcnQgYXJyYXkK</text>
+      <register name="&quot;" type="4">
+        <text>len(keys) == 1:</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -479,40 +486,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>) if len(args) == 1 else args</text>
+        <text>len(keys) == 1:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lX2lzX2Fibm9ybWFsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">S1dBUkdfUEFSQU1fVE9fUFJFRklYID0gJ3RvX3ByZWZpeCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBub2luc3BlY3Rpb24gUHlVbnVzZWRMb2NhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhcnJheSBpbXBvcnQgYXJyYXkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGFyZ3MpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oa2V5cykgPT0gMToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oa2V5cykgPT0gMToKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NpbmdsZV9rZXkoc2VsZik6Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHdhcm5pbmdzCg==</text>
+        <text encoding="base64">ICAgICAgICBAZW51bV9tYXAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FybmluZ3MuZmlsdGVyd2FybmluZ3MoJ2lnbm9yZScsIG1lc3NhZ2U9IkxvY2FsIGNsYXNzICdGb28nIGlzIG5vdCB1c2VkIikK</text>
+        <text encoding="base64">CiAgICAgICAgaWYgdG9fcHJlZml4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0b19wcmVmaXguaXNzcGFjZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBTYW1lIHRoaW5nIGhlcmUuCiAgICAgICAgICAgIGRlZiBtYXBmcm9tKGssIGk9aW5kZXgpOgogICAgICAgICAgICAgICAgZm9yIG0gaW4gY2xzOgogICAgICAgICAgICAgICAgICAgIGlmIG0udmFsdWVbaV0gPT0gazoKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG0KCg==</text>
+        <text encoding="base64">ICAgIGlmIGxlbihhcmdzKSA8IDE6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignZW51bV9tYXAgcmVxdWlyZXMgdGhlIG1hcHBpbmcgbmFtZXMgYXMgYW4gYXJndW1lbnQnKQogICAgZWxpZiBsZW4oYXJncykgPiAxOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2VudW1fbWFwIHJlcXVpcmVzIG9uZSBhcmd1bWVudCcpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhcnJheSBpbXBvcnQgYXJyYXkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
