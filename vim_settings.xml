@@ -3,29 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Converter/data/music_db.xml" timestamp="1563937004768">
-        <mark key="'" line="73135" column="22" />
-        <mark key="n" line="48" column="6" />
-      </file>
       <file name="/Python Console" timestamp="1564105041327">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/data/vox_09_ifs/003_0871_thestarineclipse_siikee_3e.vox" timestamp="1562349790644">
-        <mark key="[" line="75" column="20" />
-        <mark key="]" line="75" column="20" />
-        <mark key="^" line="75" column="20" />
-        <mark key="." line="75" column="20" />
+      <file name="$USER_HOME$/Code/mapped_enum/README.md" timestamp="1564101257521">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="/fragment.py" timestamp="1563917131949">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" timestamp="1564012344740">
-        <mark key="'" line="91" column="4" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="20" />
-      </file>
       <file name="/a.dummy" timestamp="1563754243140">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/out/albida_muryoku/exhaust.ksh" timestamp="1564078703037">
+        <mark key="'" line="13369" column="11" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/__init__.py" timestamp="1564099723767">
         <mark key="[" line="8" column="0" />
@@ -33,42 +27,11 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1563134320964">
-        <mark key="[" line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="15" column="63" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/scratch.py" timestamp="1563566596519">
         <mark key="[" line="6" column="48" />
         <mark key="]" line="6" column="48" />
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="54" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1564105335156">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/out/crystalmissile_fuhringcatmark/maximum.ksh" timestamp="1563578429158">
-        <mark key="[" line="3640" column="26" />
-        <mark key="]" line="3640" column="26" />
-        <mark key="^" line="3640" column="42" />
-        <mark key="." line="3640" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1564101400086">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="44" />
-        <mark key="^" line="20" column="44" />
-        <mark key="." line="20" column="44" />
-      </file>
-      <file name="$USER_HOME$/Code/mapped_enum/LICENSE" timestamp="1564101301509">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/install-certs.py" timestamp="1563566482155">
         <mark key="[" line="0" column="0" />
@@ -76,17 +39,29 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mapped_enum/test.py" timestamp="1564105240896">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="28" />
-        <mark key="^" line="37" column="28" />
+      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1563134320964">
+        <mark key="[" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/mapped_enum/README.md" timestamp="1564101257521">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
+      <file name="$USER_HOME$/Code/vox2ksh/out/albida_muryoku/advanced.ksh" timestamp="1564078695333">
+        <mark key="'" line="4087" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/out/crystalmissile_fuhringcatmark/maximum.ksh" timestamp="1563578429158">
+        <mark key="[" line="3640" column="26" />
+        <mark key="]" line="3640" column="26" />
+        <mark key="^" line="3640" column="42" />
+        <mark key="." line="3640" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/util.py" timestamp="1563136820256">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1564105335156">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="48" />
+        <mark key="." line="0" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1563752642585">
         <mark key="[" line="4" column="4" />
@@ -100,11 +75,100 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1564101400086">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="20" column="44" />
+        <mark key="^" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped_enum/test.py" timestamp="1564105240896">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="37" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/vox.py" timestamp="1563137583681">
+        <mark key="'" line="407" column="12" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="293" column="21" />
+        <mark key="^" line="31" column="39" />
+        <mark key="." line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1564165676128">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1564160595768">
+        <mark key="a" line="1120" column="105" />
+        <mark key="'" line="78" column="21" />
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="39" column="31" />
+        <mark key="^" line="39" column="20" />
+        <mark key="." line="39" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" timestamp="1563917510461">
+        <mark key="'" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped_enum/LICENSE" timestamp="1564101301509">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1563136595644">
+        <mark key="'" line="30" column="38" />
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/out/akeboshi_rocket_kishidakyodan/advanced.ksh" timestamp="1564077461491">
+        <mark key="'" line="1765" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/data/vox_09_ifs/003_0871_thestarineclipse_siikee_3e.vox" timestamp="1562349790644">
+        <mark key="[" line="75" column="20" />
+        <mark key="]" line="75" column="20" />
+        <mark key="^" line="75" column="20" />
+        <mark key="." line="75" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/data/music_db.xml" timestamp="1564079741585">
+        <mark key="'" line="43103" column="8" />
+        <mark key="[" line="217" column="18" />
+        <mark key="]" line="219" column="16" />
+        <mark key="." line="219" column="16" />
+        <mark key="^" line="219" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" timestamp="1562783119937">
+        <mark key="'" line="16656" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564100536505">
+        <mark key="'" line="1219" column="0" />
         <mark key="[" line="1039" column="76" />
         <mark key="]" line="1039" column="77" />
-        <mark key="^" line="1039" column="77" />
         <mark key="." line="1039" column="77" />
+        <mark key="^" line="1039" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/ksh.py" timestamp="1563137630755">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="144" column="70" />
+        <mark key="]" line="146" column="58" />
+        <mark key="." line="146" column="58" />
+        <mark key="^" line="146" column="58" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/data/vox_01_ifs/001_0002_broken_iroha_2a.vox" timestamp="1564161501904">
+        <mark key="'" line="581" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/out/loveshine_arm/exhaust.ksh" timestamp="1564077790357">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="15" column="63" />
       </file>
     </filemarks>
     <jumps>
@@ -465,26 +529,26 @@
     </search>
     <history>
       <history-search>
-        <entry>tilt=</entry>
-        <entry>scaling</entry>
-        <entry encoding="base64">XDxzY2FsaW5nX2ZhY3Rvclw+</entry>
-        <entry>scaling_factor</entry>
-        <entry encoding="base64">XDx0b19rc2hfbmFtZVw+</entry>
-        <entry encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</entry>
-        <entry encoding="base64">g0ODk4Nyg1eDdYOLCQkJCQkJCSAJCQkJCQkJIAkJCQkJCQk=</entry>
         <entry>inbi</entry>
         <entry>インビ</entry>
-        <entry>SPCONTROLLER</entry>
-        <entry encoding="base64">XDxldmVudHNfc3Bjb250cm9sbGVyXD4=</entry>
-        <entry>tilt</entry>
-        <entry encoding="base64">PDg+</entry>
-        <entry encoding="base64">XDw4XD4=</entry>
-        <entry>TAB_EFFECT</entry>
-        <entry>process_state</entry>
-        <entry>TabEffect</entry>
-        <entry>abnormal</entry>
-        <entry encoding="base64">XDxzcGNvbnRyb2xsZXJfbGluZV9pc19ub3JtYWxcPg==</entry>
+        <entry encoding="base64">XDxmcm9tX3RpbWVfc3RyXD4=</entry>
         <entry encoding="base64">XDxsaW5lX2lzX2Fibm9ybWFsXD4=</entry>
+        <entry encoding="base64">XDxUaWx0TW9kZVw+</entry>
+        <entry encoding="base64">XDxwcmVzc1w+</entry>
+        <entry encoding="base64">XDxLc2hDb252ZXJ0RXJyb3JcPg==</entry>
+        <entry encoding="base64">XDxMYXNlck5vZGVcPg==</entry>
+        <entry>SPCONTROLLER</entry>
+        <entry encoding="base64">XDx0aW1pbmdfcG9pbnRcPg==</entry>
+        <entry>print</entry>
+        <entry encoding="base64">XDxzbGFtX3N0YXR1c1w+</entry>
+        <entry>bpm_info</entry>
+        <entry encoding="base64">XDxsYXN0X3RpbWVcPg==</entry>
+        <entry>fx-</entry>
+        <entry encoding="base64">XDxvdXRcPg==</entry>
+        <entry>2</entry>
+        <entry>kamome</entry>
+        <entry>maximum</entry>
+        <entry>tqdm</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
@@ -495,13 +559,13 @@
         <entry>set relativenumb</entry>
         <entry>ww</entry>
         <entry>nohl</entry>
+        <entry>wq</entry>
         <entry>set relativenumber</entry>
         <entry>set number</entry>
         <entry encoding="base64">JzwsJz5zL0tzaG9vdEVmZmVjdC9Tb3VuZEVmZmVjdA==</entry>
         <entry encoding="base64">JzwsJz5zL2Nscy9Tb3VuZEVmZmVjdC8=</entry>
         <entry encoding="base64">JzwsJz5zL3NwbGl0dGVkL3BhcmFtcy9n</entry>
-        <entry>wj</entry>
-        <entry>wq</entry>
+        <entry>set relativenumber number</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -537,6 +601,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
