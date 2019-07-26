@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1564077661367">
+      <file name="/Python Console" timestamp="1564161304138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1563917131949">
@@ -19,30 +19,12 @@
       <file name="$USER_HOME$/Code/vox2ksh/out/albida_muryoku/exhaust.ksh" timestamp="1564078703037">
         <mark key="'" line="13369" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/scratch.py" timestamp="1563566596519">
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="6" column="48" />
-        <mark key="." line="6" column="48" />
-        <mark key="^" line="6" column="54" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/install-certs.py" timestamp="1563566482155">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1563134320964">
         <mark key="[" line="5" column="38" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/data/vox_01_ifs/001_0079_ikasama_kemu_4i.vox" timestamp="1564061879699" />
       <file name="$USER_HOME$/Code/vox2ksh/out/albida_muryoku/advanced.ksh" timestamp="1564078695333">
         <mark key="'" line="4087" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/out/crystalmissile_fuhringcatmark/maximum.ksh" timestamp="1563578429158">
-        <mark key="[" line="3640" column="26" />
-        <mark key="]" line="3640" column="26" />
-        <mark key="^" line="3640" column="42" />
-        <mark key="." line="3640" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/src/util.py" timestamp="1563136820256">
         <mark key="'" line="44" column="0" />
@@ -56,18 +38,6 @@
         <mark key="]" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1563752642585">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/Code/vox2ksh/data/vox_11_ifs/004_1058_pb_medley_jubeat_5m.vox" timestamp="1562179395301">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/src/vox.py" timestamp="1563137583681">
         <mark key="'" line="407" column="12" />
         <mark key="[" line="190" column="0" />
@@ -75,9 +45,9 @@
         <mark key="^" line="31" column="39" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1564079850781">
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1564160595768">
         <mark key="a" line="1120" column="105" />
-        <mark key="'" line="697" column="8" />
+        <mark key="'" line="78" column="21" />
         <mark key="[" line="39" column="31" />
         <mark key="]" line="39" column="31" />
         <mark key="^" line="39" column="20" />
@@ -95,12 +65,6 @@
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/out/akeboshi_rocket_kishidakyodan/advanced.ksh" timestamp="1564077461491">
         <mark key="'" line="1765" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/vox2ksh/data/vox_09_ifs/003_0871_thestarineclipse_siikee_3e.vox" timestamp="1562349790644">
-        <mark key="[" line="75" column="20" />
-        <mark key="]" line="75" column="20" />
-        <mark key="^" line="75" column="20" />
-        <mark key="." line="75" column="20" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/data/music_db.xml" timestamp="1564079741585">
         <mark key="'" line="43103" column="8" />
@@ -126,14 +90,14 @@
         <mark key="." line="146" column="58" />
         <mark key="^" line="146" column="58" />
       </file>
+      <file name="$USER_HOME$/Code/vox2ksh/data/vox_01_ifs/001_0002_broken_iroha_2a.vox" timestamp="1564161501904">
+        <mark key="'" line="581" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/vox2ksh/out/loveshine_arm/exhaust.ksh" timestamp="1564077790357">
         <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1191" column="39" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="828" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1094" column="51" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1183" column="44" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1102" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="903" column="41" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -231,10 +195,13 @@
       <jump line="10273" column="13" filename="$USER_HOME$/Code/vox2ksh/data/music_db.xml" />
       <jump line="43095" column="7" filename="$USER_HOME$/Code/vox2ksh/data/music_db.xml" />
       <jump line="43103" column="8" filename="$USER_HOME$/Code/vox2ksh/data/music_db.xml" />
+      <jump line="78" column="21" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="297" column="16" filename="$USER_HOME$/Code/vox2ksh/data/vox_01_ifs/001_0002_broken_iroha_2a.vox" />
+      <jump line="581" column="0" filename="$USER_HOME$/Code/vox2ksh/data/vox_01_ifs/001_0002_broken_iroha_2a.vox" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -441,13 +408,13 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>maximum</text>
+        <text>tqdm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgbm93IGluIHNlbGYuZXZlbnRzX3RyYWNrKHNpZGUudG9fdHJhY2tfbnVtKCkpIGFuZCBzaWRlIGluIHNsYW1fc3RhdHVzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UgS3NoQ29udmVydEVycm9yKHNlbGYudm94ZmlsZS5uYW1lLCBmaWxlLm5hbWUsIGxpbmVfbnVtLCAnbmV3IGxhc2VyIG5vZGUgc3Bhd24gd2hpbGUgdHJ5aW5nIHRvIHJlc29sdmUgc2xhbScpCiAgICAgICAgICAgICAgICAgICAgICAgIGVsaWYgbm93IGluIHNlbGYuZXZlbnRzX3RyYWNrKHNpZGUudG9fdHJhY2tfbnVtKCkpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFzZXIgPSBzZWxmLmV2ZW50c190cmFjayhzaWRlLnRvX3RyYWNrX251bSgpKVtub3ddCiAgICAgICAgICAgICAgICAgICAgICAgIGVsaWYgc2lkZSBpbiBzbGFtX3N0YXR1czoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIHNsYW1fc3RhdHVzW3NpZGVdWzFdID09IDA6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFzZXIgPSBzbGFtX3N0YXR1c1tzaWRlXVswXS5lbmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWwgc2xhbV9zdGF0dXNbc2lkZV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLmxhc2Vyc1tzaWRlXSA9ICc6JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNsYW1fc3RhdHVzW3NpZGVdWzFdIC09IDEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgbGFzZXJzW3NpZGVdOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1ZmZlci5sYXNlcnNbc2lkZV0gPSAnOicKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLmxhc2Vyc1tzaWRlXSA9ICctJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIHR5cGUobGFzZXIpIGlzIExhc2VyU2xhbToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNsYW1fc3RhdHVzW3NpZGVdID0gW2xhc2VyLCAzXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgbGFzZXIuc3RhcnQuc3Bpbl9kaXZpc2lvbiAhPSAwOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGJ1ZmZlci5zcGluICE9ICcnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Zy5yZWNvcmQoRGVidWcuTGV2ZWwuV0FSTklORywgJ2tzaF9sYXNlcicsICdzcGluIG9uIGJvdGggbGFzZXJzJykKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gPSAnQCcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBsYXNlci5kaXJlY3Rpb24oKSA9PSBMYXNlclNsYW0uRGlyZWN0aW9uLkxFRlQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1ZmZlci5zcGluICs9ICcoJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1ZmZlci5zcGluICs9ICcpJwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIuc3BpbiArPSBzdHIoaW50KDE5MiAvIGxhc2VyLnN0YXJ0LnNwaW5fZGl2aXNpb24pKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFzZXIgPSBsYXNlci5zdGFydAoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgbGFzZXIucmFuZ2UgIT0gbGFzZXJfcmFuZ2Vbc2lkZV06CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIubWV0YS5hcHBlbmQoZidsYXNlcnJhbmdlX3tzaWRlLnRvX2xldHRlcigpfT17bGFzZXIucmFuZ2V9eCcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXNlcl9yYW5nZVtzaWRlXSA9IGxhc2VyLnJhbmdlCgogICAgICAgICAgICAgICAgICAgICAgICBpZiBsYXNlci5maWx0ZXIgIT0gbGFzdF9maWx0ZXI6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIubWV0YS5hcHBlbmQoZidmaWx0ZXJ0eXBlPXtsYXNlci5maWx0ZXIudG9fa3NoX25hbWUoKX0nKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFzdF9maWx0ZXIgPSBsYXNlci5maWx0ZXIKCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGxhc2VyLm5vZGVfdHlwZSA9PSBMYXNlckNvbnQuU1RBUlQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXNlcnNbc2lkZV0gPSBUcnVlCiAgICAgICAgICAgICAgICAgICAgICAgIGVsaWYgbGFzZXIubm9kZV90eXBlID09IExhc2VyQ29udC5FTkQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXNlcnNbc2lkZV0gPSBGYWxzZQogICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIubGFzZXJzW3NpZGVdID0gbGFzZXIucG9zaXRpb25fa3NoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG9sZHNfdGVtcFtidXR0b25dIC09IDEK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG9sZHNfdGVtcFtidXR0b25dIC09IDEK</text>
@@ -456,31 +423,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG9sZHNfdGVtcFtidXR0b25dIC09IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG9sZHNfdGVtcFtidXR0b25dIC09IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBzZWxmLmxhc3RfdGltZSA9IG5vdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndhcm5pbmdzID0gMAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBzZWxmLmxhc3RfdGltZSA9IG5vdwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9ldmVudHNfdHJhY2sgPSB7fQogICAgICAgIHNlbGYuX2V2ZW50c19icG0gPSBbXQogICAgICAgIHNlbGYuX2V2ZW50c190aW1lc2lnID0gW10KICAgICAgICBzZWxmLl9ldmVudHNfdGlsdG1vZGUgPSBbXQogICAgICAgIHNlbGYuX2V2ZW50c19zcGNvbnRyb2xsZXIgPSB7fQoK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndhcm5pbmdzID0gMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgYnVmZmVyLmxhc2Vyc1tzbGFtLnNpZGUoKV0gIT0gJzonOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UgS3NoQ29udmVydEVycm9yKCdhbm90aGVyIGxhc2VyIG5vZGUgd2FzIGZvdW5kIHdoaWxlIHJlc29sdmluZyBzbGFtJykKCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9ldmVudHNfdHJhY2sgPSB7fQogICAgICAgIHNlbGYuX2V2ZW50c19icG0gPSBbXQogICAgICAgIHNlbGYuX2V2ZW50c190aW1lc2lnID0gW10KICAgICAgICBzZWxmLl9ldmVudHNfdGlsdG1vZGUgPSBbXQogICAgICAgIHNlbGYuX2V2ZW50c19zcGNvbnRyb2xsZXIgPSB7fQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgZXZlbnQuc2lkZSBpbiBtYXAobGFtYmRhIHg6IHguc2lkZSgpLCBzbGFtX3N0YXR1cyk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByYWlzZSBLc2hDb252ZXJ0RXJyb3IoJ25ldyBsYXNlciBub2RlIHNwYXduIHdoaWxlIHRyeWluZyB0byByZXNvbHZlIHNsYW0nKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgYnVmZmVyLmxhc2Vyc1tzbGFtLnNpZGUoKV0gIT0gJzonOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UgS3NoQ29udmVydEVycm9yKCdhbm90aGVyIGxhc2VyIG5vZGUgd2FzIGZvdW5kIHdoaWxlIHJlc29sdmluZyBzbGFtJykKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>maximum</last-search>
+      <last-search>tqdm</last-search>
       <last-offset />
-      <last-pattern>maximum</last-pattern>
+      <last-pattern>tqdm</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -488,7 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">77+9Q++/ve+/ve+/vXLvv71X77+9de+/ve+/vQkJCQkJCQkgCQkJCQkJCSAJCQkJCQkJ</entry>
         <entry>inbi</entry>
         <entry>インビ</entry>
         <entry encoding="base64">XDxmcm9tX3RpbWVfc3RyXD4=</entry>
@@ -508,6 +474,7 @@
         <entry>2</entry>
         <entry>kamome</entry>
         <entry>maximum</entry>
+        <entry>tqdm</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
