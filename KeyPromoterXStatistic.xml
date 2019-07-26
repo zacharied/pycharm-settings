@@ -14,15 +14,31 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>22</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'converter'">
+      <Statistic Action="Debug 'Unittests in test.py'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'converter'</Description>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests in test.py'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'manual-tilt'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'manual-tilt'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'stuff'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'stuff'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -38,15 +54,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>11</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Jump to Source">
-        <Item>
-          <IdeaActionID>EditSource</IdeaActionID>
-          <ShortCut>'F4'</ShortCut>
-          <Description>Jump to Source</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move to Another Changelist...">
@@ -70,7 +78,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⇧⌘K'</ShortCut>
           <Description>Push...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Python Console">
@@ -78,7 +86,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Python Console</Description>
-          <Count>19</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace...">
@@ -94,7 +102,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -105,12 +113,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'converter'">
+      <Statistic Action="Run 'Unittests in test.py'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run 'converter'</Description>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests in test.py'</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'manual-tilt'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'manual-tilt'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -118,7 +134,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -129,12 +145,44 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'converter'">
+      <Statistic Action="Step Into My Code">
+        <Item>
+          <IdeaActionID>StepIntoMyCode</IdeaActionID>
+          <ShortCut>'Alt+Shift+F7'</ShortCut>
+          <Description>Step Into My Code</Description>
+          <Count>36</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'Shift+F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unittests in test.py'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'converter'</Description>
-          <Count>22</Count>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Unittests in test.py'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'manual-tilt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'manual-tilt'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'stuff'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'stuff'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -150,23 +198,23 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Terminal</Description>
-          <Count>38</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
-          <ShortCut>'⌘F8'</ShortCut>
+          <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>11</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
         <Item>
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
-          <ShortCut>'⌘T'</ShortCut>
+          <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -174,7 +222,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
     </option>

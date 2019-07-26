@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'vox2ksh'" />
-    <option name="defaultScopeName" value="Project 'vox2ksh'" />
-    <option name="SEARCH_SCOPE" value="Project 'vox2ksh'" />
+    <option name="customScope" value="Project 'mapped_enum'" />
+    <option name="defaultScopeName" value="Project 'mapped_enum'" />
+    <option name="SEARCH_SCOPE" value="Project 'mapped_enum'" />
   </component>
 </application>
