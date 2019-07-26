@@ -3,27 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Converter/src/util.py" timestamp="1563136820256">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1564012530662">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/out/crystalmissile_fuhringcatmark/maximum.ksh" timestamp="1563578429158">
-        <mark key="[" line="3640" column="26" />
-        <mark key="]" line="3640" column="26" />
-        <mark key="^" line="3640" column="42" />
-        <mark key="." line="3640" column="26" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/data/music_db.xml" timestamp="1563937004768">
         <mark key="'" line="73135" column="22" />
         <mark key="n" line="48" column="6" />
       </file>
-      <file name="/Python Console" timestamp="1564011631060">
+      <file name="/Python Console" timestamp="1564100790282">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -53,8 +37,11 @@
         <mark key="." line="146" column="58" />
         <mark key="^" line="146" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1562862000848">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/mapped_enum/__init__.py" timestamp="1564099723767">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/data/music_db.xml" timestamp="1562344852012">
         <mark key="'" line="267" column="37" />
@@ -70,8 +57,48 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/out/001/phychopas_yucha/infinite.ksh" timestamp="1562783119937">
-        <mark key="'" line="16656" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1563134320964">
+        <mark key="[" line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564101086214">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/scratch.py" timestamp="1563566596519">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+        <mark key="^" line="6" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/util.py" timestamp="1563136820256">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1564012530662">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/out/crystalmissile_fuhringcatmark/maximum.ksh" timestamp="1563578429158">
+        <mark key="[" line="3640" column="26" />
+        <mark key="]" line="3640" column="26" />
+        <mark key="^" line="3640" column="42" />
+        <mark key="." line="3640" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1564101400086">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="20" column="44" />
+        <mark key="^" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped_enum/LICENSE" timestamp="1564101301509">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/install-certs.py" timestamp="1563566482155">
         <mark key="[" line="0" column="0" />
@@ -79,8 +106,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1563134320964">
-        <mark key="[" line="5" column="38" />
+      <file name="$USER_HOME$/Code/mapped_enum/README.md" timestamp="1564101257521">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/src/vox.py" timestamp="1563137583681">
         <mark key="'" line="407" column="12" />
@@ -101,21 +131,14 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564094825369">
-        <mark key="[" line="203" column="21" />
-        <mark key="]" line="207" column="17" />
-        <mark key="^" line="207" column="17" />
-        <mark key="." line="207" column="17" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/scratch.py" timestamp="1563566596519">
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="6" column="48" />
-        <mark key="." line="6" column="48" />
-        <mark key="^" line="6" column="54" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564100536505">
+        <mark key="[" line="1039" column="76" />
+        <mark key="]" line="1039" column="77" />
+        <mark key="^" line="1039" column="77" />
+        <mark key="." line="1039" column="77" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1008" column="42" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="21" column="1" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="8173" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
@@ -215,10 +238,11 @@
       <jump line="1467" column="97" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="985" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="434" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -422,40 +446,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lX2lzX2Fibm9ybWFsXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGhhc2F0dHIoY2xzLCBmJ3RvX3thcmd9Jyk6CiAgICAgICAgICAgICAgICBzZXRhdHRyKGNscywgZid0b197YXJnfScsIG1hcHRvKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lID0gbWFwKGxhbWJkYSB4OiB4LnN0cmlwKCksIGxpbmUuc3BsaXQoJywnKSkK</text>
+        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxpbmUgIT0gWycxJywgJzkwLjAwJywgJzQwMC4wMCcsICcxODAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgbmV4dCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsID0gbGFtYmRhIHg6IAo=</text>
+        <text encoding="base64">ZnJvbSBlbnVtIGltcG9ydCBFbnVtCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lX251bSAtPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBUaGlzIGlzIGEgcGxhY2Vob2xkZXIK</text>
+        <text encoding="base64">CmNsYXNzIG1vZHVsZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmVhcnJhbmdpbmcK</text>
+        <text encoding="base64">QGVudW1fbWFwKCd2b3gnLCAna3NoJykKY2xhc3MgTWFwVGVzdChFbnVtKToKICAgIEZPTyA9ICdmb28gdm94JywgJ2ZvbyBrc2gnCiAgICBCQVIgPSAnYmFyIHZveCcsICdiYXIga3NoJwoKbWFwdGVzdCA9IE1hcFRlc3QuQkFSCnByaW50KG1hcHRlc3QudG9fa3NoKCkpCnByaW50KE1hcFRlc3QuZnJvbV9rc2goJ2JhciBrc2gnKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZyb21fZmlsZShjbHMsIHBhdGgpOgogICAgICAgIHBhcnNlciA9IFZveCgpCgogICAgICAgIGZpbGUgPSBvcGVuKHBhdGgsICdyJywgZW5jb2Rpbmc9J2NwOTMyJykKICAgICAgICBwYXJzZXIudm94ZmlsZSA9IGZpbGUKCiAgICAgICAgZmlsZW5hbWVfYXJyYXkgPSBvcy5wYXRoLmJhc2VuYW1lKHBhdGgpLnNwbGl0KCdfJykKICAgICAgICB3aXRoIG9wZW4oJ2RhdGEvbXVzaWNfZGIueG1sJywgZW5jb2Rpbmc9J2NwOTMyJykgYXMgZGI6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHBhcnNlci5nYW1lX2lkID0gaW50KGZpbGVuYW1lX2FycmF5WzBdKQogICAgICAgICAgICAgICAgcGFyc2VyLnNvbmdfaWQgPSBpbnQoZmlsZW5hbWVfYXJyYXlbMV0pCiAgICAgICAgICAgICAgICBwYXJzZXIuZGlmZmljdWx0eSA9IERpZmZpY3VsdHkuZnJvbV9sZXR0ZXIob3MucGF0aC5zcGxpdGV4dChwYXRoKVswXVstMV0pCiAgICAgICAgICAgICAgICBwYXJzZXIuZGlmZmljdWx0eV9pZHggPSBvcy5wYXRoLnNwbGl0ZXh0KHBhdGgpWzBdWy0yXQogICAgICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgICAgIHJhaXNlIFZveExvYWRFcnJvcihwYXJzZXIudm94ZmlsZS5uYW1lLCBmJ3VuYWJsZSB0byBwYXJzZSBkaWZmaWN1bHR5IGZyb20gZmlsZSBuYW1lICJ7cGF0aH0iJykKCiAgICAgICAgICAgIHRyZWUgPSBFbGVtZW50VHJlZS5mcm9tc3RyaW5nKGRiLnJlYWQoKSkuZmluZGFsbCgnJycuLy8qW0BpZD0ne30nXScnJy5mb3JtYXQocGFyc2VyLnNvbmdfaWQpKQoKICAgICAgICAgICAgaWYgbGVuKHRyZWUpID09IDA6CiAgICAgICAgICAgICAgICByYWlzZSBWb3hMb2FkRXJyb3IocGFyc2VyLnZveGZpbGUubmFtZSwgZid1bmFibGUgdG8gZmluZCBtZXRhZGF0YSBmb3Igc29uZycpCgogICAgICAgICAgICBwYXJzZXIubWV0YWRhdGEgPSB0cmVlWzBdCgogICAgICAgIHJldHVybiBwYXJzZXIKCiAgICBkZWYgcGFyc2Uoc2VsZik6CiAgICAgICAgbGluZV9ubyA9IDAKICAgICAgICBzZWN0aW9uX2xpbmVfbm8gPSAwCgogICAgICAgIGZvciBsaW5lIGluIHNlbGYudm94ZmlsZToKICAgICAgICAgICAgc2VjdGlvbl9saW5lX25vICs9IDEKICAgICAgICAgICAgbGluZV9ubyArPSAxCiAgICAgICAgICAgIGRlYnVnLmN1cnJlbnRfbGluZV9udW0gPSBsaW5lX25vCgogICAgICAgICAgICBsaW5lID0gbGluZS5zdHJpcCgpCgogICAgICAgICAgICBpZiBsaW5lLnN0YXJ0c3dpdGgoJy8vJyk6CiAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgaWYgbGluZS5zdGFydHN3aXRoKCcjJyk6CiAgICAgICAgICAgICAgICB0b2tlbl9zdGF0ZSA9IHNlbGYuU3RhdGUuZnJvbV90b2tlbihsaW5lLnNwbGl0KCcjJylbMV0pCiAgICAgICAgICAgICAgICBpZiB0b2tlbl9zdGF0ZSBpcyBOb25lOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBpZiB0eXBlKHRva2VuX3N0YXRlKSBpcyB0dXBsZToKICAgICAgICAgICAgICAgICAgICBzZWxmLnN0YXRlID0gdG9rZW5fc3RhdGVbMF0KICAgICAgICAgICAgICAgICAgICBzZWxmLnN0YXRlX3RyYWNrID0gaW50KHRva2VuX3N0YXRlWzFdKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZWxmLnN0YXRlID0gdG9rZW5fc3RhdGUKICAgICAgICAgICAgICAgIHNlY3Rpb25fbGluZV9ubyA9IDAKCiAgICAgICAgICAgIGVsaWYgbGluZS5zdGFydHN3aXRoKCdkZWZpbmVcdCcpOgogICAgICAgICAgICAgICAgc3BsaXR0ZWQgPSBsaW5lLnNwbGl0KCdcdCcpCiAgICAgICAgICAgICAgICBpZiBsZW4oc3BsaXR0ZWQpICE9IDM6CiAgICAgICAgICAgICAgICAgICAgZGVidWcucmVjb3JkKGYnZGVmaW5lIGxpbmUgIntsaW5lfSIgZG9lcyBub3QgaGF2ZSAzIG9wZXJhbmRzJykKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgICAgIHNlbGYudm94X2RlZmluZXNbc3BsaXR0ZWRbMV1dID0gaW50KHNwbGl0dGVkWzJdKQogICAgICAgICAgICAgICAgaWYgaW50KHNwbGl0dGVkWzJdKSAhPSAwOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZWZmZWN0X2RlZmluZXNbaW50KHNwbGl0dGVkWzJdKV0gPSBLc2hFZmZlY3REZWZpbmUuZnJvbV9wcmVfdjRfdm94X3NvdW5kX2lkKGludChzcGxpdHRlZFsyXSkpCgogICAgICAgICAgICBlbGlmIHNlbGYuc3RhdGUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBzZWxmLnByb2Nlc3Nfc3RhdGUobGluZSwgc2VjdGlvbl9saW5lX25vKQoKICAgICAgICBzZWxmLmZpbmFsaXplZCA9IFRydWUK</text>
+        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gTWFrZSBzdXJlIGRlY2ltYWwgQlBNJ3MgYXJlIG9rYXkuCg==</text>
+        <text encoding="base64">ICAgICAgICBjbHMuX21hcCA9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -502,12 +526,13 @@
         <entry>set relativenumb</entry>
         <entry>ww</entry>
         <entry>nohl</entry>
-        <entry>wq</entry>
         <entry>set relativenumber</entry>
         <entry>set number</entry>
         <entry encoding="base64">JzwsJz5zL0tzaG9vdEVmZmVjdC9Tb3VuZEVmZmVjdA==</entry>
         <entry encoding="base64">JzwsJz5zL2Nscy9Tb3VuZEVmZmVjdC8=</entry>
         <entry encoding="base64">JzwsJz5zL3NwbGl0dGVkL3BhcmFtcy9n</entry>
+        <entry>wj</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
