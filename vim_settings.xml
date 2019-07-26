@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1564105041327">
+      <file name="/Python Console" timestamp="1564168926025">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/README.md" timestamp="1564101257521">
@@ -58,10 +58,8 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564167375111">
+      <file name="/Dummy.txt" timestamp="1564169689270">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="48" />
-        <mark key="." line="0" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1563752642585">
         <mark key="[" line="4" column="4" />
@@ -74,6 +72,11 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1564169688154">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1564101400086">
         <mark key="[" line="20" column="44" />
@@ -94,11 +97,12 @@
         <mark key="^" line="31" column="39" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1564167361238">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-        <mark key="^" line="8" column="20" />
+      <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1564169266614">
+        <mark key="'" line="6" column="54" />
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1564160595768">
         <mark key="a" line="1120" column="105" />
@@ -170,16 +174,15 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="15" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/mapped-enum/test.py" timestamp="1564167332827">
-        <mark key="'" line="1" column="26" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="52" column="45" />
+      <file name="$USER_HOME$/Code/mapped-enum/test.py" timestamp="1564169505599">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="93" column="3" />
+        <mark key="." line="47" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="8224" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="8615" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="8665" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
       <jump line="9005" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
@@ -276,13 +279,14 @@
       <jump line="985" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="434" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" />
-      <jump line="6" column="21" filename="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" />
       <jump line="46" column="21" filename="$USER_HOME$/Code/mapped-enum/test.py" />
       <jump line="1" column="26" filename="$USER_HOME$/Code/mapped-enum/test.py" />
+      <jump line="6" column="54" filename="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/mapped-enum/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>len(keys) == 1:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRUFTVCA9ICdyaWdodCcK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -486,40 +490,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>len(keys) == 1:</text>
+        <text>, auto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lX2lzX2Fibm9ybWFsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBub2luc3BlY3Rpb24gUHlVbnVzZWRMb2NhbAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcmFpc2VzKCk6CiAgICAgICAgICAgICMgbm9pbnNwZWN0aW9uIFB5VW51c2VkTG9jYWwKICAgICAgICAgICAgQGVudW1fbWFwKCdiYXInKQogICAgICAgICAgICBjbGFzcyBGb286CiAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRUFTVCA9ICdyaWdodCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oa2V5cykgPT0gMToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU09VVEggPSAnZG93bicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oa2V5cykgPT0gMToKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNFREFOID0gJ21lZGl1bScsICdncmF5JywgJ3NvbWV3aGF0Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NpbmdsZV9rZXkoc2VsZik6Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJBQ0VDQVIgPSBhdXRvKCkKICAgICAgICAgICAgICAgIFNQT1JUU0NBUiA9IGF1dG8oKQogICAgICAgICAgICAgICAgU0VEQU4gPSBhdXRvKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAZW51bV9tYXAoKQo=</text>
+        <text encoding="base64">UmVvcmdhbml6ZSBUT0RPcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgdG9fcHJlZml4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJBQ0VDQVIgPSBhdXRvKCkKICAgICAgICAgICAgICAgIFNQT1JUU0NBUiA9IGF1dG8oKQogICAgICAgICAgICAgICAgU0VEQU4gPSBhdXRvKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0b19wcmVmaXguaXNzcGFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5PUlRIID0gJ3VwJwogICAgICAgICAgICAgICAgU09VVEggPSAnZG93bicKICAgICAgICAgICAgICAgIFdFU1QgPSAnbGVmdCcKICAgICAgICAgICAgICAgIEVBU1QgPSAncmlnaHQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihhcmdzKSA8IDE6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignZW51bV9tYXAgcmVxdWlyZXMgdGhlIG1hcHBpbmcgbmFtZXMgYXMgYW4gYXJndW1lbnQnKQogICAgZWxpZiBsZW4oYXJncykgPiAxOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2VudW1fbWFwIHJlcXVpcmVzIG9uZSBhcmd1bWVudCcpCgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhcnJheSBpbXBvcnQgYXJyYXkK</text>
+        <text encoding="base64">ICAgICAgICBrd2FyZ3MgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

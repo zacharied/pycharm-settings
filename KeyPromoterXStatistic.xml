@@ -17,6 +17,14 @@
           <Count>30</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Unittests for test.TestMapping'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'Unittests for test.TestMapping'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Unittests in test.py'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -118,6 +126,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Unittests for test.TestMapping'</Description>
+          <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test.TestMapping.test_wrong_mapping_count'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'Unittests for test.TestMapping.test_wrong_mapping_count'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
