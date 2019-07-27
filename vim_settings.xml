@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1564190207262">
+      <file name="/Dummy.txt" timestamp="1564190971053">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -89,12 +89,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564190840941">
-        <mark key="'" line="1171" column="51" />
-        <mark key="[" line="291" column="70" />
-        <mark key="]" line="291" column="70" />
-        <mark key="^" line="291" column="70" />
-        <mark key="." line="291" column="70" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564191040512">
+        <mark key="'" line="205" column="6" />
+        <mark key="[" line="1036" column="0" />
+        <mark key="]" line="1036" column="0" />
+        <mark key="^" line="1173" column="104" />
+        <mark key="." line="1036" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
         <mark key="'" line="3" column="0" />
@@ -111,7 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73135" column="22" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="120" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="622" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -211,10 +210,11 @@
       <jump line="1167" column="55" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1169" column="55" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1171" column="51" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="205" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fx fix</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgICAgICBmeF9kYXRhID0gRnhDaGlwU291bmQuZnJvbV92b3goaW50KHNwbGl0dGVkWzJdKSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgVmFsdWVFcnJvciBhcyBlcnI6CiAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnLnJlY29yZChEZWJ1Zy5MZXZlbC5XQVJOSU5HLCAnZnhfY2hpcF9zb3VuZCcsIGVyci5hcmdzWzBdKQo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -421,46 +421,46 @@
         <text>fx fix</text>
       </register>
       <register name="/" type="4">
-        <text>spin</text>
+        <text encoding="base64">XDxGeENoaXBTb3VuZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">S1dBUkdfUEFSQU1fVE9fUFJFRklYID0gJ3RvX3ByZWZpeCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhcnJheSBpbXBvcnQgYXJyYXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgICAgICBmeF9kYXRhID0gRnhDaGlwU291bmQuZnJvbV92b3goaW50KHNwbGl0dGVkWzJdKSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgVmFsdWVFcnJvciBhcyBlcnI6CiAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnLnJlY29yZChEZWJ1Zy5MZXZlbC5XQVJOSU5HLCAnZnhfY2hpcF9zb3VuZCcsIGVyci5hcmdzWzBdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGFyZ3MpKQo=</text>
+        <text encoding="base64">ZnJvbSBhcnJheSBpbXBvcnQgYXJyYXkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGFyZ3MpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHdhcm5pbmdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FybmluZ3MuZmlsdGVyd2FybmluZ3MoJ2lnbm9yZScsIG1lc3NhZ2U9IkxvY2FsIGNsYXNzICdGb28nIGlzIG5vdCB1c2VkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHdhcm5pbmdzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2FybmluZ3MuZmlsdGVyd2FybmluZ3MoJ2lnbm9yZScsIG1lc3NhZ2U9IkxvY2FsIGNsYXNzICdGb28nIGlzIG5vdCB1c2VkIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBTYW1lIHRoaW5nIGhlcmUuCiAgICAgICAgICAgIGRlZiBtYXBmcm9tKGssIGk9aW5kZXgpOgogICAgICAgICAgICAgICAgZm9yIG0gaW4gY2xzOgogICAgICAgICAgICAgICAgICAgIGlmIG0udmFsdWVbaV0gPT0gazoKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBTYW1lIHRoaW5nIGhlcmUuCiAgICAgICAgICAgIGRlZiBtYXBmcm9tKGssIGk9aW5kZXgpOgogICAgICAgICAgICAgICAgZm9yIG0gaW4gY2xzOgogICAgICAgICAgICAgICAgICAgIGlmIG0udmFsdWVbaV0gPT0gazoKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spin</last-search>
+      <last-search encoding="base64">XDxGeENoaXBTb3VuZFw+</last-search>
       <last-offset />
-      <last-pattern>spin</last-pattern>
+      <last-pattern encoding="base64">XDxGeENoaXBTb3VuZFw+</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -468,7 +468,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b19rc2hfbmFtZVw+</entry>
         <entry encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</entry>
         <entry encoding="base64">g0ODk4Nyg1eDdYOLCQkJCQkJCSAJCQkJCQkJIAkJCQkJCQk=</entry>
         <entry>inbi</entry>
@@ -488,6 +487,7 @@
         <entry encoding="base64">XDxtYWluX3BhcmFtXD4=</entry>
         <entry encoding="base64">XDwwMDFfMDA3MV9mcmVha3lfZnJlYWtfa2Ftb21lXzNlXD4=</entry>
         <entry>spin</entry>
+        <entry encoding="base64">XDxGeENoaXBTb3VuZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
