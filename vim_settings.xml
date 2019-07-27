@@ -89,8 +89,8 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564190103190">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564190840941">
+        <mark key="'" line="1171" column="51" />
         <mark key="[" line="291" column="70" />
         <mark key="]" line="291" column="70" />
         <mark key="^" line="291" column="70" />
@@ -111,18 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9058" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
-      <jump line="9402" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
-      <jump line="9452" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/Converter/out/freaky_freak_kamome/infinite.ksh" />
-      <jump line="1021" column="84" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1023" column="86" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="153" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1397" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1219" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="58" column="6" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="73136" column="22" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="73137" column="22" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
       <jump line="73135" column="22" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="120" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -165,7 +153,6 @@
       <jump line="39" column="4" filename="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" />
       <jump line="91" column="4" filename="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" />
       <jump line="429" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="721" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="763" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="493" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="938" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -211,6 +198,19 @@
       <jump line="1292" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1288" column="50" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="236" column="9" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="531" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="539" column="37" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="681" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="721" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="989" column="36" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1161" column="49" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1162" column="54" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1163" column="96" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1165" column="51" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1167" column="55" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1169" column="55" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1171" column="51" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -421,7 +421,7 @@
         <text>fx fix</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwwMDFfMDA3MV9mcmVha3lfZnJlYWtfa2Ftb21lXzNlXD4=</text>
+        <text>spin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">S1dBUkdfUEFSQU1fVE9fUFJFRklYID0gJ3RvX3ByZWZpeCcK</text>
@@ -458,9 +458,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwwMDFfMDA3MV9mcmVha3lfZnJlYWtfa2Ftb21lXzNlXD4=</last-search>
+      <last-search>spin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwwMDFfMDA3MV9mcmVha3lfZnJlYWtfa2Ftb21lXzNlXD4=</last-pattern>
+      <last-pattern>spin</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -468,7 +468,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scaling_factor</entry>
         <entry encoding="base64">XDx0b19rc2hfbmFtZVw+</entry>
         <entry encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</entry>
         <entry encoding="base64">g0ODk4Nyg1eDdYOLCQkJCQkJCSAJCQkJCQkJIAkJCQkJCQk=</entry>
@@ -488,6 +487,7 @@
         <entry encoding="base64">XDxmeF9jaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxtYWluX3BhcmFtXD4=</entry>
         <entry encoding="base64">XDwwMDFfMDA3MV9mcmVha3lfZnJlYWtfa2Ftb21lXzNlXD4=</entry>
+        <entry>spin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
