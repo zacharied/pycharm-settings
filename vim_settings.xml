@@ -89,8 +89,8 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564191040512">
-        <mark key="'" line="205" column="6" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564195055700">
+        <mark key="'" line="1472" column="81" />
         <mark key="[" line="1036" column="0" />
         <mark key="]" line="1036" column="0" />
         <mark key="^" line="1173" column="104" />
@@ -111,8 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="120" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="622" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="623" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="701" column="53" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -211,6 +209,8 @@
       <jump line="1169" column="55" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1171" column="51" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="205" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1461" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1472" column="81" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -421,7 +421,7 @@
         <text>fx fix</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGeENoaXBTb3VuZFw+</text>
+        <text>difficulty_audio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">S1dBUkdfUEFSQU1fVE9fUFJFRklYID0gJ3RvX3ByZWZpeCcK</text>
@@ -458,9 +458,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGeENoaXBTb3VuZFw+</last-search>
+      <last-search>difficulty_audio</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGeENoaXBTb3VuZFw+</last-pattern>
+      <last-pattern>difficulty_audio</last-pattern>
       <last-replace>params</last-replace>
       <last-substitute>splitted</last-substitute>
       <last-dir>1</last-dir>
@@ -468,8 +468,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</entry>
-        <entry encoding="base64">g0ODk4Nyg1eDdYOLCQkJCQkJCSAJCQkJCQkJIAkJCQkJCQk=</entry>
         <entry>inbi</entry>
         <entry>インビ</entry>
         <entry>SPCONTROLLER</entry>
@@ -488,6 +486,8 @@
         <entry encoding="base64">XDwwMDFfMDA3MV9mcmVha3lfZnJlYWtfa2Ftb21lXzNlXD4=</entry>
         <entry>spin</entry>
         <entry encoding="base64">XDxGeENoaXBTb3VuZFw+</entry>
+        <entry>diff_audio</entry>
+        <entry>difficulty_audio</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
