@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1564105335156">
+      <file name="/Dummy.txt" timestamp="1564190207262">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/crystalmissile_fuhringcatmark/maximum.ksh" timestamp="1563578429158">
         <mark key="[" line="3640" column="26" />
@@ -87,12 +89,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564188205804">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564190103190">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="1291" column="70" />
-        <mark key="]" line="1292" column="81" />
-        <mark key="^" line="1292" column="81" />
-        <mark key="." line="1292" column="81" />
+        <mark key="[" line="291" column="70" />
+        <mark key="]" line="291" column="70" />
+        <mark key="^" line="291" column="70" />
+        <mark key="." line="291" column="70" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
         <mark key="'" line="3" column="0" />
@@ -212,7 +214,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>fx fix</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -416,7 +418,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>fx fix</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwMDFfMDA3MV9mcmVha3lfZnJlYWtfa2Ftb21lXzNlXD4=</text>
