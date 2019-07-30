@@ -89,12 +89,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564277457773">
-        <mark key="'" line="338" column="34" />
-        <mark key="[" line="346" column="50" />
-        <mark key="]" line="346" column="74" />
-        <mark key="." line="346" column="74" />
-        <mark key="^" line="346" column="74" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564447865629">
+        <mark key="'" line="1023" column="40" />
+        <mark key="[" line="1101" column="24" />
+        <mark key="]" line="1102" column="31" />
+        <mark key="." line="1102" column="31" />
+        <mark key="^" line="1102" column="31" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
         <mark key="'" line="3" column="0" />
@@ -118,7 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6843" column="0" filename="$USER_HOME$/Documents/Converter/out/jugglers_maddness_lite_show_magic/exhaust.ksh" />
       <jump line="6285" column="0" filename="$USER_HOME$/Documents/Converter/out/jugglers_maddness_lite_show_magic/exhaust.ksh" />
       <jump line="177" column="28" filename="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" />
       <jump line="54" column="4" filename="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" />
@@ -218,10 +217,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/README.md" />
       <jump line="11" column="40" filename="$USER_HOME$/Documents/Converter/README.md" />
       <jump line="18" column="36" filename="$USER_HOME$/Documents/Converter/README.md" />
+      <jump line="1027" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>and copies.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBzZWxmLmxhc3RfbGFzZXIgPSBsYXNlcl9ub2RlCg==</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -428,7 +428,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>and copies.</text>
+        <text>laser</text>
       </register>
       <register name="/" type="4">
         <text>INF</text>
@@ -436,33 +436,32 @@
       <register name="0" type="4">
         <text>[ifstools](https://github.com/mon/ifstools)</text>
       </register>
-      <register name="1" type="4">
-        <text>It will not work properly on data not obtained through legal 
-means.</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBzZWxmLmxhc3RfbGFzZXIgPSBsYXNlcl9ub2RlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UHV0IHlvdXIgdm94IGZvbGRlcnMgaW4gYGRhdGFgLCBpbiB0aGUgZm9ybWF0IGB2b3hfPGFyY2hpdmUgbnVtYmVyPl9pZnNgLiBUaGUgZmlsZW5hbWVzIHNob3VsZCBiZSBrZXB0IGV4YWN0bHkgYXMgCmNvbnRhaW5lZCB3aXRoaW4gdGhlIElGUyBhcmNoaXZlLgoKT25jZSB5b3UgaGF2ZSB0aGF0IHNldCB1cCwgcnVuIGBjb252ZXJ0ZXIucHlgIHdpdGggdGhlIGAtY2AgYXJnIHNldCB0byBvbmUgb2YgdGhlIHRlc3RjYXNlcyBpbiBgQ0FTRVNgLgo=</text>
+        <text encoding="base64">CiAgICAgICAgIyBWb3ggY2hhcnRzIGNhbiBoYXZlIGxhc2VycyA2IHRpY2tzIGFwYXJ0IGZyb20gZWFjaCBvdGhlci4gS3Nob290IHdyb25nbHkgaW50ZXJwcmV0cyB0aGVzZSBhcyBzbGFtcywgc28KICAgICAgICAjIGlmIGEgbmV3IGxhc2VyIHNwYXducyB3ZSBoYXZlIHRvIG1ha2UgaXQgYXBwZWFyIGEgdGljayBsYXRlci4KICAgICAgICBzZWxmLmxhc3RfbGFzZXIgPSBOb25lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5vaW5zcGVjdGlvbiBQeUJyb2FkRXhjZXB0aW9uCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgR2V0IGEgdGltaW5nIG9iamVjdCB0aGF0IGlzIGB0aWNrc2AgdGlja3MgYWhlYWQgb2YgdGhpcyBvbmUuCiAgICBkZWYgcGx1cyhzZWxmLCB0aWNrcywgdGltZXNpZyk6CiAgICAgICAgdGltaW5nID0gVGltaW5nKHNlbGYubWVhc3VyZSwgc2VsZi5iZWF0LCBzZWxmLm9mZnNldCkKICAgICAgICB0aW1pbmcub2Zmc2V0ICs9IHRpY2tzCiAgICAgICAgbWF4X3RpY2tzID0gaW50KFRJQ0tTX1BFUl9CRUFUICogKDQgLyB0aW1lCiAgICAgICAgaWYgdGltaW5nLm9mZnNldCA+IGludChUSUNLU19QRVJfQkVBVCAqICg0IC8gdGltZXNpZy5ib3R0b20pKToKICAgICAgICAgICAgdGltaW5nLmJlYXQgKz0gMQogICAgICAgICAgICB0aW1pbmcub2Zmc2V0IC09IAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxhc3RfbGFzZXJfdGltaW5nID0gbm93Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVidWcgPSBEZWJ1ZygpCgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiBzZWxmLmxhc3RfbGFzZXJfdGltaW5nIGlzIG5vdCBOb25lIGFuZCBub3cub2Zmc2V0IC0gNiA8PSBsYXN0X2xhc2VyX3RpbWluZzoKICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFVRElPX0VYVEVOU0lPTiA9ICcub2dnJwogICAgVk9YX1JPT1QgPSAnZGF0YScK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBzZWxmLmxhc3RfbGFzZXIgPSBsYXNlcl9ub2RlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXJncGFyc2VyLmFkZF9hcmd1bWVudCgnLWQnLCAnLS1kaWZmaWN1bHR5JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -559,6 +558,9 @@ means.</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
