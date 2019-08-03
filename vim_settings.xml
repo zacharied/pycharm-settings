@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1564277885749">
+      <file name="/Dummy.txt" timestamp="1564861927599">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="5" column="5" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/crystalmissile_fuhringcatmark/maximum.ksh" timestamp="1563578429158">
@@ -68,11 +68,11 @@
         <mark key="." line="37" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1564207285408">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="12" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1564861687335">
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/README.md" timestamp="1564101257521">
         <mark key="[" line="2" column="0" />
@@ -92,12 +92,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564803834092">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564861920248">
         <mark key="'" line="1221" column="88" />
-        <mark key="[" line="1355" column="6" />
-        <mark key="]" line="1355" column="57" />
-        <mark key="." line="1355" column="57" />
-        <mark key="^" line="1355" column="57" />
+        <mark key="[" line="1206" column="0" />
+        <mark key="]" line="1206" column="0" />
+        <mark key="." line="1206" column="0" />
+        <mark key="^" line="1208" column="36" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
         <mark key="'" line="3" column="0" />
@@ -226,8 +226,8 @@
       <jump line="1208" column="88" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Rml4IGVycm9uZW91cyBzbGFtcyBhcHBlYXJpbmcK</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -434,40 +434,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>samples</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUSUNLU19QRVJfQkVBVFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aWNrc19wZXJfYmVhdCA9IGludChmbG9hdChUSUNLU19QRVJfQkVBVCkgKiAoNCAvIHRpbWVzaWcuYm90dG9tKSkK</text>
+      <register name="0" type="4">
+        <text>Fix erroneous slams appearing
+
+KSH defines anything less than a 32th to be a slam, but some vox files
+have nodes less than a 32th apart from each other. To counter this, we
+just push laser nodes a tick forward until they're more than a 32th
+apart.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBWb3ggZmlsZXMgd2lsbCBwdXQgdHdvIG5vZGVzIDYgdGlja3MgYXBhcnQgYW5kIAo=</text>
+        <text encoding="base64">Rml4IGVycm9uZW91cyBzbGFtcyBhcHBlYXJpbmcK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBUT0RPIFVzZSBhbiBhY3R1YWwgZnVuY3Rpb24gdG8gY2FsY3VsYXRlIG1lYXN1cmUgZGlmZmVyZW5jZXMuCg==</text>
+      <register name="2" type="4">
+        <text>Update Readme
+
+Now it actually describes how to use the program.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5leHRfdGljayA9IFRpbWluZyhub3cubWVhc3VyZSwgbm93LmJlYXQsIG5vdy5vZmZzZXQgKyAxKQo=</text>
+        <text encoding="base64">LSBbIF0gTGFzZXIgZmlsdGVyIGNvbmZpZ3VyYXRpb24gb3V0c2lkZSBvZiBocGYsIGxwZiwgYW5kIGJpdGNydXNoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ci0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBWb3ggZmlsZXMgd2lsbCBwdXQgdHdvIG5vZGVzIDYgdGlja3MgYXBhcnQgYW5kIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3Lm1lYXN1cmUgKyAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBUT0RPIFVzZSBhbiBhY3R1YWwgZnVuY3Rpb24gdG8gY2FsY3VsYXRlIG1lYXN1cmUgZGlmZmVyZW5jZXMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBuZXcub2Zmc2V0ID4gdGlja3NfcGVyX2JlYXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5leHRfdGljayA9IFRpbWluZyhub3cubWVhc3VyZSwgbm93LmJlYXQsIG5vdy5vZmZzZXQgKyAxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoZidmb3VuZCB7ZXZ9JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
