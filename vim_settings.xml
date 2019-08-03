@@ -109,13 +109,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564866428154">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564867104979">
         <mark key="e" line="112" column="8" />
-        <mark key="'" line="1244" column="46" />
-        <mark key="[" line="1069" column="51" />
-        <mark key="]" line="1069" column="52" />
-        <mark key="." line="1069" column="52" />
-        <mark key="^" line="1068" column="41" />
+        <mark key="'" line="1228" column="86" />
+        <mark key="[" line="1124" column="128" />
+        <mark key="]" line="1124" column="128" />
+        <mark key="." line="1124" column="128" />
+        <mark key="^" line="1124" column="128" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1564789838704">
         <mark key="'" line="166" column="0" />
@@ -129,15 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1162" column="54" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1163" column="96" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1165" column="51" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1167" column="55" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1169" column="55" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="205" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1461" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1472" column="81" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1347" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1423" column="68" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1369" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1370" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -222,17 +213,26 @@
       <jump line="1053" column="11" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1018" column="44" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1245" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1247" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1251" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1253" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1067" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1136" column="81" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1139" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1244" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1246" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1247" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1249" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1253" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1255" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1070" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1138" column="81" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1141" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="144" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1124" column="94" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1228" column="86" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>side</text>
+        <text>event.side in map(lambda x: x.side(), slam_status):</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -439,10 +439,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>side</text>
+        <text>event.side in map(lambda x: x.side(), slam_status):</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzbGFtX3N0YXR1c1w+</text>
+        <text encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Fix erroneous slams appearing
@@ -453,43 +453,43 @@ just push laser nodes a tick forward until they're more than a 32th
 apart.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbmdvaW5nX3NwY29udHJvbGxlcl9ldmVudHMgPSB7cDogTm9uZSBmb3IgcCBpbiBTcGNQYXJhbX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtZXRhZGF0YV9vbmx5OgogICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBtZXRhZGF0YV9vbmx5OgogICAgICAgICAgICByZXR1cm4K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Y2xvc2UtZml4Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if param is not None:
                 self.events[now][(EventKind.SPCONTROLLER, param)] = CameraNode(float(splitted[4]), float(splitted[5]), int(splitted[3]))
             if not spcontroller_line_is_normal(param, splitted):
                 debug.record(Debug.Level.ABNORMALITY, 'spcontroller_load', 'spcontroller line is abnormal')</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAiIiIgQ29udmVydCB0byBhIG5hbWUgcmVjb2duaXplZCBieSBLU00uICIiIgogICAgICAgIGlmIHNlbGYgPT0gc2VsZi5OT1ZJQ0U6CiAgICAgICAgICAgIHJldHVybiAnbm92aWNlJwogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLkFEVkFOQ0VEOgogICAgICAgICAgICByZXR1cm4gJ2NoYWxsZW5nZScKICAgICAgICBlbGlmIHNlbGYgPT0gc2VsZi5FWEhBVVNUOgogICAgICAgICAgICByZXR1cm4gJ2V4dGVuZGVkJwogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLk1BWElNVU0gb3Igc2VsZiA9PSBzZWxmLklORklOSVRFOgogICAgICAgICAgICByZXR1cm4gJ2luZmluaXRlJwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZWxmID09IHNlbGYuTk9WSUNFOgogICAgICAgICAgICByZXR1cm4gJ25vdmljZScKICAgICAgICBlbGlmIHNlbGYgPT0gc2VsZi5BRFZBTkNFRDoKICAgICAgICAgICAgcmV0dXJuICdhZHZhbmNlZCcKICAgICAgICBlbGlmIHNlbGYgPT0gc2VsZi5FWEhBVVNUOgogICAgICAgICAgICByZXR1cm4gJ2V4aGF1c3QnCiAgICAgICAgZWxpZiBzZWxmID09IHNlbGYuTUFYSU1VTToKICAgICAgICAgICAgcmV0dXJuICdtYXhpbXVtJwogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLklORklOSVRFOgogICAgICAgICAgICByZXR1cm4gJ2luZmluaXRlJwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmID09IHNlbGYuTk9WSUNFOgogICAgICAgICAgICByZXR1cm4gMQogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLkFEVkFOQ0VEOgogICAgICAgICAgICByZXR1cm4gMgogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLkVYSEFVU1Q6CiAgICAgICAgICAgIHJldHVybiAzCiAgICAgICAgZWxpZiBzZWxmID09IHNlbGYuSU5GSU5JVEU6CiAgICAgICAgICAgIHJldHVybiA0CiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIDUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBudW0gPT0gMToKICAgICAgICAgICAgcmV0dXJuIGNscy5OT1ZJQ0UKICAgICAgICBlbGlmIG51bSA9PSAyOgogICAgICAgICAgICByZXR1cm4gY2xzLkFEVkFOQ0VECiAgICAgICAgZWxpZiBudW0gPT0gMzoKICAgICAgICAgICAgcmV0dXJuIGNscy5FWEhBVVNUCiAgICAgICAgZWxpZiBudW0gPT0gNDoKICAgICAgICAgICAgcmV0dXJuIGNscy5JTkZJTklURQogICAgICAgIGVsaWYgbnVtID09IDU6CiAgICAgICAgICAgIHJldHVybiBjbHMuTUFYSU1VTQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmID09IHNlbGYuTk9WSUNFOgogICAgICAgICAgICByZXR1cm4gMQogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLkFEVkFOQ0VEOgogICAgICAgICAgICByZXR1cm4gMgogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLkVYSEFVU1Q6CiAgICAgICAgICAgIHJldHVybiAzCiAgICAgICAgZWxpZiBzZWxmID09IHNlbGYuSU5GSU5JVEU6CiAgICAgICAgICAgIHJldHVybiA0CiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIDUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzbGFtX3N0YXR1c1w+</last-search>
+      <last-search encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzbGFtX3N0YXR1c1w+</last-pattern>
+      <last-pattern encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</last-pattern>
       <last-replace>or</last-replace>
       <last-substitute>and</last-substitute>
       <last-dir>1</last-dir>
@@ -497,8 +497,6 @@ apart.</text>
     </search>
     <history>
       <history-search>
-        <entry>INF</entry>
-        <entry>\/\/ 26</entry>
         <entry encoding="base64">XDxmeF9jaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxUSUNLU19QRVJfQkVBVFw+</entry>
         <entry encoding="base64">XDxDYW1lcmFOb2RlXD4=</entry>
@@ -517,6 +515,8 @@ apart.</text>
         <entry>ascii</entry>
         <entry encoding="base64">XDxtZXRhZGF0YV9vbmx5XD4=</entry>
         <entry encoding="base64">XDxzbGFtX3N0YXR1c1w+</entry>
+        <entry encoding="base64">XDxzdGFydF9wYXJhbVw+</entry>
+        <entry encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1tcKFswLTldKl1cKV0ve2RpdmlzaW9uOiBcMX0v</entry>
