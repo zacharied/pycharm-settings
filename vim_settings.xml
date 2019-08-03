@@ -24,7 +24,7 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1564864541573">
+      <file name="/a.dummy" timestamp="1564868904971">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/__init__.py" timestamp="1564099723767">
@@ -55,7 +55,7 @@
       <file name="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" timestamp="1564863799920">
         <mark key="'" line="3719" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564866091083">
+      <file name="/Dummy.txt" timestamp="1564869716326">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/crystalmissile_fuhringcatmark/maximum.ksh" timestamp="1563578429158">
@@ -109,13 +109,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564867104979">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564869706595">
         <mark key="e" line="112" column="8" />
-        <mark key="'" line="1228" column="86" />
-        <mark key="[" line="1124" column="128" />
-        <mark key="]" line="1124" column="128" />
-        <mark key="." line="1124" column="128" />
-        <mark key="^" line="1124" column="128" />
+        <mark key="'" line="1212" column="60" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="1195" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1564789838704">
         <mark key="'" line="166" column="0" />
@@ -129,22 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1423" column="68" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1369" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1370" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1358" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1359" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="614" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="604" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="616" column="21" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="617" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="899" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="938" column="22" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="50" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="48" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1171" column="54" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="994" column="22" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="982" column="22" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1334" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1327" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -211,28 +195,44 @@
       <jump line="775" column="37" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1029" column="91" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1053" column="11" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1018" column="44" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1245" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1251" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1067" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1136" column="81" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1139" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1244" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="144" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="211" column="45" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1124" column="94" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="178" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1120" column="45" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1128" column="80" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1228" column="86" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1138" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1141" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1246" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1247" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1249" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1253" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1255" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1070" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1138" column="81" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1141" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="144" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1124" column="94" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1228" column="86" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="58" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="240" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="167" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="218" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="592" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="616" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="617" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1018" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1107" column="68" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1111" column="65" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1176" column="86" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1197" column="68" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1212" column="60" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>event.side in map(lambda x: x.side(), slam_status):</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgUmV2TWFwOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1hcHBpbmcpOgogICAgICAgIHNlbGYubWFwcGluZyA9IG1hcHBpbmcKICAgICAgICBzZWxmLl9yZXYgPSB7djogayBmb3IgaywgdiBpbiBtYXBwaW5nLml0ZW1zKCl9CgogICAgZGVmIGdldChzZWxmLCBrKToKICAgICAgICByZXR1cm4gc2VsZi5tYXBwaW5nLmdldChrKQoKICAgIGRlZiByZXYoc2VsZiwgayk6CiAgICAgICAgcmV0dXJuIHNlbGYuX3Jldi5nZXQoaykKCg==</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -439,68 +439,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>event.side in map(lambda x: x.side(), slam_status):</text>
+        <text>_name().get(self)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</text>
+        <text encoding="base64">XDx0b19rc2hfbmFtZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>Fix erroneous slams appearing
-
-KSH defines anything less than a 32th to be a slam, but some vox files
-have nodes less than a 32th apart from each other. To counter this, we
-just push laser nodes a tick forward until they're more than a 32th
-apart.</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoYXJncy50ZXN0Y2FzZSBpcyBub3QgTm9uZSBhbmQgcmUubWF0Y2gocmYnMDBbMS00XV8wKntDQVNFU1thcmdzLnRlc3RjYXNlXVswXX1fKntDQVNFU1thcmdzLnRlc3RjYXNlXVsxXX1cLnZveCcsIGZ1bGxwYXRo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvbmdvaW5nX3NwY29udHJvbGxlcl9ldmVudHMgPSB7cDogTm9uZSBmb3IgcCBpbiBTcGNQYXJhbX0K</text>
+        <text encoding="base64">Y2xhc3MgUmV2TWFwOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1hcHBpbmcpOgogICAgICAgIHNlbGYubWFwcGluZyA9IG1hcHBpbmcKICAgICAgICBzZWxmLl9yZXYgPSB7djogayBmb3IgaywgdiBpbiBtYXBwaW5nLml0ZW1zKCl9CgogICAgZGVmIGdldChzZWxmLCBrKToKICAgICAgICByZXR1cm4gc2VsZi5tYXBwaW5nLmdldChrKQoKICAgIGRlZiByZXYoc2VsZiwgayk6CiAgICAgICAgcmV0dXJuIHNlbGYuX3Jldi5nZXQoaykKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IGxydV9jYWNoZSBhcyBjYWNoZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtZXRhZGF0YV9vbmx5OgogICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBfbmFtZShjbHMpOgogICAgICAgIHJldHVybiBSZXZNYXAoewogICAgICAgICAgICBjbHMuUkVUUklHR0VSOiAnUmV0cmlnZ2VyJywKICAgICAgICAgICAgY2xzLkdBVEU6ICdHYXRlJywKICAgICAgICAgICAgY2xzLkZMQU5HRVI6ICdGbGFuZ2VyJywKICAgICAgICAgICAgY2xzLlBIQVNFUjogJ1BoYXNlcicsCiAgICAgICAgICAgIGNscy5UQVBFU1RPUDogJ1RhcGVTdG9wJywKICAgICAgICAgICAgY2xzLlNJREVDSEFJTjogJ1NpZGVDaGFpbicsCiAgICAgICAgICAgIGNscy5XT0JCTEU6ICdXb2JibGUnLAogICAgICAgICAgICBjbHMuQklUQ1JVU0hFUjogJ0JpdENydXNoZXInLAogICAgICAgICAgICBjbHMuRUNITzogJ0VjaG8nLAogICAgICAgICAgICBjbHMuUElUQ0hTSElGVDogJ1BpdGNoU2hpZnQnCiAgICAgICAgfSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xvc2UtZml4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoQ0FTRVNbYXJncy50ZXN0Y2FzZV1bMV0pCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>if param is not None:
-                self.events[now][(EventKind.SPCONTROLLER, param)] = CameraNode(float(splitted[4]), float(splitted[5]), int(splitted[3]))
-            if not spcontroller_line_is_normal(param, splitted):
-                debug.record(Debug.Level.ABNORMALITY, 'spcontroller_load', 'spcontroller line is abnormal')</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZicwMFsxLTRdXzAqe0NBU0VTW2FyZ3MudGVzdGNhc2VdWzBdfV8uKntDQVNFU1thcmdzLnRlc3RjYXNlXVsxXX1cLnZveCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdjYW1lcmEnOiAoMjUwLCAnaScpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgQ29udmVydCB0byBhIG5hbWUgcmVjb2duaXplZCBieSBLU00uICIiIgogICAgICAgIGlmIHNlbGYgPT0gc2VsZi5OT1ZJQ0U6CiAgICAgICAgICAgIHJldHVybiAnbm92aWNlJwogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLkFEVkFOQ0VEOgogICAgICAgICAgICByZXR1cm4gJ2NoYWxsZW5nZScKICAgICAgICBlbGlmIHNlbGYgPT0gc2VsZi5FWEhBVVNUOgogICAgICAgICAgICByZXR1cm4gJ2V4dGVuZGVkJwogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLk1BWElNVU0gb3Igc2VsZiA9PSBzZWxmLklORklOSVRFOgogICAgICAgICAgICByZXR1cm4gJ2luZmluaXRlJwo=</text>
+        <text encoding="base64">ICAgICdicG0nOiAoMjYyLCAnbicpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmID09IHNlbGYuTk9WSUNFOgogICAgICAgICAgICByZXR1cm4gJ25vdmljZScKICAgICAgICBlbGlmIHNlbGYgPT0gc2VsZi5BRFZBTkNFRDoKICAgICAgICAgICAgcmV0dXJuICdhZHZhbmNlZCcKICAgICAgICBlbGlmIHNlbGYgPT0gc2VsZi5FWEhBVVNUOgogICAgICAgICAgICByZXR1cm4gJ2V4aGF1c3QnCiAgICAgICAgZWxpZiBzZWxmID09IHNlbGYuTUFYSU1VTToKICAgICAgICAgICAgcmV0dXJuICdtYXhpbXVtJwogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLklORklOSVRFOgogICAgICAgICAgICByZXR1cm4gJ2luZmluaXRlJwo=</text>
+        <text encoding="base64">ICAgICdzbGFtLXJhbmdlJzogKDUyOSwgJ2UnKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmID09IHNlbGYuTk9WSUNFOgogICAgICAgICAgICByZXR1cm4gMQogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLkFEVkFOQ0VEOgogICAgICAgICAgICByZXR1cm4gMgogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLkVYSEFVU1Q6CiAgICAgICAgICAgIHJldHVybiAzCiAgICAgICAgZWxpZiBzZWxmID09IHNlbGYuSU5GSU5JVEU6CiAgICAgICAgICAgIHJldHVybiA0CiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIDUK</text>
+        <text encoding="base64">ICAgICdzcGMtdGlsdCc6ICg3MSwgJ2knKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</last-search>
+      <last-search encoding="base64">XDx0b19rc2hfbmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</last-pattern>
-      <last-replace>or</last-replace>
-      <last-substitute>and</last-substitute>
+      <last-pattern encoding="base64">XDx0b19rc2hfbmFtZVw+</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">ICcuKi9cKDAwWzAtOV1cKS9cMS8=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmeF9jaGFuZ2VcPg==</entry>
-        <entry encoding="base64">XDxUSUNLU19QRVJfQkVBVFw+</entry>
-        <entry encoding="base64">XDxDYW1lcmFOb2RlXD4=</entry>
-        <entry>RevMap</entry>
         <entry encoding="base64">XDxCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxCdXR0b25QcmVzc1w+</entry>
         <entry encoding="base64">XDxMYXNlclJhbmdlQ2hhbmdlXD4=</entry>
@@ -514,14 +502,15 @@ apart.</text>
         <entry encoding="base64">XDx2b3hmaWxlXD4=</entry>
         <entry>ascii</entry>
         <entry encoding="base64">XDxtZXRhZGF0YV9vbmx5XD4=</entry>
-        <entry encoding="base64">XDxzbGFtX3N0YXR1c1w+</entry>
         <entry encoding="base64">XDxzdGFydF9wYXJhbVw+</entry>
         <entry encoding="base64">XDx0b19rc2hfdmFsdWVcPg==</entry>
+        <entry encoding="base64">XDxzbGFtX3N0YXR1c1w+</entry>
+        <entry encoding="base64">ICcuKi9cKDAwWzAtOV1cKS9cMS8=</entry>
+        <entry encoding="base64">XDxSZXZNYXBcPg==</entry>
+        <entry>MappedEnum</entry>
+        <entry encoding="base64">XDx0b19rc2hfbmFtZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1tcKFswLTldKl1cKV0ve2RpdmlzaW9uOiBcMX0v</entry>
-        <entry encoding="base64">JzwsJz5zL2RpdmlzaW9uLyJkaXZpc2lvbiIv</entry>
-        <entry>set relativenumb</entry>
         <entry>ww</entry>
         <entry>nohl</entry>
         <entry>set number</entry>
@@ -538,6 +527,9 @@ apart.</text>
         <entry encoding="base64">JzwsJz5zLz09LyE9L2c=</entry>
         <entry>s/==/!=/g</entry>
         <entry>s/and/or/g</entry>
+        <entry encoding="base64">JzwsJz5zX1woJy4qJzpcKSAnLiovMDBbMS00XV9cKFswLTldKlwpXy4qX1swLTldXCguXClcLnZveC9cMTogKFwyLCAnXDMnKS8=</entry>
+        <entry>s_ '.*/\(00[0-9]\)/\1/</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
