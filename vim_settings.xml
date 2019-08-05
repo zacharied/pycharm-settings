@@ -100,6 +100,13 @@
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1565034290307">
+        <mark key="'" line="524" column="13" />
+        <mark key="[" line="506" column="18" />
+        <mark key="]" line="506" column="18" />
+        <mark key="^" line="506" column="18" />
+        <mark key="." line="506" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/data/vox_12_ifs/004_1106_jugglers_maddness_lite_show_magic_3e.vox" timestamp="1564012344740">
         <mark key="'" line="91" column="4" />
         <mark key="[" line="75" column="0" />
@@ -134,10 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="982" column="22" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1334" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1327" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="338" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="40" column="89" filename="$USER_HOME$/Documents/Converter/README.md" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/Converter/README.md" />
@@ -234,10 +237,14 @@
       <jump line="1176" column="86" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1197" column="68" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1212" column="60" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="137" column="20" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="509" column="30" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="510" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="518" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgUmV2TWFwOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1hcHBpbmcpOgogICAgICAgIHNlbGYubWFwcGluZyA9IG1hcHBpbmcKICAgICAgICBzZWxmLl9yZXYgPSB7djogayBmb3IgaywgdiBpbiBtYXBwaW5nLml0ZW1zKCl9CgogICAgZGVmIGdldChzZWxmLCBrKToKICAgICAgICByZXR1cm4gc2VsZi5tYXBwaW5nLmdldChrKQoKICAgIGRlZiByZXYoc2VsZiwgayk6CiAgICAgICAgcmV0dXJuIHNlbGYuX3Jldi5nZXQoaykKCg==</text>
+      <register name="&quot;" type="4">
+        <text>auto()</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -444,10 +451,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_name().get(self)</text>
+        <text>auto()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b19rc2hfbmFtZVw+</text>
+        <text>spin</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoYXJncy50ZXN0Y2FzZSBpcyBub3QgTm9uZSBhbmQgcmUubWF0Y2gocmYnMDBbMS00XV8wKntDQVNFU1thcmdzLnRlc3RjYXNlXVswXX1fKntDQVNFU1thcmdzLnRlc3RjYXNlXVsxXX1cLnZveCcsIGZ1bGxwYXRo</text>
@@ -484,9 +491,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b19rc2hfbmFtZVw+</last-search>
+      <last-search>spin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b19rc2hfbmFtZVw+</last-pattern>
+      <last-pattern>spin</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">ICcuKi9cKDAwWzAtOV1cKS9cMS8=</last-substitute>
       <last-dir>1</last-dir>
@@ -506,7 +513,6 @@
         <entry encoding="base64">XDxmeF9jaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxtYWluX3BhcmFtXD4=</entry>
         <entry encoding="base64">XDwwMDFfMDA3MV9mcmVha3lfZnJlYWtfa2Ftb21lXzNlXD4=</entry>
-        <entry>spin</entry>
         <entry encoding="base64">XDxGeENoaXBTb3VuZFw+</entry>
         <entry>diff_audio</entry>
         <entry>difficulty_audio</entry>
@@ -514,6 +520,7 @@
         <entry>self</entry>
         <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
         <entry>INF</entry>
+        <entry>spin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
