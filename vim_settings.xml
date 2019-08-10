@@ -55,7 +55,7 @@
       <file name="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" timestamp="1564863799920">
         <mark key="'" line="3719" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564869716326">
+      <file name="/Dummy.txt" timestamp="1565471111534">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/crystalmissile_fuhringcatmark/maximum.ksh" timestamp="1563578429158">
@@ -109,13 +109,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1564869706595">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565470928250">
         <mark key="e" line="112" column="8" />
-        <mark key="'" line="1212" column="60" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="1195" column="70" />
+        <mark key="'" line="255" column="4" />
+        <mark key="[" line="369" column="0" />
+        <mark key="]" line="369" column="0" />
+        <mark key="." line="369" column="0" />
+        <mark key="^" line="371" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1564789838704">
         <mark key="'" line="166" column="0" />
@@ -129,9 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="982" column="22" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1334" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1327" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="338" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="40" column="89" filename="$USER_HOME$/Documents/Converter/README.md" />
@@ -229,10 +226,13 @@
       <jump line="1176" column="86" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1197" column="68" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1212" column="60" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="283" column="24" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="366" column="38" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="255" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgUmV2TWFwOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1hcHBpbmcpOgogICAgICAgIHNlbGYubWFwcGluZyA9IG1hcHBpbmcKICAgICAgICBzZWxmLl9yZXYgPSB7djogayBmb3IgaywgdiBpbiBtYXBwaW5nLml0ZW1zKCl9CgogICAgZGVmIGdldChzZWxmLCBrKToKICAgICAgICByZXR1cm4gc2VsZi5tYXBwaW5nLmdldChrKQoKICAgIGRlZiByZXYoc2VsZiwgayk6CiAgICAgICAgcmV0dXJuIHNlbGYuX3Jldi5nZXQoaykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -439,49 +439,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_name().get(self)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b19rc2hfbmFtZVw+</text>
+        <text>PHASER</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoYXJncy50ZXN0Y2FzZSBpcyBub3QgTm9uZSBhbmQgcmUubWF0Y2gocmYnMDBbMS00XV8wKntDQVNFU1thcmdzLnRlc3RjYXNlXVswXX1fKntDQVNFU1thcmdzLnRlc3RjYXNlXVsxXX1cLnZveCcsIGZ1bGxwYXRo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgUmV2TWFwOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1hcHBpbmcpOgogICAgICAgIHNlbGYubWFwcGluZyA9IG1hcHBpbmcKICAgICAgICBzZWxmLl9yZXYgPSB7djogayBmb3IgaywgdiBpbiBtYXBwaW5nLml0ZW1zKCl9CgogICAgZGVmIGdldChzZWxmLCBrKToKICAgICAgICByZXR1cm4gc2VsZi5tYXBwaW5nLmdldChrKQoKICAgIGRlZiByZXYoc2VsZiwgayk6CiAgICAgICAgcmV0dXJuIHNlbGYuX3Jldi5nZXQoaykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IGxydV9jYWNoZSBhcyBjYWNoZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLm1haW5fcGFyYW0gPSBkZWZpbmUucGFyYW1zWydwZXJpb2QnXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBfbmFtZShjbHMpOgogICAgICAgIHJldHVybiBSZXZNYXAoewogICAgICAgICAgICBjbHMuUkVUUklHR0VSOiAnUmV0cmlnZ2VyJywKICAgICAgICAgICAgY2xzLkdBVEU6ICdHYXRlJywKICAgICAgICAgICAgY2xzLkZMQU5HRVI6ICdGbGFuZ2VyJywKICAgICAgICAgICAgY2xzLlBIQVNFUjogJ1BoYXNlcicsCiAgICAgICAgICAgIGNscy5UQVBFU1RPUDogJ1RhcGVTdG9wJywKICAgICAgICAgICAgY2xzLlNJREVDSEFJTjogJ1NpZGVDaGFpbicsCiAgICAgICAgICAgIGNscy5XT0JCTEU6ICdXb2JibGUnLAogICAgICAgICAgICBjbHMuQklUQ1JVU0hFUjogJ0JpdENydXNoZXInLAogICAgICAgICAgICBjbHMuRUNITzogJ0VjaG8nLAogICAgICAgICAgICBjbHMuUElUQ0hTSElGVDogJ1BpdGNoU2hpZnQnCiAgICAgICAgfSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lLm1haW5fcGFyYW0gPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoQ0FTRVNbYXJncy50ZXN0Y2FzZV1bMV0pCg==</text>
+        <text encoding="base64">Y2xhc3MgUmV2TWFwOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1hcHBpbmcpOgogICAgICAgIHNlbGYubWFwcGluZyA9IG1hcHBpbmcKICAgICAgICBzZWxmLl9yZXYgPSB7djogayBmb3IgaywgdiBpbiBtYXBwaW5nLml0ZW1zKCl9CgogICAgZGVmIGdldChzZWxmLCBrKToKICAgICAgICByZXR1cm4gc2VsZi5tYXBwaW5nLmdldChrKQoKICAgIGRlZiByZXYoc2VsZiwgayk6CiAgICAgICAgcmV0dXJuIHNlbGYuX3Jldi5nZXQoaykKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZicwMFsxLTRdXzAqe0NBU0VTW2FyZ3MudGVzdGNhc2VdWzBdfV8uKntDQVNFU1thcmdzLnRlc3RjYXNlXVsxXX1cLnZveCcpCg==</text>
+        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IGxydV9jYWNoZSBhcyBjYWNoZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdjYW1lcmEnOiAoMjUwLCAnaScpLAo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgQGNhY2hlKG1heHNpemU9Tm9uZSkKICAgIGRlZiBfbmFtZShjbHMpOgogICAgICAgIHJldHVybiBSZXZNYXAoewogICAgICAgICAgICBjbHMuUkVUUklHR0VSOiAnUmV0cmlnZ2VyJywKICAgICAgICAgICAgY2xzLkdBVEU6ICdHYXRlJywKICAgICAgICAgICAgY2xzLkZMQU5HRVI6ICdGbGFuZ2VyJywKICAgICAgICAgICAgY2xzLlBIQVNFUjogJ1BoYXNlcicsCiAgICAgICAgICAgIGNscy5UQVBFU1RPUDogJ1RhcGVTdG9wJywKICAgICAgICAgICAgY2xzLlNJREVDSEFJTjogJ1NpZGVDaGFpbicsCiAgICAgICAgICAgIGNscy5XT0JCTEU6ICdXb2JibGUnLAogICAgICAgICAgICBjbHMuQklUQ1JVU0hFUjogJ0JpdENydXNoZXInLAogICAgICAgICAgICBjbHMuRUNITzogJ0VjaG8nLAogICAgICAgICAgICBjbHMuUElUQ0hTSElGVDogJ1BpdGNoU2hpZnQnCiAgICAgICAgfSkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdicG0nOiAoMjYyLCAnbicpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoQ0FTRVNbYXJncy50ZXN0Y2FzZV1bMV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdzbGFtLXJhbmdlJzogKDUyOSwgJ2UnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZicwMFsxLTRdXzAqe0NBU0VTW2FyZ3MudGVzdGNhc2VdWzBdfV8uKntDQVNFU1thcmdzLnRlc3RjYXNlXVsxXX1cLnZveCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdzcGMtdGlsdCc6ICg3MSwgJ2knKSwK</text>
+        <text encoding="base64">ICAgICdjYW1lcmEnOiAoMjUwLCAnaScpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b19rc2hfbmFtZVw+</last-search>
+      <last-search>PHASER</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b19rc2hfbmFtZVw+</last-pattern>
+      <last-pattern>PHASER</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">ICcuKi9cKDAwWzAtOV1cKS9cMS8=</last-substitute>
       <last-dir>1</last-dir>
@@ -489,7 +489,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxCdXR0b25QcmVzc1w+</entry>
         <entry encoding="base64">XDxMYXNlclJhbmdlQ2hhbmdlXD4=</entry>
         <entry>l</entry>
@@ -509,6 +508,7 @@
         <entry encoding="base64">XDxSZXZNYXBcPg==</entry>
         <entry>MappedEnum</entry>
         <entry encoding="base64">XDx0b19rc2hfbmFtZVw+</entry>
+        <entry>PHASER</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
