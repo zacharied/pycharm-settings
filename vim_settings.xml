@@ -43,6 +43,9 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/data/vox_11_ifs/004_1048_dreamin_jun_kuroda_5m.vox" timestamp="1565582450679">
+        <mark key="'" line="109" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" timestamp="1564863799920">
         <mark key="'" line="3719" column="3" />
       </file>
@@ -73,6 +76,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/redzone_yuuhei/exhaust.ksh" timestamp="1565571276732">
         <mark key="'" line="15050" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/data/vox_02_ifs/001_0123_dynasty_yooh_2a.vox" timestamp="1565582074831">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/LICENSE" timestamp="1564101301509">
         <mark key="[" line="2" column="19" />
@@ -113,13 +119,16 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565580977730">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565582253615">
         <mark key="e" line="114" column="8" />
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="477" column="12" />
-        <mark key="]" line="477" column="33" />
-        <mark key="." line="477" column="33" />
-        <mark key="^" line="477" column="33" />
+        <mark key="[" line="1376" column="19" />
+        <mark key="]" line="1376" column="20" />
+        <mark key="^" line="1376" column="32" />
+        <mark key="." line="1376" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
+        <mark key="'" line="3136" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1564789838704">
         <mark key="'" line="166" column="0" />
@@ -133,16 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1245" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1251" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1067" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1136" column="81" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1139" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1244" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="144" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="211" column="45" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1124" column="94" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="178" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1120" column="45" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1128" column="80" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1228" column="86" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -233,10 +232,20 @@
       <jump line="472" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="505" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="68" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1051" column="49" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="15" column="10" filename="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" />
+      <jump line="598" column="0" filename="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/data/vox_02_ifs/001_0123_dynasty_yooh_2a.vox" />
+      <jump line="3128" column="9" filename="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" />
+      <jump line="17303" column="5" filename="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" />
+      <jump line="17304" column="10" filename="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" />
+      <jump line="3136" column="10" filename="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" />
+      <jump line="250" column="14" filename="$USER_HOME$/Documents/Converter/data/vox_11_ifs/004_1048_dreamin_jun_kuroda_5m.vox" />
+      <jump line="109" column="28" filename="$USER_HOME$/Documents/Converter/data/vox_11_ifs/004_1048_dreamin_jun_kuroda_5m.vox" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>:</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -245,49 +254,49 @@
         <text>jk==kjg</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>ButtonPress</text>
+        <text>@</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1ZmZlci5zcGluICs9IHN0cihpbnQoKGN1cnJlbnRfdGltZXNpZy50b3AgKiBjdXJyZW50X3RpbWVzaWcudGlja3NfcGVyX2JlYXQoKSkgKiAwLjc1KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZyb21fdm94KGNscywgc291bmRfaWQpOgogICAgICAgIGlmIHNvdW5kX2lkID09IDI6CiAgICAgICAgICAgIHJldHVybiBjbHMuQ0xBUAogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZid1bmtub3duIEZYIGNoaXAgc291bmQgaWQge3NvdW5kX2lkfScpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBpbnQocwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVyCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmID09IHNlbGYuQ0xBUDoKICAgICAgICAgICAgcmV0dXJuICdjbGFwJwogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLlNOQVJFOgogICAgICAgICAgICByZXR1cm4gJ3NuYXJlJwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBUT0RPIEZpbmV0dW5lIHRoaXMuCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gJzsxNTA7MzsyJwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgZnhfCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZyb21fdm94KGNscywgc291bmRfaWQpOgogICAgICAgIGlmIHNvdW5kX2lkID09IDI6CiAgICAgICAgICAgIHJldHVybiBjbHMuQ0xBUAogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZid1bmtub3duIEZYIGNoaXAgc291bmQgaWQge3NvdW5kX2lkfScpCgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gc3RyKDE5MiAvIGxhc2VyLnNwaW5fZGl2aXNpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gc3RyKGN1cnJlbnRfdGltZXNpZy50b3AgKiBjdXJyZW50X3RpbWVzaWcudGlja3NfcGVyX2JlYXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmID09IHNlbGYuQ0xBUDoKICAgICAgICAgICAgcmV0dXJuICdjbGFwJwogICAgICAgIGVsaWYgc2VsZiA9PSBzZWxmLlNOQVJFOgogICAgICAgICAgICByZXR1cm4gJ3NuYXJlJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbGlmIGxhc2VyLnJvbGxfa2luZCA9PSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBUT0RPIEZpbmV0dW5lIHRoaXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ButtonPress</last-search>
+      <last-search>@</last-search>
       <last-offset />
-      <last-pattern>ButtonPress</last-pattern>
+      <last-pattern>@</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">ICcuKi9cKDAwWzAtOV1cKS9cMS8=</last-substitute>
       <last-dir>1</last-dir>
@@ -295,8 +304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spin</entry>
-        <entry>@</entry>
         <entry encoding="base64">XDx0aW1lX2l0ZXJcPg==</entry>
         <entry encoding="base64">XDxldmVudHNcPg==</entry>
         <entry encoding="base64">XDw6XD4=</entry>
@@ -315,6 +322,8 @@
         <entry>ChipSound</entry>
         <entry>Button</entry>
         <entry>ButtonPress</entry>
+        <entry>spin on both lasers</entry>
+        <entry>@</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
@@ -325,7 +334,6 @@
         <entry>set relativenumb</entry>
         <entry>ww</entry>
         <entry>nohl</entry>
-        <entry>set number</entry>
         <entry encoding="base64">JzwsJz5zL0tzaG9vdEVmZmVjdC9Tb3VuZEVmZmVjdA==</entry>
         <entry encoding="base64">JzwsJz5zL2Nscy9Tb3VuZEVmZmVjdC8=</entry>
         <entry encoding="base64">JzwsJz5zL3NwbGl0dGVkL3BhcmFtcy9n</entry>
@@ -336,6 +344,7 @@
         <entry>set relativenumber</entry>
         <entry>2wq</entry>
         <entry>wq</entry>
+        <entry>set number</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
