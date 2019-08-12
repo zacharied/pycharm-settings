@@ -125,13 +125,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565590667646">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565647496719">
         <mark key="e" line="116" column="8" />
-        <mark key="'" line="1471" column="27" />
-        <mark key="[" line="1068" column="95" />
-        <mark key="]" line="1068" column="94" />
-        <mark key="." line="1068" column="94" />
-        <mark key="^" line="1068" column="94" />
+        <mark key="'" line="1103" column="14" />
+        <mark key="[" line="1394" column="45" />
+        <mark key="]" line="1395" column="32" />
+        <mark key="." line="1395" column="32" />
+        <mark key="^" line="1395" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -148,18 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1113" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="438" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="436" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="434" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="432" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="430" column="11" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="428" column="25" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1139" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1402" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1333" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1329" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1325" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1327" column="57" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="635" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -248,10 +236,22 @@
       <jump line="773" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
       <jump line="3328" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
       <jump line="2513" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="1497" column="78" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1289" column="81" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1089" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="185" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1583" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="554" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="846" column="36" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1006" column="54" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="201" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1274" column="68" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="23" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1103" column="14" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ウエンレラの氷華</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -260,27 +260,33 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text>buffer.out()</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">aW5mX3ZlciAuKj41</text>
+        <text>pfiltergain</text>
       </register>
-      <register name="0" type="4">
-        <text>ê</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIubWV0YS5hcHBlbmQoZidwZmlsdGVyZ2Fpbj01MCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVsbGRpZmZpY3VsdHk9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Zy5jdXJyZW50X2xpbmVfbnVtICs9IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Zy5jdXJyZW50X2xpbmVfbnVtICs9IDEK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5lX251bSArPSAxCgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>Fix occasional laser choppinness
                         
                         The issues arose because in KSH laser range changes only last until
@@ -288,26 +294,20 @@
                         feel like figuring it out). So now we just print the laserrange
                         directive at every node.</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCdlZmZlY3QnICsgc3RyKGV2ZW50LmVmZmVjdCkpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXNlcl9yYW5nZVtldmVudC5zaWRlXSA9IDEK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVpcmVkX2NoaXBfc291bmRzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXNlcl9yYW5nZVtldmVudC5zaWRlXSA9IDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">aW5mX3ZlciAuKj41</last-search>
+      <last-search>pfiltergain</last-search>
       <last-offset />
-      <last-pattern encoding="base64">aW5mX3ZlciAuKj41</last-pattern>
+      <last-pattern>pfiltergain</last-pattern>
       <last-replace>FX_CHIP_SOUND_EXTENSION</last-replace>
       <last-substitute>AUDIO_EXTENSION</last-substitute>
       <last-dir>1</last-dir>
@@ -315,10 +315,6 @@
     </search>
     <history>
       <history-search>
-        <entry>crepe</entry>
-        <entry>255</entry>
-        <entry encoding="base64">XDxjdXJyZW50X2xpbmVfbnVtXD4=</entry>
-        <entry>current_line</entry>
         <entry encoding="base64">XDxsaW5lX251bVw+</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxvdXRcPg==</entry>
@@ -335,6 +331,10 @@
         <entry encoding="base64">aW5mX3ZlciAuKj4z</entry>
         <entry encoding="base64">aW5mX3ZlciAuKj40</entry>
         <entry encoding="base64">aW5mX3ZlciAuKj41</entry>
+        <entry>button_fx</entry>
+        <entry>Difficulty</entry>
+        <entry encoding="base64">XDxmcm9tX3ZveF9maWx0ZXJfaWRcPg==</entry>
+        <entry>pfiltergain</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1w8Y1w+L2NoYXIvZw==</entry>
