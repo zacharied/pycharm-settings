@@ -65,6 +65,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit Changelist...">
+        <Item>
+          <IdeaActionID>ChangesView.Rename</IdeaActionID>
+          <ShortCut>'F2' or 'Shift+F6'</ShortCut>
+          <Description>Edit Changelist...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move to Another Changelist...">
         <Item>
           <IdeaActionID>ChangesView.Move</IdeaActionID>
@@ -238,7 +246,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
