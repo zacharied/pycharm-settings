@@ -10,6 +10,7 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="150" />
+    <option name="AUTOREPARSE_DELAY" value="500" />
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="0" />
   </component>
 </application>

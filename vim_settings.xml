@@ -24,7 +24,6 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/exceptions.txt" timestamp="1565576539794" />
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1564861687335">
         <mark key="[" line="9" column="61" />
         <mark key="]" line="10" column="37" />
@@ -53,7 +52,7 @@
         <mark key="^" line="3640" column="42" />
         <mark key="." line="3640" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565576433777">
+      <file name="/Dummy.txt" timestamp="1565577857751">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1564101400086">
@@ -114,13 +113,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565576467788">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565578942444">
         <mark key="e" line="112" column="8" />
-        <mark key="'" line="1505" column="26" />
-        <mark key="[" line="1476" column="16" />
-        <mark key="]" line="1476" column="23" />
-        <mark key="." line="1476" column="23" />
-        <mark key="^" line="1476" column="23" />
+        <mark key="'" line="499" column="12" />
+        <mark key="[" line="1004" column="0" />
+        <mark key="]" line="1004" column="24" />
+        <mark key="." line="1004" column="24" />
+        <mark key="^" line="1003" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1564789838704">
         <mark key="'" line="166" column="0" />
@@ -134,18 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2596" column="3" filename="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" />
-      <jump line="2694" column="3" filename="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" />
-      <jump line="2939" column="3" filename="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" />
-      <jump line="3329" column="3" filename="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" />
-      <jump line="3719" column="3" filename="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" />
-      <jump line="940" column="11" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="102" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="941" column="25" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="188" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="194" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="481" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="464" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1006" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="981" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -191,7 +178,6 @@
       <jump line="617" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1018" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1107" column="68" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1111" column="65" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1176" column="86" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1197" column="68" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1212" column="60" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -234,10 +220,23 @@
       <jump line="1396" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1416" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1505" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="548" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1111" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1160" column="101" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1183" column="63" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1266" column="93" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1156" column="52" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1202" column="52" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="524" column="18" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="518" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1001" column="39" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="510" column="10" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="996" column="39" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="499" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>no_media</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -246,49 +245,49 @@
         <text>jk==kjg</text>
       </register>
       <register name="-" type="4">
-        <text>no_media</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>do_convert</text>
+        <text>roll type</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoYXJncy50ZXN0Y2FzZSBpcyBub3QgTm9uZSBhbmQgcmUubWF0Y2gocmYnMDBbMS00XV8wKntDQVNFU1thcmdzLnRlc3RjYXNlXVswXX1fKntDQVNFU1thcmdzLnRlc3RjYXNlXVsxXX1cLnZveCcsIGZ1bGxwYXRo</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1ZmZlci5zcGluICs9IHN0cihpbnQoKGN1cnJlbnRfdGltZXNpZy50b3AgKiBjdXJyZW50X3RpbWVzaWcudGlja3NfcGVyX2JlYXQoKSkgKiAwLjc1KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXJncyA9IAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Zy5yZWNvcmQoRGVidWcuTGV2ZWwuRVJST1IsICdrc2hfbGFzZXInLCAnbGFzZXIgd291bGQgaGF2ZSBsZW5ndGggMCcpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiB0aWNrc191bnRpbF9uZXh0X2FjdGlvbiA+IDA6Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIENvdW50IGhvdyBtYW55IHRpY2tzIHRoZSBzcGluIHNob3VsZCBsYXN0IGZvcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpY2tzX3VudGlsX25leHRfYWN0aW9uID0gMAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgXyBpbiBzZWxmLnRpbWVfaXRlcihub3cuYWRkKDEsIGN1cnJlbnRfdGltZXNpZyksIGN1cnJlbnRfdGltZXNpZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbmRpdGlvbl9ldmVudD1sYW1iZGEgZTogVm94Lmhhc19hY3Rpb25fZXZlbnQoZSkpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aWNrc191bnRpbF9uZXh0X2FjdGlvbiArPSAxCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIE5vdCBleGFjdGx5IHN1cmUgd2hhdCdzIGhhcHBlbmluZyB3aXRoIHNwaW5zIHNvIEknbGwgbXVsdGlwbHkgZGl2aXNvciBieSAyIGZvciB0aGUgdGltZSBiZWluZy4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIFRPRE8gRmluZCBhIHRyYWNrIHdpdGggYSBzaGl0IHRvbiBvZiBzcGlucyBhbmQgaW52ZXN0aWdhdGUuCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gc3RyKDE5MiAvIGxhc2VyLnNwaW5fZGl2aXNpb24pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVmZmVyLnNwaW4gKz0gc3RyKGN1cnJlbnRfdGltZXNpZy50b3AgKiBjdXJyZW50X3RpbWVzaWcudGlja3NfcGVyX2JlYXQoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbGlmIGxhc2VyLnJvbGxfa2luZCA9PSAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1ZmZlci5zcGluICs9IAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBidWZmZXIuc3BpbiAhPSAnJzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVidWcucmVjb3JkKERlYnVnLkxldmVsLldBUk5JTkcsICdrc2hfbGFzZXInLCAnc3BpbiBvbiBib3RoIGxhc2VycycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGlmIGxhc2VyX25vZGUucm9sbF9raW5kLnZhbHVlKCkgPiA1Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>do_convert</last-search>
+      <last-search>roll type</last-search>
       <last-offset />
-      <last-pattern>do_convert</last-pattern>
+      <last-pattern>roll type</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">ICcuKi9cKDAwWzAtOV1cKS9cMS8=</last-substitute>
       <last-dir>1</last-dir>
@@ -296,10 +295,6 @@
     </search>
     <history>
       <history-search>
-        <entry>difficulty_audio</entry>
-        <entry>song_id</entry>
-        <entry>self</entry>
-        <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
         <entry>INF</entry>
         <entry>UNKNOWN</entry>
         <entry encoding="base64">PD0=</entry>
@@ -310,12 +305,16 @@
         <entry encoding="base64">XDx0aW1lX2l0ZXJcPg==</entry>
         <entry encoding="base64">XDxldmVudHNcPg==</entry>
         <entry encoding="base64">XDw6XD4=</entry>
-        <entry>spin_division</entry>
         <entry>metadata-only</entry>
         <entry>metadata_only</entry>
         <entry>no_media</entry>
         <entry>no_convert</entry>
         <entry>do_convert</entry>
+        <entry>spin_division</entry>
+        <entry>value\(\)</entry>
+        <entry>value()</entry>
+        <entry encoding="base64">XDxCdWlsZGVyXD4=</entry>
+        <entry>roll type</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
@@ -381,6 +380,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
