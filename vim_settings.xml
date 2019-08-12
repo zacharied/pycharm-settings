@@ -9,7 +9,7 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="/Python Console" timestamp="1565636836629">
+      <file name="/Python Console" timestamp="1565640699408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1563917131949">
@@ -42,9 +42,6 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/out/sandoriyon_dios/exhaust.ksh" timestamp="1565639351856">
-        <mark key="'" line="5" column="16" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/printer-ticket-api/install-certs.py" timestamp="1563566482155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
@@ -66,8 +63,10 @@
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1564789838704">
         <mark key="'" line="166" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565640142661">
+      <file name="/Dummy.txt" timestamp="1565641856955">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1564790439696">
         <mark key="[" line="5" column="14" />
@@ -102,12 +101,12 @@
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1565640532570">
-        <mark key="'" line="1038" column="26" />
-        <mark key="[" line="1516" column="119" />
-        <mark key="]" line="1516" column="27" />
-        <mark key="." line="1516" column="27" />
-        <mark key="^" line="1516" column="27" />
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1565641840769">
+        <mark key="'" line="1096" column="2" />
+        <mark key="[" line="585" column="0" />
+        <mark key="]" line="585" column="0" />
+        <mark key="." line="585" column="0" />
+        <mark key="^" line="1069" column="19" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/data/vox_02_ifs/001_0157_sandoriyon_dios_3e.vox" timestamp="1565640071786">
         <mark key="'" line="457" column="0" />
@@ -141,9 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1253" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1255" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1070" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="58" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="240" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="167" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -241,10 +237,13 @@
       <jump line="1011" column="30" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1038" column="26" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="457" column="0" filename="$USER_HOME$/Code/vox2ksh/data/vox_02_ifs/001_0157_sandoriyon_dios_3e.vox" />
+      <jump line="75" column="44" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1089" column="41" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1096" column="2" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>older</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgSW5maW5pdGVUeXBlKEVudW0pOgogICAgSU5GSU5JVEUgPSAyCiAgICBHUkFWSVRZID0gMwogICAgSEVBVkVOTFkgPSA0CiAgICBWSVZJRCA9IDUKCg==</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -451,49 +450,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>older</text>
+        <text>dialog</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWNvcmRfbGFzdF9leGNlcHRpb25cPg==</text>
+        <text>chunk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLnZveGZpbGUgPSBOb25lCiAgICAgICAgc2VsZi5nYW1lX2lkID0gMAogICAgICAgIHNlbGYuc29uZ19pZCA9IDAKICAgICAgICBzZWxmLnZveF92ZXJzaW9uID0gMAogICAgICAgIHNlbGYudm94X2RlZmluZXMgPSB7fSAjIGRlZmluZWQgaW4gdGhlIHZveCBmaWxlCiAgICAgICAgc2VsZi5lZmZlY3RfZGVmaW5lcyA9IHt9ICMgd2lsbCBiZSBkZWZpbmVkIGluIHRoZSBrc2ggZmlsZQogICAgICAgIHNlbGYuZW5kID0gTm9uZQogICAgICAgIHNlbGYuZXZlbnRzID0ge30KCiAgICAgICAgc2VsZi5sYXN0X3RpbWUgPSBUaW1pbmcoMSwgMSwgMCkKICAgICAgICBzZWxmLm5ld19sYXNlciA9IEZhbHNlCgogICAgICAgIHNlbGYuc3RhdGUgPSBOb25lCiAgICAgICAgc2VsZi5zdGF0ZV90cmFjayA9IDAKCiAgICAgICAgc2VsZi5tZXRhZGF0YTogRWxlbWVudFRyZWUgPSBOb25lCiAgICAgICAgc2VsZi5kaWZmaWN1bHR5ID0gTm9uZQogICAgICAgIHNlbGYuZGlmZmljdWx0eV9pZHggPSAwCgogICAgICAgIHNlbGYuZmluYWxpemVkID0gRmFsc2UKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBsZW4oZmlsdGVyKGxhbWJkYSBjOiBjLnNwbGl0KCdfJylbMV0gPT0K</text>
+        <text encoding="base64">Y2xhc3MgSW5maW5pdGVUeXBlKEVudW0pOgogICAgSU5GSU5JVEUgPSAyCiAgICBHUkFWSVRZID0gMwogICAgSEVBVkVOTFkgPSA0CiAgICBWSVZJRCA9IDUKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWZmZWN0X3N0cmluZyA9IGYne3NlbGYuZWZmZWN0X2RlZmluZXNbMF0uZnhfY2hhbmdlKDApfScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIubWV0YS5hcHBlbmQoZidmeC17bGV0dGVyfT17ZWZmZWN0X3N0cmluZ30nKQo=</text>
+        <text encoding="base64">ZGVmIGNodW5rKGFyciwgc2l6ZSk6CiAgICAiIiIKICAgIFlpZWxkIHN1Y2Nlc3NpdmUgY2h1bmtzIG9mIHRoZSBnaXZlbiBzaXplIGZyb20gYXJyLgogICAgIiIiCiAgICBmb3IgaSBpbiByYW5nZSgwLCBsZW4oYXJyKSwgc2l6ZSk6CiAgICAgICAgeWllbGQgYXJyW2k6aSArIHNpemVdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3RoZXIK</text>
+        <text encoding="base64">ZGVmIGNodW5rKGFyciwgc2l6ZSk6CiAgICAiIiIKICAgIFlpZWxkIHN1Y2Nlc3NpdmUgY2h1bmtzIG9mIHRoZSBnaXZlbiBzaXplIGZyb20gYXJyLgogICAgIiIiCiAgICBmb3IgaSBpbiByYW5nZSgwLCBsZW4oYXJyKSwgc2l6ZSk6CiAgICAgICAgeWllbGQgYXJyW2k6aSArIHNpemVdCgpkZWYgbWFpbigpOgogICAgZ2xvYmFsIGFyZ3MKICAgIGFyZ3BhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPSdDb252ZXJ0IHZveCB0byBrc2gnKQogICAgYXJncGFyc2VyLmFkZF9hcmd1bWVudCgnLWMnLCAnLS1udW0tY29yZXMnLCBkZWZhdWx0PTMsIHR5cGU9aW50KQogICAgYXJncGFyc2VyLmFkZF9hcmd1bWVudCgnLXQnLCAnLS10ZXN0Y2FzZScpCiAgICBhcmdwYXJzZXIuYWRkX2FyZ3VtZW50KCctaScsICctLXNvbmctaWQnKQogICAgYXJncGFyc2VyLmFkZF9hcmd1bWVudCgnLWQnLCAnLS1zb25nLWRpZmZpY3VsdHknKQogICAgYXJncGFyc2VyLmFkZF9hcmd1bWVudCgnLW4nLCAnLS1uby1tZWRpYScsIGFjdGlvbj0nc3RvcmVfZmFsc2UnLCBkZXN0PSdkb19tZWRpYScpCiAgICBhcmdwYXJzZXIuYWRkX2FyZ3VtZW50KCctbScsICctLW5vLWNvbnZlcnQnLCBhY3Rpb249J3N0b3JlX2ZhbHNlJywgZGVzdD0nZG9fY29udmVydCcpCiAgICBhcmdwYXJzZXIuYWRkX2FyZ3VtZW50KCctcCcsICctLXByZXZpZXctb25seScsIGFjdGlvbj0nc3RvcmVfdHJ1ZScpCiAgICBhcmdwYXJzZXIuYWRkX2FyZ3VtZW50KCctQScsICctLWF1ZGlvLWRpcicsIGRlZmF1bHQ9J0Q6L1NEVlgtRXh0cmFjdC9zb25nJykKICAgIGFyZ3BhcnNlci5hZGRfYXJndW1lbnQoJy1DJywgJy0tZngtY2hpcC1zb3VuZC1kaXInLCBkZWZhdWx0PSdEOi9TRFZYLUV4dHJhY3QvZnhfY2hpcF9zb3VuZCcpCiAgICBhcmdwYXJzZXIuYWRkX2FyZ3VtZW50KCctSicsICctLWphY2tldC1kaXInLCBkZWZhdWx0PSdEOi9TRFZYLUV4dHJhY3QvamFja2V0JykKICAgIGFyZ3BhcnNlci5hZGRfYXJndW1lbnQoJy1QJywgJy0tcHJldmlldy1kaXInLCBkZWZhdWx0PSdEOi9TRFZYLUV4dHJhY3QvcHJldmlldycpCiAgICBhcmdzID0gYXJncGFyc2VyLnBhcnNlX2FyZ3MoKQoKICAgIElEX1RPX0FVRElPID0ge30KCiAgICBpZiBhcmdzLmRvX21lZGlhOgogICAgICAgIHByaW50KCdHZW5lcmF0aW5nIGF1ZGlvIGZpbGUgbWFwcGluZy4uLicpCiAgICAgICAgIyBBdWRpbyBmaWxlcyBzaG91bGQgaGF2ZSBhIG5hbWUgc3RhcnRpbmcgd2l0aCB0aGUgSUQgZm9sbG93ZWQgYnkgYSBzcGFjZS4KICAgICAgICBmb3IgXywgXywgZmlsZXMgaW4gb3Mud2FsayhhcmdzLmF1ZGlvX2Rpcik6CiAgICAgICAgICAgIGZvciBmIGluIGZpbGVzOgogICAgICAgICAgICAgICAgaWYgb3MucGF0aC5iYXNlbmFtZShmKSA9PSAnamsnOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgaWYgc3BsaXR4KGYpWzFdID09ICcub2dnJyBhbmQgbm90IGYuZW5kc3dpdGgoJ180aS5vZ2cnKToKICAgICAgICAgICAgICAgICAgICAgICAgSURfVE9fQVVESU9baW50KHNwbGl0eChvcy5wYXRoLmJhc2VuYW1lKGYpKVswXSldID0gZgogICAgICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3IgYXMgZToKICAgICAgICAgICAgICAgICAgICBwcmludChlKQogICAgICAgIHByaW50KGYne2xlbihJRF9UT19BVURJTyl9IHNvbmdzIHByb2Nlc3NlZC4nKQoKICAgIGlmIGFyZ3MudGVzdGNhc2U6CiAgICAgICAgaWYgbm90IGFyZ3MudGVzdGNhc2UgaW4gQ0FTRVM6CiAgICAgICAgICAgIHByaW50KCdwbGVhc2Ugc3BlY2lmeSBhIHZhbGlkIHRlc3RjYXNlJywgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgICAgICBwcmludCgndmFsaWQgdGVzdGNhc2VzIGFyZTonLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgICAgIGZvciBjIGluIENBU0VTLmtleXMoKToKICAgICAgICAgICAgICAgIHByaW50KCdcdCcgKyBjLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgICAgIGV4aXQoMSkKCiAgICAjIENyZWF0ZSBvdXRwdXQgZGlyZWN0b3J5LgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKCdvdXQnKToKICAgICAgICBwcmludChmJ0NyZWF0aW5nIG91dHB1dCBkaXJlY3RvcnkuJykKICAgICAgICBvcy5ta2Rpcignb3V0JykKCiAgICBjYW5kaWRhdGVzID0gW10KCiAgICBmb3IgZGlycGF0aCwgZGlybmFtZXMsIGZpbGVuYW1lcyBpbiBvcy53YWxrKFZPWF9ST09UKToK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>Fix bugs with duplicate/redefined vox files
+
+A few files have versions from two different games, i.e. 001 and 002.
+This caused problems since the old ones' effect definitions had issues.
+Both of these issues have been solved.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhcmdldF9ncm91cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCdSZXBsYWNpbmcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCdSZXBsYWNpbmcnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">emVyb2ZpeAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWNvcmRfbGFzdF9leGNlcHRpb25cPg==</last-search>
+      <last-search>chunk</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWNvcmRfbGFzdF9leGNlcHRpb25cPg==</last-pattern>
+      <last-pattern>chunk</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">ICcuKi9cKDAwWzAtOV1cKS9cMS8=</last-substitute>
       <last-dir>1</last-dir>
@@ -501,8 +504,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwwMDFfMDA3MV9mcmVha3lfZnJlYWtfa2Ftb21lXzNlXD4=</entry>
-        <entry encoding="base64">XDxGeENoaXBTb3VuZFw+</entry>
         <entry>diff_audio</entry>
         <entry>difficulty_audio</entry>
         <entry>song_id</entry>
@@ -521,6 +522,8 @@
         <entry>clione</entry>
         <entry>invalid track number</entry>
         <entry encoding="base64">XDxyZWNvcmRfbGFzdF9leGNlcHRpb25cPg==</entry>
+        <entry>dialog</entry>
+        <entry>chunk</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
