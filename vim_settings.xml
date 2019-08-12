@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Converter/data/music_db.xml" timestamp="1565588758526">
+        <mark key="'" line="36674" column="13" />
+        <mark key="[" line="36670" column="20" />
+        <mark key="]" line="36670" column="21" />
+        <mark key="n" line="48" column="6" />
+      </file>
       <file name="/Python Console" timestamp="1564793782724">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,11 +30,11 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1564861687335">
-        <mark key="[" line="9" column="61" />
-        <mark key="]" line="10" column="37" />
-        <mark key="^" line="10" column="37" />
-        <mark key="." line="10" column="37" />
+      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1565589304561">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
         <mark key="'" line="3" column="0" />
@@ -55,7 +61,6 @@
         <mark key="^" line="3640" column="42" />
         <mark key="." line="3640" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565585831577" />
       <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1564101400086">
         <mark key="[" line="20" column="44" />
         <mark key="]" line="20" column="44" />
@@ -117,13 +122,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565587276125">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565589078974">
         <mark key="e" line="116" column="8" />
-        <mark key="'" line="1238" column="49" />
-        <mark key="[" line="1364" column="45" />
-        <mark key="]" line="1365" column="31" />
-        <mark key="." line="1365" column="31" />
-        <mark key="^" line="1365" column="31" />
+        <mark key="'" line="1048" column="62" />
+        <mark key="[" line="1360" column="13" />
+        <mark key="]" line="1360" column="13" />
+        <mark key="." line="1360" column="13" />
+        <mark key="^" line="1360" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -140,35 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="524" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="949" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1123" column="49" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="971" column="24" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1153" column="86" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="132" column="46" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="280" column="35" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1011" column="35" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="944" column="19" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1015" column="19" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1142" column="52" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="1156" column="64" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="606" column="25" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="817" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="10" column="6" filename="$USER_HOME$/Documents/Converter/out/redzone_yuuhei/exhaust.ksh" />
-      <jump line="15050" column="10" filename="$USER_HOME$/Documents/Converter/out/redzone_yuuhei/exhaust.ksh" />
-      <jump line="1086" column="22" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1154" column="63" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="781" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="804" column="21" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="812" column="35" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="813" column="48" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="731" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="595" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1380" column="36" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1385" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1396" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1416" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -222,7 +198,6 @@
       <jump line="1050" column="72" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1286" column="49" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1426" column="72" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="525" column="18" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="523" column="18" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="521" column="18" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -240,10 +215,40 @@
       <jump line="1251" column="66" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1250" column="60" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1238" column="49" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1387" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="25" column="16" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1412" column="54" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1413" column="42" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1418" column="50" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1292" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1063" column="37" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1066" column="41" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1289" column="117" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1587" column="64" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1391" column="71" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1390" column="54" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1389" column="39" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1049" column="68" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1365" column="30" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="17" column="37" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="36672" column="43" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="6712" column="13" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="36673" column="13" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="36689" column="42" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="36698" column="42" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="36670" column="20" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="36671" column="20" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="36656" column="37" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="36674" column="13" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
+      <jump line="1341" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1048" column="62" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXNlcl9yYW5nZVtldmVudC5zaWRlXSA9IDEK</text>
+      <register name="&quot;" type="4">
+        <text>spin</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -252,69 +257,61 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text>laser_range[event.side]:</text>
+        <text>spin</text>
       </register>
       <register name="/" type="4">
-        <text>range</text>
+        <text>255</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFyZ3BhcnNlci5hZGRfYXJndW1lbnQoJy1BJywgJy0tYXVkaW8tZGlyJywgZGVmYXVsdD0nRDovU0RWWC1FeHRyYWN0L3NvbmcnKQo=</text>
+      <register name="0" type="4">
+        <text>ê</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXNlcl9yYW5nZVtldmVudC5zaWRlXSA9IDEK</text>
+      <register name="1" type="4">
+        <text>Fix occasional laser choppinness
+                        
+                        The issues arose because in KSH laser range changes only last until
+                        either the next node or the next measure, I'm not sure which (and don't
+                        feel like figuring it out). So now we just print the laserrange
+                        directive at every node.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCdlZmZlY3QnICsgc3RyKGV2ZW50LmVmZmVjdCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVpcmVkX2NoaXBfc291bmRzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXNlcl9yYW5nZVtldmVudC5zaWRlXSA9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVpcmVkX2NoaXBfc291bmRzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnJlcXVpcmVkX2NoaXBfc291bmRzLmFwcGVuZChldmVudC5lZmZlY3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVmZmVjdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIHNvdW5kX2lkICE9IC0xIGFuZCBzb3VuZF9pZCAhPSAwIGFuZCBzb3VuZF9pZCAhPSAyNTU6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnLnJlY29yZChEZWJ1Zy5MZXZlbC5XQVJOSU5HLCAnY2hpcF9zb3VuZF9wYXJzZScsIGYndW5oYW5kbGVkIGNoaXAgc291bmQgaWQge3NvdW5kX2lkfScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnJlcXVpcmVkX2NoaXBfc291bmRzLmFwcGVuZChldmVudC5lZmZlY3QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4Y2VwdCBTdG9wSXRlcmF0aW9uOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVmZmVjdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>range</last-search>
+      <last-search>255</last-search>
       <last-offset />
-      <last-pattern>range</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">ICcuKi9cKDAwWzAtOV1cKS9cMS8=</last-substitute>
+      <last-pattern>255</last-pattern>
+      <last-replace>FX_CHIP_SOUND_EXTENSION</last-replace>
+      <last-substitute>AUDIO_EXTENSION</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>value\(\)</entry>
-        <entry>value()</entry>
-        <entry encoding="base64">XDxCdWlsZGVyXD4=</entry>
-        <entry>roll type</entry>
-        <entry>roll</entry>
-        <entry>chipsound</entry>
-        <entry>ChipSound</entry>
-        <entry>Button</entry>
-        <entry>ButtonPress</entry>
-        <entry>spin on both lasers</entry>
-        <entry>@</entry>
-        <entry>FxChipSound</entry>
-        <entry encoding="base64">XDxlZmZlY3RcPg==</entry>
         <entry encoding="base64">XDxCdXR0b25QcmVzc1w+</entry>
         <entry encoding="base64">XDxyZXF1aXJlZF9jaGlwX3NvdW5kc1w+</entry>
         <entry>required_</entry>
@@ -322,9 +319,21 @@
         <entry>required_chip</entry>
         <entry>set()</entry>
         <entry>range</entry>
+        <entry encoding="base64">XDxGWF9DSElQX1NPVU5EX0VYVEVOU0lPTlw+</entry>
+        <entry>AUDIO_EXTENSION</entry>
+        <entry>se=</entry>
+        <entry>print(event.effect</entry>
+        <entry>print('effect</entry>
+        <entry>suzette</entry>
+        <entry>eclair</entry>
+        <entry>?</entry>
+        <entry>?壬</entry>
+        <entry encoding="base64">PyA=</entry>
+        <entry>䧺</entry>
+        <entry>crepe</entry>
+        <entry>255</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5z</entry>
         <entry encoding="base64">JzwsJz5zL1w8Y1w+L2NoYXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1tcKFswLTldKl1cKV0ve2RpdmlzaW9uOiBcMX0v</entry>
         <entry encoding="base64">JzwsJz5zL2RpdmlzaW9uLyJkaXZpc2lvbiIv</entry>
@@ -343,6 +352,7 @@
         <entry>wq</entry>
         <entry>set number</entry>
         <entry>we</entry>
+        <entry encoding="base64">JzwsJz5zL0FVRElPX0VYVEVOU0lPTi9GWF9DSElQX1NPVU5EX0VYVEVOU0lPTi9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
