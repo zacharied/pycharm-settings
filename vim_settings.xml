@@ -113,6 +113,9 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/exceptions_0.txt" timestamp="1565649478314">
+        <mark key="'" line="2101" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1564790439696">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="6" column="9" />
@@ -136,6 +139,13 @@
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" timestamp="1565649191146">
+        <mark key="'" line="44739" column="5" />
+        <mark key="[" line="29531" column="9" />
+        <mark key="]" line="29531" column="8" />
+        <mark key="." line="29531" column="8" />
+        <mark key="^" line="29531" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1564789838704">
         <mark key="'" line="166" column="0" />
       </file>
@@ -148,110 +158,110 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1327" column="57" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="635" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="634" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="515" column="59" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="352" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1521" column="21" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1473" column="18" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1471" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="36674" column="13" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="54912" column="13" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="55387" column="13" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="78317" column="16" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="1749" column="20" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="3495" column="22" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="20128" column="21" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50479" column="20" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50519" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50516" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50520" column="9" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50527" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50588" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50595" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50655" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50663" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50723" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50731" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50782" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50790" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50850" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50858" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50918" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50926" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50977" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="50985" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51045" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51053" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51113" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51121" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51171" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51179" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51229" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51237" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51287" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51295" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51345" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51353" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51403" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51411" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51461" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51469" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51519" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51527" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51577" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51611" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51585" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51602" column="39" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51635" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51643" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51665" column="4" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51693" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51701" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51752" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51759" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51809" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51817" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51867" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51875" column="8" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51895" column="30" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="51953" column="30" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="52011" column="30" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="52069" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="19" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="35" column="37" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="193" column="6" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="309" column="6" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="541" column="6" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="367" column="37" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="425" column="6" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="483" column="6" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="602" column="6" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="657" column="6" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="704" column="56" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="1642" column="39" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="2512" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="773" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="3328" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="2513" column="7" filename="$USER_HOME$/Documents/Converter/data/music_db.xml" />
-      <jump line="1497" column="78" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1289" column="81" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1089" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="185" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1583" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="554" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="846" column="36" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1006" column="54" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="201" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1274" column="68" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="23" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1103" column="14" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="29634" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
+      <jump line="29635" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
+      <jump line="35489" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
+      <jump line="38604" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
+      <jump line="43960" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
+      <jump line="43961" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
+      <jump line="44738" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
+      <jump line="44739" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
+      <jump line="5751" column="49" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="6444" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="6447" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="6450" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="6822" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="6834" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="6846" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7337" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7340" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7343" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7346" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7349" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7352" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7355" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7358" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7361" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7364" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7367" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7370" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7373" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7376" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7379" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7382" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7385" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7388" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7391" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7394" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7397" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7400" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7403" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7406" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7409" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7412" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7415" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="7620" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="9380" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="76" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19243" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19240" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19237" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19234" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19231" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19228" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19225" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19222" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19219" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19216" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19213" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19210" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19207" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19204" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19201" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="19198" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17947" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17944" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17941" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17938" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17935" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17932" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17929" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17926" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17923" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17920" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17917" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17914" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17911" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17908" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17905" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17902" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="17568" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="15748" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="12886" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="12883" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="12880" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="12877" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="11026" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="11068" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="12860" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="2103" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="2104" column="47" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="2097" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="2098" column="47" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="2100" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="2101" column="47" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -260,10 +270,10 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>pfiltergain</text>
+        <text>l4ts</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIubWV0YS5hcHBlbmQoZidwZmlsdGVyZ2Fpbj01MCcpCg==</text>
@@ -305,9 +315,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pfiltergain</last-search>
+      <last-search>l4ts</last-search>
       <last-offset />
-      <last-pattern>pfiltergain</last-pattern>
+      <last-pattern>l4ts</last-pattern>
       <last-replace>FX_CHIP_SOUND_EXTENSION</last-replace>
       <last-substitute>AUDIO_EXTENSION</last-substitute>
       <last-dir>1</last-dir>
@@ -315,9 +325,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaW5lX251bVw+</entry>
-        <entry>print</entry>
-        <entry encoding="base64">XDxvdXRcPg==</entry>
         <entry>heaven</entry>
         <entry>infinite</entry>
         <entry>inf_ver</entry>
@@ -335,6 +342,9 @@
         <entry>Difficulty</entry>
         <entry encoding="base64">XDxmcm9tX3ZveF9maWx0ZXJfaWRcPg==</entry>
         <entry>pfiltergain</entry>
+        <entry>se=</entry>
+        <entry>error</entry>
+        <entry>l4ts</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1w8Y1w+L2NoYXIvZw==</entry>
