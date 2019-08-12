@@ -118,13 +118,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565572119083">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565572810524">
         <mark key="e" line="112" column="8" />
-        <mark key="'" line="836" column="0" />
-        <mark key="[" line="796" column="0" />
-        <mark key="]" line="793" column="49" />
-        <mark key="." line="793" column="49" />
-        <mark key="^" line="793" column="49" />
+        <mark key="'" line="781" column="8" />
+        <mark key="[" line="1085" column="65" />
+        <mark key="]" line="1085" column="65" />
+        <mark key="." line="1085" column="65" />
+        <mark key="^" line="1085" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1564789838704">
         <mark key="'" line="166" column="0" />
@@ -138,8 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1132" column="41" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="60" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1208" column="88" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1223" column="64" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="2" column="0" filename="/Dummy.txt" />
@@ -238,259 +236,63 @@
       <jump line="817" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="10" column="6" filename="$USER_HOME$/Documents/Converter/out/redzone_yuuhei/exhaust.ksh" />
       <jump line="15050" column="10" filename="$USER_HOME$/Documents/Converter/out/redzone_yuuhei/exhaust.ksh" />
+      <jump line="1086" column="22" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="781" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lambda t, e: t == self.end</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWVhc3VyZQo=</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
       </register>
       <register name="k" type="4">
-        <keys>
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="65535" code="68" mods="130" />
-          <key char="65535" code="85" mods="130" />
-          <key char="100" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="65535" code="82" mods="130" />
-          <key char="117" code="0" mods="0" />
-          <key char="65535" code="82" mods="130" />
-          <key char="65535" code="82" mods="130" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="65535" code="82" mods="130" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="65535" code="68" mods="130" />
-          <key char="65535" code="68" mods="130" />
-          <key char="111" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-        </keys>
+        <text>jk==kjg</text>
       </register>
       <register name="-" type="4">
-        <text>lambda t, e: t == self.end</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>@</text>
+        <text encoding="base64">XDx0aW1lX2l0ZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoYXJncy50ZXN0Y2FzZSBpcyBub3QgTm9uZSBhbmQgcmUubWF0Y2gocmYnMDBbMS00XV8wKntDQVNFU1thcmdzLnRlc3RjYXNlXVswXX1fKntDQVNFU1thcmdzLnRlc3RjYXNlXVsxXX1cLnZveCcsIGZ1bGxwYXRo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6eWllbGQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVhc3VyZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB0aW1lX3VudGlsX25leHRfZXZlbnQoc2VsZiwgdGltZSwgdGltZXNpZyk6CiAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtZWFzdXJlX2l0ZXIgPSByYW5nZShzZWxmLmVuZC5tZWFzdXJlKQogICAgICAgIGlmIHByb2dyZXNzX2JhcjoKICAgICAgICAgICAgZnJvbSB0cWRtIGltcG9ydCB0cWRtCiAgICAgICAgICAgIG1lYXN1cmVfaXRlciA9IHRxZG0obWVhc3VyZV9pdGVyLCB1bml0PSdtZWFzdXJlJywgbGVhdmU9RmFsc2UpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBUd2VhayAtLSBpcyBiaWdnZXN0IGNvcnJlY3Q/Cg==</text>
+        <text encoding="base64">ICAgICAgICBtID0gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudCA9IE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGNvcHlfYXVkaW8odm94LCBzb25nX2Rpcik6CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXZlbnQgPSBzZWxmLmV2ZW50c1tub3ddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZyb21fdGltZV9zdHIoY2xzLCB0aW1lc2lnLCB0aW1lOiBzdHIpOgogICAgICAgICIiIiBDcmVhdGUgYSBUaW1pbmcgZnJvbSB0aGUgZm9ybWF0IHN0cmluZyB0aGF0IGFwcGVhcnMgaW4gdGhlIGZpcnN0IGNvbHVtbiBvZiB2b3ggdHJhY2tzLiAiIiIKICAgICAgICBzcGxpdHRlZCA9IHRpbWUuc3BsaXQoJywnKQogICAgICAgIGlmIGludChzcGxpdHRlZFsyXSkgPj0gdGltZXNpZy50aWNrc19wZXJfYmVhdCgpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYnb2Zmc2V0IG9mIHtpbnQoc3BsaXR0ZWRbMl0pfSBpcyBncmVhdGVyIHRoYW4gbWF4aW11bScpCiAgICAgICAgcmV0dXJuIGNscyh0aW1lc2lnLCBpbnQoc3BsaXR0ZWRbMF0pLCBpbnQoc3BsaXR0ZWRbMV0pLCBpbnQoc3BsaXR0ZWRbMl0pKQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZyb21fdGlja3MoY2xzLCB0aW1lc2lnLCB0aWNrcyk6CiAgICAgICAgcGFzcwoKICAgIGRlZiBfX3N1Yl9fKHNlbGYsIG90aGVyKToKICAgICAgICBpZiBzZWxmID4gb3RoZXI6CiAgICAgICAgICAgIHdoaWxlIG90aGVyLgogICAgICAgIGVsc2U6Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVzaWdfZXZlbnRzOiBsaXN0W1RpbWVTaWduYXR1cmUgPSB0aW1lc2lnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYiA9IDAKICAgICAgICAgICAgd2hpbGUgVHJ1ZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBUYWtlIHRpbWVzaWcgYXMgYSBwYXJhbQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbSBpbiByYW5nZShzdGFydC5tZWFzdXJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5mcm9tX3RpY2tzKCkK</text>
+        <text encoding="base64">ICAgICAgICA6eWllbGQ6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>@</last-search>
+      <last-search encoding="base64">XDx0aW1lX2l0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>@</last-pattern>
+      <last-pattern encoding="base64">XDx0aW1lX2l0ZXJcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">ICcuKi9cKDAwWzAtOV1cKS9cMS8=</last-substitute>
       <last-dir>1</last-dir>
@@ -498,7 +300,6 @@
     </search>
     <history>
       <history-search>
-        <entry>abnormal</entry>
         <entry encoding="base64">XDxzcGNvbnRyb2xsZXJfbGluZV9pc19ub3JtYWxcPg==</entry>
         <entry encoding="base64">XDxsaW5lX2lzX2Fibm9ybWFsXD4=</entry>
         <entry encoding="base64">XDxmeF9jaGFuZ2VcPg==</entry>
@@ -518,6 +319,7 @@
         <entry encoding="base64">XDxUaW1pbmdcPg==</entry>
         <entry>spin</entry>
         <entry>@</entry>
+        <entry encoding="base64">XDx0aW1lX2l0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL8KlPGPCpT4vY2hhci9n</entry>
