@@ -1,0 +1,13 @@
+<application>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.python">
+        <value>
+          <set>
+            <option value="com.jetbrains.python.codeInsight.postfix.PyMainPostfixTemplate#.main" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
+  </component>
+</application>
