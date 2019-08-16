@@ -131,12 +131,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565932322096">
-        <mark key="'" line="1060" column="43" />
-        <mark key="[" line="1717" column="25" />
-        <mark key="]" line="1718" column="16" />
-        <mark key="." line="1718" column="16" />
-        <mark key="^" line="1718" column="16" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565933105748">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="1716" column="0" />
+        <mark key="]" line="1716" column="0" />
+        <mark key="." line="1716" column="0" />
+        <mark key="^" line="1721" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -160,10 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="938" column="11" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="105" column="22" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="98" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="942" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="90" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1114" column="16" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -260,10 +256,14 @@
       <jump line="3539" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
       <jump line="3373" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
       <jump line="1537" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
+      <jump line="941" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="46" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Thread(target=do_process_voxfiles, args=(groups[i], i)))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEsIGxlbihncm91cHMpKToKICAgICAgICBpZiBvcy5mb3JrKCkgPT0gMDoKICAgICAgICAgICAgY29yZV9udW0gPSBpCiAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -272,7 +272,7 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text>Thread(target=do_process_voxfiles, args=(groups[i], i)))</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>fx-l=3</text>
@@ -281,31 +281,31 @@
         <text>Thread(target=do_process_voxfiles, args=(groups[i], i)))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2xhbSA9IGxhc2VyX25vZGUK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEsIGxlbihncm91cHMpKToKICAgICAgICBpZiBvcy5mb3JrKCkgPT0gMDoKICAgICAgICAgICAgY29yZV9udW0gPSBpCiAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHZveC5nYW1lX2lkKQo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGFyZ3MubnVtX2NvcmVzKToKICAgICAgICB0aHJlYWRzLmFwcGVuZChUaHJlYWQodGFyZ2V0PWRvX3Byb2Nlc3Nfdm94ZmlsZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Rml4IHJlYWwgZGlmZmljdWx0eSBiZWluZyB0b28gdmVyYm9zZSBvbiBJTkYgY2hhcnRzCg==</text>
+        <text encoding="base64">ICAgIGNvcmVfbnVtID0gMAogICAgZm9yIGkgaW4gcmFuZ2UoMSwgbGVuKGdyb3VwcykpOgogICAgICAgIGlmIG9zLmZvcmsoKSA9PSAwOgogICAgICAgICAgICBjb3JlX251bSA9IGkKICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9leGNlcHRpb25zX2ZpbGUuY2xvc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MuZG9fbWVkaWE6CiAgICAgICAgcHJpbnQoJ0dlbmVyYXRpbmcgYXVkaW8gZmlsZSBtYXBwaW5nLi4uJykKICAgICAgICAjIEF1ZGlvIGZpbGVzIHNob3VsZCBoYXZlIGEgbmFtZSBzdGFydGluZyB3aXRoIHRoZSBJRCBmb2xsb3dlZCBieSBhIHNwYWNlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2xhbSA9IGxhc2VyX25vZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgXywgXywgZmlsZXMgaW4gb3Mud2FsayhhcmdzLmF1ZGlvX2Rpcik6CiAgICAgICAgICAgIGZvciBmIGluIGZpbGVzOgogICAgICAgICAgICAgICAgaWYgb3MucGF0aC5iYXNlbmFtZShmKSA9PSAnamsnOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgaWYgc3BsaXR4KGYpWzFdID09ICcub2dnJyBhbmQgbm90IGYuZW5kc3dpdGgoJ180aS5vZ2cnKToKICAgICAgICAgICAgICAgICAgICAgICAgaWRfYXVkaW9fbWFwW2ludChzcGxpdHgob3MucGF0aC5iYXNlbmFtZShmKSlbMF0pXSA9IGYKICAgICAgICAgICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yIGFzIGU6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoZSkKICAgICAgICBwcmludChmJ3tsZW4oaWRfYXVkaW9fbWFwKX0gc29uZ3MgcHJvY2Vzc2VkLicpCgo=</text>
+        <text encoding="base64">ICAgIHByaW50KHZveC5nYW1lX2lkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlkX2F1ZGlvX21hcCA9IHt9Cg==</text>
+        <text encoding="base64">Rml4IHJlYWwgZGlmZmljdWx0eSBiZWluZyB0b28gdmVyYm9zZSBvbiBJTkYgY2hhcnRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MuZG9fbWVkaWE6CiAgICAgICAgcHJpbnQoJ0dlbmVyYXRpbmcgYXVkaW8gZmlsZSBtYXBwaW5nLi4uJykKICAgICAgICAjIEF1ZGlvIGZpbGVzIHNob3VsZCBoYXZlIGEgbmFtZSBzdGFydGluZyB3aXRoIHRoZSBJRCBmb2xsb3dlZCBieSBhIHNwYWNlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
