@@ -36,6 +36,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/data/vox_02_ifs/001_0122_panic_holic_cshow_4i.vox" timestamp="1565918572304" />
       <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="1" column="0" />
@@ -61,8 +62,11 @@
         <mark key="^" line="3640" column="42" />
         <mark key="." line="3640" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565590189504">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1565918986195">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" timestamp="1565918115854">
+        <mark key="'" line="8489" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1564101400086">
         <mark key="[" line="20" column="44" />
@@ -113,9 +117,6 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/exceptions_0.txt" timestamp="1565649478314">
-        <mark key="'" line="2101" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1564790439696">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="6" column="9" />
@@ -128,13 +129,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565647496719">
-        <mark key="e" line="116" column="8" />
-        <mark key="'" line="1103" column="14" />
-        <mark key="[" line="1394" column="45" />
-        <mark key="]" line="1395" column="32" />
-        <mark key="." line="1395" column="32" />
-        <mark key="^" line="1395" column="32" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565919012448">
+        <mark key="[" line="1097" column="52" />
+        <mark key="]" line="1097" column="52" />
+        <mark key="." line="1097" column="52" />
+        <mark key="^" line="1097" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -158,25 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29634" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
-      <jump line="29635" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
-      <jump line="35489" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
-      <jump line="38604" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
-      <jump line="43960" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
-      <jump line="43961" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
-      <jump line="44738" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
-      <jump line="44739" column="5" filename="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" />
-      <jump line="5751" column="49" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="6444" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="6447" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="6450" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="6822" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="6834" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="6846" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="7337" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="7340" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="7343" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="7346" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="7349" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="7352" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="7355" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
@@ -258,10 +238,29 @@
       <jump line="2098" column="47" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="2100" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="2101" column="47" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="6" column="12" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="5283" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="2206" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="1861" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="1809" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="1808" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="1261" column="52" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="513" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="541" column="30" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1237" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="503" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1745" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="2794" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="5278" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="8490" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="11637" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="6914" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
+      <jump line="8489" column="0" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/infinite.ksh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -270,10 +269,10 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>l4ts</text>
+        <text>pfiltergain</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIubWV0YS5hcHBlbmQoZidwZmlsdGVyZ2Fpbj01MCcpCg==</text>
@@ -315,9 +314,9 @@
       </register>
     </registers>
     <search>
-      <last-search>l4ts</last-search>
+      <last-search>pfiltergain</last-search>
       <last-offset />
-      <last-pattern>l4ts</last-pattern>
+      <last-pattern>pfiltergain</last-pattern>
       <last-replace>FX_CHIP_SOUND_EXTENSION</last-replace>
       <last-substitute>AUDIO_EXTENSION</last-substitute>
       <last-dir>1</last-dir>
@@ -325,8 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>heaven</entry>
-        <entry>infinite</entry>
         <entry>inf_ver</entry>
         <entry encoding="base64">aW5mX3ZlciAuKj4y</entry>
         <entry encoding="base64">PGluZiB2ZXIuKj4x</entry>
@@ -341,10 +338,12 @@
         <entry>button_fx</entry>
         <entry>Difficulty</entry>
         <entry encoding="base64">XDxmcm9tX3ZveF9maWx0ZXJfaWRcPg==</entry>
-        <entry>pfiltergain</entry>
         <entry>se=</entry>
         <entry>error</entry>
         <entry>l4ts</entry>
+        <entry encoding="base64">XDxMYXNlck5vZGVcPg==</entry>
+        <entry>\/\/ 10</entry>
+        <entry>pfiltergain</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1w8Y1w+L2NoYXIvZw==</entry>
