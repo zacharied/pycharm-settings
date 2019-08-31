@@ -70,6 +70,9 @@
         <mark key="^" line="3640" column="42" />
         <mark key="." line="3640" column="26" />
       </file>
+      <file name="/Dummy.txt" timestamp="1567283285589">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1564101400086">
         <mark key="[" line="20" column="44" />
         <mark key="]" line="20" column="44" />
@@ -119,9 +122,6 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/exceptions_0.txt" timestamp="1567135665949">
-        <mark key="'" line="5320" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1564790439696">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="6" column="9" />
@@ -134,12 +134,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1565933105748">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="1716" column="0" />
-        <mark key="]" line="1716" column="0" />
-        <mark key="." line="1716" column="0" />
-        <mark key="^" line="1721" column="14" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567283787238">
+        <mark key="'" line="88" column="8" />
+        <mark key="[" line="1248" column="136" />
+        <mark key="]" line="1248" column="137" />
+        <mark key="." line="1248" column="137" />
+        <mark key="^" line="1248" column="137" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -163,15 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="811" column="65" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1060" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="2254" column="9" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
-      <jump line="5354" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
-      <jump line="6478" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
-      <jump line="7548" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
-      <jump line="8868" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
-      <jump line="9141" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
-      <jump line="1190" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
       <jump line="3539" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
       <jump line="3373" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
       <jump line="1537" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
@@ -263,10 +254,19 @@
       <jump line="5314" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="5317" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="5320" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
+      <jump line="48" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="505" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="519" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="527" column="24" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1035" column="65" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1248" column="114" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1250" column="114" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="88" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEsIGxlbihncm91cHMpKToKICAgICAgICBpZiBvcy5mb3JrKCkgPT0gMDoKICAgICAgICAgICAgY29yZV9udW0gPSBpCiAgICAgICAgICAgIGJyZWFrCg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -275,10 +275,10 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>abnormal \/ tab_effect</text>
+        <text encoding="base64">XDx0aWNrc19wZXJfYmVhdFw+</text>
       </register>
       <register name="0" type="4">
         <text>Thread(target=do_process_voxfiles, args=(groups[i], i)))</text>
@@ -315,9 +315,9 @@
       </register>
     </registers>
     <search>
-      <last-search>abnormal \/ tab_effect</last-search>
+      <last-search encoding="base64">XDx0aWNrc19wZXJfYmVhdFw+</last-search>
       <last-offset />
-      <last-pattern>abnormal \/ tab_effect</last-pattern>
+      <last-pattern encoding="base64">XDx0aWNrc19wZXJfYmVhdFw+</last-pattern>
       <last-replace>FX_CHIP_SOUND_EXTENSION</last-replace>
       <last-substitute>AUDIO_EXTENSION</last-substitute>
       <last-dir>1</last-dir>
@@ -325,8 +325,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb19jb3B5X3ByZXZpZXdcPg==</entry>
-        <entry>src_audio_path</entry>
         <entry>id_audio_map</entry>
         <entry>id_audio</entry>
         <entry encoding="base64">XDxkb19jb3B5X2F1ZGlvXD4=</entry>
@@ -345,6 +343,8 @@
         <entry>abnormal</entry>
         <entry encoding="base64">YWJub3JtYWwg</entry>
         <entry>abnormal \/ tab_effect</entry>
+        <entry>Roll</entry>
+        <entry encoding="base64">XDx0aWNrc19wZXJfYmVhdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1w8Y1w+L2NoYXIvZw==</entry>
