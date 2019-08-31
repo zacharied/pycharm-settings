@@ -73,7 +73,7 @@
         <mark key="^" line="3640" column="42" />
         <mark key="." line="3640" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567293807540">
+      <file name="/Dummy.txt" timestamp="1567294701698">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -142,13 +142,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567294425760">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567295174187">
         <mark key="a" line="1341" column="169" />
-        <mark key="'" line="54" column="11" />
-        <mark key="[" line="1727" column="0" />
-        <mark key="]" line="1727" column="0" />
-        <mark key="." line="1727" column="0" />
-        <mark key="^" line="1746" column="16" />
+        <mark key="'" line="1524" column="8" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="47" column="42" />
+        <mark key="." line="47" column="42" />
+        <mark key="^" line="47" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -172,12 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3524" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3530" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3580" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3616" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3619" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3622" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="3625" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="3628" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="3781" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
@@ -272,10 +266,16 @@
       <jump line="2" column="5" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1738" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="54" column="11" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="46" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1536" column="45" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="62" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="90" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1524" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnQmVnaW5uaW5nIGNvbnZlcnNpb24gYWNyb3NzIHthcmdzLm51bV9jb3Jlc30gY29yZXMuJykKCg==</text>
+      <register name="&quot;" type="4">
+        <text>debug.exceptions_count[Debug.Level.ERROR]</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -284,49 +284,53 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text>cores</text>
+        <text>debug.exceptions_count[Debug.Level.ERROR]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb19wcm9jZXNzX3ZveGZpbGVzXD4=</text>
+        <text encoding="base64">XDxleGNlcHRpb25zX2NvdW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Zy5yZWNvcmQoRGVidWcuTGV2ZWwuV0FSTklORywgJ2J1dHRvbl9meCcsICdvdXQgb2YgYm91bmRzIGZ4IGluZGV4IGZvciBGWCBob2xkLCB1c2luZyBmYWxsYmFjaycpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnhfZGF0YSA9IC0xCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnQmVnaW5uaW5nIGNvbnZlcnNpb24gYWNyb3NzIHthcmdzLm51bV9jb3Jlc30gY29yZXMuJykKCg==</text>
+        <text encoding="base64">ZnJvbSB0aHJlYWRpbmcgaW1wb3J0IFRocmVhZCwgTG9jawo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Fix reverb e
+
+debug.close()t causing cr
+
+debug.close()s in-game</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGNvcmVfbnVtID4gMDoKICAgICAgICBleGl0KDApCiAgICBlbHNlOgogICAgICAgIGZvciBfIGluIHJhbmdlKDEsIGFyZ3MubnVtX2NvcmVzKToKICAgICAgICAgICAgb3Mud2FpdCgpCg==</text>
+        <text encoding="base64">ICAgIGNvcmVfbnVtID0gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWJ1Zy5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYnQmVnaW5uaW5nIGNvbnZlcnNpb24gYWNyb3NzIHthcmdzLm51bV9jb3Jlc30gY29yZXMuJykKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFVuaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGlmIGNvcmVfbnVtID4gMDoKICAgICAgICBleGl0KDApCiAgICBlbHNlOgogICAgICAgIGZvciBfIGluIHJhbmdlKDEsIGFyZ3MubnVtX2NvcmVzKToKICAgICAgICAgICAgb3Mud2FpdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgTG9hZCBzb3VyY2UgZGlyZWN0b3J5LgogICAgZm9yIHZveF9wYXRoIGluIGdyb3Vwc1tjb3JlX251bV06CiAgICAgICAgZGVidWcuc3RhdGUgPSBEZWJ1Zy5TdGF0ZS5JTlBVVAogICAgICAgIGRlYnVnLmlucHV0X2ZpbGVuYW1lID0gdm94X3BhdGgKICAgICAgICBkZWJ1Zy5vdXRwdXRfZmlsZW5hbWUgPSBOb25lCiAgICAgICAgZGVidWcucmVzZXQoKQoKICAgICAgICBwcmludChmJ3t2b3hfcGF0aH06JykKICAgICAgICAjIG5vaW5zcGVjdGlvbiBQeUJyb2FkRXhjZXB0aW9uCiAgICAgICAgdHJ5OgogICAgICAgICAgICB2b3ggPSBWb3guZnJvbV9maWxlKHZveF9wYXRoKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIGRlYnVnLnJlY29yZF9sYXN0X2V4Y2VwdGlvbihsZXZlbD1EZWJ1Zy5MZXZlbC5FUlJPUiwgdGFnPSd2b3hfbG9hZCcpCiAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgIHByaW50KGYnPiBQcm9jZXNzaW5nICJ7dm94X3BhdGh9Ijoge3N0cih2b3gpfScpCgogICAgICAgICMgRmlyc3QgdHJ5IHRvIHBhcnNlIHRoZSBmaWxlLgogICAgICAgIHRyeToKICAgICAgICAgICAgdm94LnBhcnNlKCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50KGYnPiBQYXJzaW5nIHZveCBmaWxlIGZhaWxlZCB3aXRoICJ7c3RyKGUpfSI6XG57dHJhY2ViYWNrLmZvcm1hdF9leGMoKX0nKQogICAgICAgICAgICBkZWJ1Zy5yZWNvcmRfbGFzdF9leGNlcHRpb24obGV2ZWw9RGVidWcuTGV2ZWwuRVJST1IsIHRhZz0ndm94X3BhcnNlJywgdHJhY2U9VHJ1ZSkKICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgIyBNYWtlIHRoZSBvdXRwdXQgZGlyZWN0b3J5LgogICAgICAgIHNvbmdfZGlyID0gZidvdXQve3ZveC5hc2NpaX0nCiAgICAgICAgaWYgbm90IG9zLnBhdGguaXNkaXIoc29uZ19kaXIpOgogICAgICAgICAgICBwcmludChmJz4gQ3JlYXRpbmcgc29uZyBkaXJlY3RvcnkgIntzb25nX2Rpcn0iLicpCiAgICAgICAgICAgIG9zLm1rZGlyKHNvbmdfZGlyKQoKICAgICAgICBqYWNrZXRfaWR4ID0gTm9uZQogICAgICAgIGluZmluaXRlX2F1ZGlvID0gTm9uZQogICAgICAgIGluZmluaXRlX3ByZXZpZXcgPSBOb25lCgogICAgICAgICMgQ29weSBtZWRpYSBmaWxlcyBvdmVyLgogICAgICAgIGlmIGFyZ3MuZG9fbWVkaWE6CiAgICAgICAgICAgIGluZmluaXRlX2F1ZGlvID0gZG9fY29weV9hdWRpbyh2b3gsIHNvbmdfZGlyKQogICAgICAgICAgICBqYWNrZXRfaWR4ID0gZG9fY29weV9qYWNrZXQodm94LCBzb25nX2RpcikKICAgICAgICAgICAgaW5maW5pdGVfcHJldmlldyA9IGRvX2NvcHlfcHJldmlldyh2b3gsIHNvbmdfZGlyKQoKICAgICAgICAgICAgIyBDb3B5IEZYIGNoaXAgc291bmRzLgogICAgICAgICAgICBpZiBsZW4odm94LnJlcXVpcmVkX2NoaXBfc291bmRzKSA+IDA6CiAgICAgICAgICAgICAgICBkb19jb3B5X2Z4X2NoaXBfc291bmRzKHZveCwgc29uZ19kaXIpCgogICAgICAgICMgT3V0cHV0IHRoZSBLU0ggY2hhcnQuCiAgICAgICAgY2hhcnRfcGF0aCA9IGYne3NvbmdfZGlyfS97dm94LmRpZmZpY3VsdHkudG9feG1sX25hbWUoKX0ua3NoJwoKICAgICAgICBkZWJ1Zy5vdXRwdXRfZmlsZW5hbWUgPSBjaGFydF9wYXRoCiAgICAgICAgZGVidWcuc3RhdGUgPSBEZWJ1Zy5TdGF0ZS5PVVRQVVQKCiAgICAgICAgaWYgYXJncy5kb19jb252ZXJ0OgogICAgICAgICAgICBwcmludChmJz4gV3JpdGluZyBLU0ggZGF0YSB0byAie2NoYXJ0X3BhdGh9Ii4nKQogICAgICAgICAgICB3aXRoIG9wZW4oY2hhcnRfcGF0aCwgIncrIiwgZW5jb2Rpbmc9J3V0Zi04JykgYXMga3NoX2ZpbGU6CiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgdm94LndyaXRlX3RvX2tzaChqYWNrZXRfaWR4PWphY2tldF9pZHgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmZpbml0ZV9hdWRpbz1pbmZpbml0ZV9hdWRpbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZmluaXRlX3ByZXZpZXc9aW5maW5pdGVfcHJldmlldywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGU9a3NoX2ZpbGUpCiAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoZidPdXRwdXR0aW5nIHRvIGtzaCBmYWlsZWQgd2l0aCAie3N0cihlKX0iXG57dHJhY2ViYWNrLmZvcm1hdF9leGMoKX1cbicpCiAgICAgICAgICAgICAgICAgICAgZGVidWcucmVjb3JkX2xhc3RfZXhjZXB0aW9uKGxldmVsPURlYnVnLkxldmVsLkVSUk9SLCB0YWc9J2tzaF9vdXRwdXQnLCB0cmFjZT1UcnVlKQogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBwcmludChmJz4gRmluaXNoZWQgY29udmVyc2lvbiB3aXRoIHtkZWJ1Zy5leGNlcHRpb25zX2NvdW50W0RlYnVnLkxldmVsLkFCTk9STUFMSVRZXX0gYWJub3JtYWxpdGllcywge2RlYnVnLmV4Y2VwdGlvbnNfY291bnRbRGVidWcuTGV2ZWwuV0FSTklOR119IHdhcm5pbmdzLCBhbmQge2RlYnVnLmV4Y2VwdGlvbnNfY291bnRbRGVidWcuTGV2ZWwuRVJST1JdfSBlcnJvcnMuJykKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludChmJz4gU2tpcHBpbmcgY29udmVyc2lvbiBzdGVwLicpCiAgICAgICAgdm94LmNsb3NlKCkK</text>
+        <text encoding="base64">CiAgICBkZWJ1Zy5jbG9zZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFVuaW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGV2ZW50LmVmZmVjdCA9PSAtMToK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb19wcm9jZXNzX3ZveGZpbGVzXD4=</last-search>
+      <last-search encoding="base64">XDxleGNlcHRpb25zX2NvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb19wcm9jZXNzX3ZveGZpbGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxleGNlcHRpb25zX2NvdW50XD4=</last-pattern>
       <last-replace>FX_CHIP_SOUND_EXTENSION</last-replace>
       <last-substitute>AUDIO_EXTENSION</last-substitute>
       <last-dir>1</last-dir>
@@ -334,7 +338,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tapestop</entry>
         <entry>TAPESTOP</entry>
         <entry encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</entry>
         <entry>fx_load</entry>
@@ -354,6 +357,7 @@
         <entry>default_effect</entry>
         <entry>fallback</entry>
         <entry encoding="base64">XDxkb19wcm9jZXNzX3ZveGZpbGVzXD4=</entry>
+        <entry encoding="base64">XDxleGNlcHRpb25zX2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1w8Y1w+L2NoYXIvZw==</entry>
