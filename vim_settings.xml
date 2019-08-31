@@ -134,9 +134,9 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567283787238">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567286014284">
         <mark key="'" line="88" column="8" />
-        <mark key="[" line="1248" column="136" />
+        <mark key="[" line="1248" column="134" />
         <mark key="]" line="1248" column="137" />
         <mark key="." line="1248" column="137" />
         <mark key="^" line="1248" column="137" />
@@ -266,7 +266,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>7</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -275,7 +275,7 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aWNrc19wZXJfYmVhdFw+</text>
