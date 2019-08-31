@@ -70,7 +70,7 @@
         <mark key="^" line="3640" column="42" />
         <mark key="." line="3640" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567283285589">
+      <file name="/Dummy.txt" timestamp="1567286617705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1564101400086">
@@ -134,8 +134,8 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567286014284">
-        <mark key="'" line="88" column="8" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567286802026">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="1248" column="134" />
         <mark key="]" line="1248" column="137" />
         <mark key="." line="1248" column="137" />
@@ -163,8 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3539" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
-      <jump line="3373" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
       <jump line="1537" column="0" filename="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" />
       <jump line="941" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="46" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -263,6 +261,8 @@
       <jump line="1250" column="114" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="88" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1274" column="61" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -278,7 +278,7 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aWNrc19wZXJfYmVhdFw+</text>
+        <text>TAPESTOP</text>
       </register>
       <register name="0" type="4">
         <text>Thread(target=do_process_voxfiles, args=(groups[i], i)))</text>
@@ -315,9 +315,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aWNrc19wZXJfYmVhdFw+</last-search>
+      <last-search>TAPESTOP</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aWNrc19wZXJfYmVhdFw+</last-pattern>
+      <last-pattern>TAPESTOP</last-pattern>
       <last-replace>FX_CHIP_SOUND_EXTENSION</last-replace>
       <last-substitute>AUDIO_EXTENSION</last-substitute>
       <last-dir>1</last-dir>
@@ -325,8 +325,6 @@
     </search>
     <history>
       <history-search>
-        <entry>id_audio_map</entry>
-        <entry>id_audio</entry>
         <entry encoding="base64">XDxkb19jb3B5X2F1ZGlvXD4=</entry>
         <entry encoding="base64">XDx3cml0ZV90b19rc2hcPg==</entry>
         <entry>fx-.=</entry>
@@ -345,6 +343,8 @@
         <entry>abnormal \/ tab_effect</entry>
         <entry>Roll</entry>
         <entry encoding="base64">XDx0aWNrc19wZXJfYmVhdFw+</entry>
+        <entry>tapestop</entry>
+        <entry>TAPESTOP</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1w8Y1w+L2NoYXIvZw==</entry>
