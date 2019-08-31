@@ -137,12 +137,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567291038004">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567291049548">
         <mark key="'" line="997" column="16" />
-        <mark key="[" line="934" column="27" />
-        <mark key="]" line="934" column="27" />
-        <mark key="." line="934" column="27" />
-        <mark key="^" line="995" column="79" />
+        <mark key="[" line="934" column="67" />
+        <mark key="]" line="934" column="67" />
+        <mark key="." line="934" column="67" />
+        <mark key="^" line="934" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -269,7 +269,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -278,7 +278,7 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>self.effect_defines</text>
