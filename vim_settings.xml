@@ -61,8 +61,8 @@
       <file name="$USER_HOME$/Documents/Converter/out/pure_evil_korsk/exhaust.ksh" timestamp="1565923333984">
         <mark key="'" line="12572" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/data/vox_10_ifs/004_0943_higher_redalice_5m.vox" timestamp="1567293312667">
-        <mark key="'" line="331" column="13" />
+      <file name="$USER_HOME$/Documents/Converter/data/vox_10_ifs/004_0943_higher_redalice_5m.vox" timestamp="1567297553785">
+        <mark key="'" line="328" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" timestamp="1564863799920">
         <mark key="'" line="3719" column="3" />
@@ -73,7 +73,7 @@
         <mark key="^" line="3640" column="42" />
         <mark key="." line="3640" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567294701698">
+      <file name="/Dummy.txt" timestamp="1567297716531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -142,13 +142,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567295174187">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567297942692">
         <mark key="a" line="1341" column="169" />
-        <mark key="'" line="1524" column="8" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="47" column="42" />
-        <mark key="." line="47" column="42" />
-        <mark key="^" line="47" column="42" />
+        <mark key="'" line="1638" column="61" />
+        <mark key="[" line="1403" column="119" />
+        <mark key="]" line="1403" column="146" />
+        <mark key="." line="1403" column="146" />
+        <mark key="^" line="1403" column="146" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -160,9 +160,6 @@
         <mark key="." line="29531" column="8" />
         <mark key="^" line="29531" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567293563445">
-        <mark key="'" line="16552" column="5" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/README.md" timestamp="1565585708791">
         <mark key="'" line="18" column="36" />
         <mark key="[" line="28" column="120" />
@@ -172,77 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3625" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3628" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3781" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3784" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3787" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3802" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3805" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3808" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3811" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3844" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3847" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3850" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3853" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3856" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3874" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3877" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3880" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3949" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3952" column="10" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="3933" column="56" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="442" column="38" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="944" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="933" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="759" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1093" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1400" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="745" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="928" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="934" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="993" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="937" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="995" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="997" column="16" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="376" column="0" filename="$USER_HOME$/Documents/Converter/data/vox_10_ifs/004_0943_higher_redalice_5m.vox" />
-      <jump line="749" column="39" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="484" column="6" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1335" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="488" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="248" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="276" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="272" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1341" column="192" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="27" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1344" column="101" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="274" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1199" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="331" column="13" filename="$USER_HOME$/Documents/Converter/data/vox_10_ifs/004_0943_higher_redalice_5m.vox" />
-      <jump line="918" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1342" column="52" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1402" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1403" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1587" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1590" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1661" column="48" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1667" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="283" column="21" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="296" column="63" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="314" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="324" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1244" column="44" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1092" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1096" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1099" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1101" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1102" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1110" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1085" column="16" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1113" column="104" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1129" column="90" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1133" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1594" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="331" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="351" column="36" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -250,9 +176,7 @@
       <jump line="1107" column="115" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1593" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1343" column="76" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="18089" column="9" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
       <jump line="5005" column="5" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
       <jump line="5791" column="5" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
       <jump line="11685" column="5" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
@@ -266,16 +190,89 @@
       <jump line="2" column="5" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1738" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="54" column="11" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="46" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1536" column="45" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="62" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="90" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1524" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="42" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1664" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="43" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1665" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="100" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="107" column="7" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="62" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="63" column="22" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="73" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="74" column="18" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="75" column="14" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1574" column="35" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="46" column="14" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="108" column="46" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="865" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1577" column="35" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="94" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1788" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="18092" column="9" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18130" column="29" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18131" column="30" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18132" column="33" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18120" column="28" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18121" column="28" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18122" column="23" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18123" column="25" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18124" column="28" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18129" column="25" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18128" column="28" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18127" column="27" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18126" column="29" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="18125" column="23" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="1764" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="339" column="63" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1039" column="80" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1051" column="73" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="326" column="21" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="357" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="368" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="359" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="377" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="792" column="47" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="365" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1037" column="80" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1049" column="73" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="334" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1512" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1793" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1521" column="38" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="93" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="99" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="105" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="328" column="13" filename="$USER_HOME$/Documents/Converter/data/vox_10_ifs/004_0943_higher_redalice_5m.vox" />
+      <jump line="18094" column="9" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="765" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="374" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="16698" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="17385" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="17435" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="369" column="9" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1401" column="82" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="31" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1392" column="69" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1414" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="643" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1634" column="100" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1658" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1643" column="50" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1638" column="61" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debug.exceptions_count[Debug.Level.ERROR]</text>
+        <text>threading.get_ident()</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -284,73 +281,56 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text>debug.exceptions_count[Debug.Level.ERROR]</text>
+        <text>threading.get_ident()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGNlcHRpb25zX2NvdW50XD4=</text>
+        <text encoding="base64">XDx0b19qYWNrZXRfaWZzX251bWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Zy5yZWNvcmQoRGVidWcuTGV2ZWwuV0FSTklORywgJ2J1dHRvbl9meCcsICdvdXQgb2YgYm91bmRzIGZ4IGluZGV4IGZvciBGWCBob2xkLCB1c2luZyBmYWxsYmFjaycpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnhfZGF0YSA9IC0xCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlucHV0X2ZpbGVuYW1lKHNlbGYpOgogICAgICAgIHJldHVybiBEZWJ1Zy5fZ2V0X3RocmVhZGVkKHNlbGYuX3N0YXRlKQogICAgQGlucHV0X2ZpbGVuYW1lLnNldHRlcgogICAgZGVmIGlucHV0X2ZpbGVuYW1lKHNlbGYsIHZhbHVlKToKICAgICAgICBEZWJ1Zy5fc2V0X3RocmVhZGVkKHNlbGYuX3N0YXRlLCB2YWx1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0aHJlYWRpbmcgaW1wb3J0IFRocmVhZCwgTG9jawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Fix reverb e
-
-debug.close()t causing cr
-
-debug.close()s in-game</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChmJ3t2b3hfcGF0aH06JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvcmVfbnVtID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmaW4KICAgICAgICAgICAgZGVmaW5lLm1haW5fcGFyYW0gPSAnMjAwJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnQmVnaW5uaW5nIGNvbnZlcnNpb24gYWNyb3NzIHthcmdzLm51bV9jb3Jlc30gY29yZXMuJykKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGNvcmVfbnVtID4gMDoKICAgICAgICBleGl0KDApCiAgICBlbHNlOgogICAgICAgIGZvciBfIGluIHJhbmdlKDEsIGFyZ3MubnVtX2NvcmVzKToKICAgICAgICAgICAgb3Mud2FpdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWJ1Zy5jbG9zZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFVuaW9uCg==</text>
+        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBpbnB1dF9maWxlbmFtZShzZWxmKToKICAgICAgICByZXR1cm4gRGVidQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBpZiB0aHJlYWRpbmcuZ2V0X2lkZW50KCkgbm90IGluIG1lbWJlcjoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGNlcHRpb25zX2NvdW50XD4=</last-search>
+      <last-search encoding="base64">XDx0b19qYWNrZXRfaWZzX251bWVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGNlcHRpb25zX2NvdW50XD4=</last-pattern>
-      <last-replace>FX_CHIP_SOUND_EXTENSION</last-replace>
-      <last-substitute>AUDIO_EXTENSION</last-substitute>
+      <last-pattern encoding="base64">XDx0b19qYWNrZXRfaWZzX251bWVyXD4=</last-pattern>
+      <last-replace>_current_line_num</last-replace>
+      <last-substitute>_state</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TAPESTOP</entry>
-        <entry encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</entry>
-        <entry>fx_load</entry>
-        <entry>fx_parse</entry>
-        <entry>finalized</entry>
-        <entry>self.effect_defines</entry>
-        <entry>out of bounds</entry>
-        <entry encoding="base64">XDxCdXR0b25QcmVzc1w+</entry>
-        <entry>effect_defines</entry>
-        <entry encoding="base64">XDxmeF9jaGFuZ2VcPg==</entry>
-        <entry>using fallback</entry>
-        <entry>default</entry>
-        <entry>using default</entry>
         <entry>fx_data</entry>
         <entry>effect</entry>
         <entry encoding="base64">PCAw</entry>
@@ -358,16 +338,21 @@ debug.close()s in-game</text>
         <entry>fallback</entry>
         <entry encoding="base64">XDxkb19wcm9jZXNzX3ZveGZpbGVzXD4=</entry>
         <entry encoding="base64">XDxleGNlcHRpb25zX2NvdW50XD4=</entry>
+        <entry>input</entry>
+        <entry>input_filename</entry>
+        <entry>exceptions_count</entry>
+        <entry>depth</entry>
+        <entry>default</entry>
+        <entry encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</entry>
+        <entry encoding="base64">XDxmcm9tX2VmZmVjdF9pbmZvX2xpbmVcPg==</entry>
+        <entry encoding="base64">cHJpbnQoZic+IA==</entry>
+        <entry encoding="base64">cHJpbnQoZic+</entry>
+        <entry>_state</entry>
+        <entry>fx-l_se</entry>
+        <entry>fx-.</entry>
+        <entry encoding="base64">XDx0b19qYWNrZXRfaWZzX251bWVyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1w8Y1w+L2NoYXIvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL1tcKFswLTldKl1cKV0ve2RpdmlzaW9uOiBcMX0v</entry>
-        <entry encoding="base64">JzwsJz5zL2RpdmlzaW9uLyJkaXZpc2lvbiIv</entry>
-        <entry>set relativenumb</entry>
-        <entry>ww</entry>
-        <entry>nohl</entry>
-        <entry encoding="base64">JzwsJz5zL0tzaG9vdEVmZmVjdC9Tb3VuZEVmZmVjdA==</entry>
-        <entry encoding="base64">JzwsJz5zL2Nscy9Tb3VuZEVmZmVjdC8=</entry>
         <entry encoding="base64">JzwsJz5zL3NwbGl0dGVkL3BhcmFtcy9n</entry>
         <entry>wj</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYvY2xzLw==</entry>
@@ -379,6 +364,14 @@ debug.close()s in-game</text>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zL0FVRElPX0VYVEVOU0lPTi9GWF9DSElQX1NPVU5EX0VYVEVOU0lPTi9n</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL2lucHV0L291dHB1dA==</entry>
+        <entry encoding="base64">JzwsJz5zL2lucHV0X2ZpbGVuYW1lL2N1cnJlbnRfbGluZV9udW0vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3ByaW50KGYnPi90aHJlYWRfcHJpbnQoZicv</entry>
+        <entry encoding="base64">JzwsJz5zL3ByaW50KGYnPiAvdGhyZWFkX3ByaW50KGYnLw==</entry>
+        <entry encoding="base64">JzwsJz5zL19zdGF0ZS9faW5wdXRfZmlsZW5hbWUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL19zdGF0ZS9fb3V0cHV0X2ZpbGVuYW1l</entry>
+        <entry encoding="base64">JzwsJz5zL19zdGF0ZS9fY3VycmVudF9saW5lX251bS9n</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
