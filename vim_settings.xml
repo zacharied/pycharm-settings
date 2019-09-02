@@ -73,8 +73,10 @@
         <mark key="^" line="3640" column="42" />
         <mark key="." line="3640" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567301394772">
+      <file name="/Dummy.txt" timestamp="1567386691203">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1564101400086">
         <mark key="[" line="20" column="44" />
@@ -140,13 +142,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567301515726">
-        <mark key="a" line="1341" column="169" />
-        <mark key="'" line="286" column="8" />
-        <mark key="[" line="352" column="97" />
-        <mark key="]" line="355" column="40" />
-        <mark key="." line="355" column="40" />
-        <mark key="^" line="355" column="40" />
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567386292904">
+        <mark key="a" line="1342" column="169" />
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="1201" column="12" />
+        <mark key="]" line="1201" column="33" />
+        <mark key="." line="1201" column="33" />
+        <mark key="^" line="1201" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -174,10 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="339" column="63" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1039" column="80" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1051" column="73" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="326" column="21" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="357" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="368" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="359" column="40" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -274,10 +272,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="317" column="54" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="286" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1197" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1365" column="78" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1196" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lID0gY2xzLmRlZmF1bHRfZWZmZWN0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>bug</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -286,10 +288,10 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>bug</text>
       </register>
       <register name="/" type="4">
-        <text>to_ksh_simple_name</text>
+        <text encoding="base64">XDxLU0hfREVGQVVMVF9GSUxURVJfR0FJTlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlucHV0X2ZpbGVuYW1lKHNlbGYpOgogICAgICAgIHJldHVybiBEZWJ1Zy5fZ2V0X3RocmVhZGVkKHNlbGYuX3N0YXRlKQogICAgQGlucHV0X2ZpbGVuYW1lLnNldHRlcgogICAgZGVmIGlucHV0X2ZpbGVuYW1lKHNlbGYsIHZhbHVlKToKICAgICAgICBEZWJ1Zy5fc2V0X3RocmVhZGVkKHNlbGYuX3N0YXRlLCB2YWx1ZSkK</text>
@@ -326,9 +328,9 @@
       </register>
     </registers>
     <search>
-      <last-search>to_ksh_simple_name</last-search>
+      <last-search encoding="base64">XDxLU0hfREVGQVVMVF9GSUxURVJfR0FJTlw+</last-search>
       <last-offset />
-      <last-pattern>to_ksh_simple_name</last-pattern>
+      <last-pattern encoding="base64">XDxLU0hfREVGQVVMVF9GSUxURVJfR0FJTlw+</last-pattern>
       <last-replace>_current_line_num</last-replace>
       <last-substitute>_state</last-substitute>
       <last-dir>1</last-dir>
@@ -336,7 +338,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</entry>
         <entry encoding="base64">XDxmcm9tX2VmZmVjdF9pbmZvX2xpbmVcPg==</entry>
         <entry encoding="base64">cHJpbnQoZic+IA==</entry>
         <entry encoding="base64">cHJpbnQoZic+</entry>
@@ -356,6 +357,7 @@
         <entry>9</entry>
         <entry>fx-l</entry>
         <entry>to_ksh_simple_name</entry>
+        <entry encoding="base64">XDxLU0hfREVGQVVMVF9GSUxURVJfR0FJTlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwbGl0dGVkL3BhcmFtcy9n</entry>
