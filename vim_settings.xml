@@ -291,7 +291,7 @@
         <text>bug</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxLU0hfREVGQVVMVF9GSUxURVJfR0FJTlw+</text>
+        <text>awakening</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlucHV0X2ZpbGVuYW1lKHNlbGYpOgogICAgICAgIHJldHVybiBEZWJ1Zy5fZ2V0X3RocmVhZGVkKHNlbGYuX3N0YXRlKQogICAgQGlucHV0X2ZpbGVuYW1lLnNldHRlcgogICAgZGVmIGlucHV0X2ZpbGVuYW1lKHNlbGYsIHZhbHVlKToKICAgICAgICBEZWJ1Zy5fc2V0X3RocmVhZGVkKHNlbGYuX3N0YXRlLCB2YWx1ZSkK</text>
@@ -328,9 +328,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxLU0hfREVGQVVMVF9GSUxURVJfR0FJTlw+</last-search>
+      <last-search>awakening</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxLU0hfREVGQVVMVF9GSUxURVJfR0FJTlw+</last-pattern>
+      <last-pattern>awakening</last-pattern>
       <last-replace>_current_line_num</last-replace>
       <last-substitute>_state</last-substitute>
       <last-dir>1</last-dir>
@@ -338,7 +338,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcm9tX2VmZmVjdF9pbmZvX2xpbmVcPg==</entry>
         <entry encoding="base64">cHJpbnQoZic+IA==</entry>
         <entry encoding="base64">cHJpbnQoZic+</entry>
         <entry>_state</entry>
@@ -358,6 +357,7 @@
         <entry>fx-l</entry>
         <entry>to_ksh_simple_name</entry>
         <entry encoding="base64">XDxLU0hfREVGQVVMVF9GSUxURVJfR0FJTlw+</entry>
+        <entry>awakening</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwbGl0dGVkL3BhcmFtcy9n</entry>
