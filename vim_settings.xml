@@ -111,8 +111,8 @@
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1567713409457">
-        <mark key="'" line="1202" column="8" />
+      <file name="$USER_HOME$/Code/vox2ksh/converter.py" timestamp="1567713642629">
+        <mark key="'" line="305" column="4" />
         <mark key="[" line="1263" column="45" />
         <mark key="]" line="1263" column="55" />
         <mark key="." line="1263" column="55" />
@@ -159,9 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7412" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="7415" column="25" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
-      <jump line="7620" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="9380" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="104" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
       <jump line="93" column="0" filename="$USER_HOME$/Documents/Converter/exceptions_0.txt" />
@@ -227,7 +224,6 @@
       <jump line="879" column="13" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="865" column="24" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1099" column="43" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="519" column="19" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="627" column="15" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="628" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
@@ -259,6 +255,10 @@
       <jump line="650" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1190" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
       <jump line="1202" column="8" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="1553" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="294" column="25" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
+      <jump line="305" column="4" filename="$USER_HOME$/Code/vox2ksh/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -274,7 +274,7 @@
         <text>b</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqYWNrZXRfYmFzZW5hbWVcPg==</text>
+        <text>TAPESTOP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWZmZXIubWV0YS5hcHBlbmQoZidwZmlsdGVyZ2Fpbj01MCcpCg==</text>
@@ -311,9 +311,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqYWNrZXRfYmFzZW5hbWVcPg==</last-search>
+      <last-search>TAPESTOP</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqYWNrZXRfYmFzZW5hbWVcPg==</last-pattern>
+      <last-pattern>TAPESTOP</last-pattern>
       <last-replace>FX_CHIP_SOUND_EXTENSION</last-replace>
       <last-substitute>AUDIO_EXTENSION</last-substitute>
       <last-dir>1</last-dir>
@@ -321,7 +321,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">aW5mX3ZlciAuKj4z</entry>
         <entry encoding="base64">aW5mX3ZlciAuKj40</entry>
         <entry encoding="base64">aW5mX3ZlciAuKj41</entry>
         <entry>button_fx</entry>
@@ -341,6 +340,7 @@
         <entry>destroy</entry>
         <entry encoding="base64">XDx0b19hYmJyZXZpYXRpb25cPg==</entry>
         <entry encoding="base64">XDxqYWNrZXRfYmFzZW5hbWVcPg==</entry>
+        <entry>TAPESTOP</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1w8Y1w+L2NoYXIvZw==</entry>
