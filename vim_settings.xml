@@ -65,6 +65,11 @@
         <mark key="." line="29531" column="8" />
         <mark key="^" line="29531" column="8" />
       </file>
+      <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/out/pure_evil_korsk/exhaust.ksh" timestamp="1565923333984">
         <mark key="'" line="12572" column="0" />
       </file>
@@ -107,8 +112,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="15" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/mapped-enum/test.py" timestamp="1567793843532">
+      <file name="$USER_HOME$/Code/mapped-enum/test.py" timestamp="1567803115372">
         <mark key="'" line="9" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -214,8 +222,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/Code/mapped-enum/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhBdHRyaWJ1dGVFcnJvciwgcmFpc2VzLCApCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -247,7 +255,7 @@
         <text encoding="base64">ICAgICAgICBAZW51bV9tYXAoJ2NvbG9yIHNvdW5kJykKICAgICAgICBjbGFzcyBBbmltYWwoRW51bSk6CiAgICAgICAgICAgIENIT0NPTEFURV9MQUIgPSAnYnJvd24nLCAnd29vZicKICAgICAgICAgICAgVEFCQllfQ0FUID0gJ29yYW5nZScsICdtZW93JwogICAgICAgICAgICBMSU9OID0gJ3llbGxvdycsICdyb2FyJwogICAgICAgIHNlbGYuQW5pbWFsID0gQW5pbWFsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSBrZXlzLnJlcGxhY2UoJy0nLCAnXycpLnNwbGl0KCcgJykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhBdHRyaWJ1dGVFcnJvciwgcmFpc2VzLCApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -336,25 +344,25 @@
         <text encoding="base64">ICAgIGtleXMgPSBrZXlzLnJlcGxhY2UoJy0nLCAnXycpLnNwbGl0KCcgJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlc1JlZ2V4KCkK</text>
+        <text encoding="base64">ICAgIGtleXMgPSBrZXlzLnJlcGxhY2UoJy0nLCAnXycpLnNwbGl0KCcgJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZG9jCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlc1JlZ2V4KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9jCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgU2FtZSB0aGluZyBoZXJlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgU2FtZSB0aGluZyBoZXJlLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
