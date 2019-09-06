@@ -9,11 +9,13 @@
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1564793782724">
+      <file name="/Python Console" timestamp="1567790457754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1563917131949">
+      <file name="/fragment.py" timestamp="1567790452558">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1564868904971">
         <mark key="[" line="0" column="0" />
@@ -24,12 +26,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="^" line="35" column="115" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/data/music_db.xml" timestamp="1565591311533">
-        <mark key="'" line="2513" column="7" />
-        <mark key="[" line="51591" column="18" />
-        <mark key="]" line="51591" column="25" />
-        <mark key="n" line="48" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" timestamp="1565931917504">
         <mark key="'" line="1537" column="0" />
@@ -59,7 +55,7 @@
         <mark key="." line="408" column="8" />
         <mark key="^" line="408" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567543895025">
+      <file name="/Dummy.txt" timestamp="1567790661227">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="23" />
@@ -74,11 +70,13 @@
       <file name="$USER_HOME$/Documents/Converter/out/pure_evil_korsk/exhaust.ksh" timestamp="1565923333984">
         <mark key="'" line="12572" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1567789296972">
-        <mark key="[" line="57" column="27" />
-        <mark key="]" line="57" column="56" />
-        <mark key="." line="57" column="56" />
-        <mark key="^" line="57" column="56" />
+      <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1567791182126">
+        <mark key="'" line="57" column="46" />
+        <mark key="i" line="57" column="27" />
+        <mark key="[" line="12" column="112" />
+        <mark key="]" line="12" column="67" />
+        <mark key="." line="12" column="100" />
+        <mark key="^" line="12" column="67" />
       </file>
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
         <mark key="[" line="0" column="0" />
@@ -111,16 +109,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="15" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/mapped-enum/test.py" timestamp="1567789266638">
-        <mark key="'" line="22" column="33" />
+      <file name="$USER_HOME$/Code/mapped-enum/test.py" timestamp="1567790375761">
+        <mark key="'" line="52" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1401" column="82" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1392" column="69" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1414" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="643" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1634" column="100" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1658" column="26" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1643" column="50" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1638" column="61" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -216,10 +209,15 @@
       <jump line="228" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="848" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="22" column="33" filename="$USER_HOME$/Code/mapped-enum/test.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/mapped-enum/test.py" />
+      <jump line="49" column="50" filename="$USER_HOME$/Code/mapped-enum/test.py" />
+      <jump line="46" column="20" filename="$USER_HOME$/Code/mapped-enum/test.py" />
+      <jump line="52" column="20" filename="$USER_HOME$/Code/mapped-enum/test.py" />
+      <jump line="57" column="46" filename="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -228,49 +226,49 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>lane_toggle</text>
+        <text encoding="base64">XDxfZW51bV9tYXBfdHVwbGVfa2V5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlucHV0X2ZpbGVuYW1lKHNlbGYpOgogICAgICAgIHJldHVybiBEZWJ1Zy5fZ2V0X3RocmVhZGVkKHNlbGYuX3N0YXRlKQogICAgQGlucHV0X2ZpbGVuYW1lLnNldHRlcgogICAgZGVmIGlucHV0X2ZpbGVuYW1lKHNlbGYsIHZhbHVlKToKICAgICAgICBEZWJ1Zy5fc2V0X3RocmVhZGVkKHNlbGYuX3N0YXRlLCB2YWx1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbWVtYmVyIGluIGNsczoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgbSBpbiBrbHM6CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGNscy5fZW51bV9tYXBfdHVwbGVzW21dW2ldID09IGs6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGNscy5fZW51bV9tYXBfdHVwbGVzW21lbWJlcl0pICE9IGxlbihrZXlzKToKICAgICAgICAgICAgICAgIHJhaXNlIEF0dHJpYnV0ZUVycm9yKGYne21lbWJlcn0gaGFzIHRoZSB3cm9uZyBudW1iZXIgb2YgbWFwIHZhbHVlcyAoZXhwZWN0ZWQge2xlbihrZXlzKX0sJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZidnb3Qge2xlbihjbHMuX2VudW1fbWFwX3R1cGxlc1ttZW1iZXJdKX0pJykK</text>
+        <text encoding="base64">ICAgICAgICBjbHMuX2VudW1fbWFwX3R1cGxlX2tleSA9IHR5cGUoa2V5cykgaXMgdHVwbGUKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyBBcmUgdGhlc2UgbWV0aG9kcyBhZGRlZCBiZWZvcmUgb3IgYWZ0ZXIgdGhlIGNsYXNzIGhhcyBiZWVuIGluaXRpYWxpemVkPwo=</text>
+        <text encoding="base64">Q2FyZGluYWwud2l0aF9kaXJlY3Rpb24oJ2xlZnQnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgbm90IHZveC5oYXNfZXZlbnQoKEV2ZW50S2luZC5TUENPTlRST0xMRVIsIFNwY1BhcmFtLkxBTkVfWSkpOgogICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">Y2xzLl9lbnVtX21hcF90dXBsZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIG5leHQoaXRlcihbZSBmb3IgZSBpbiBzZWxmLmV2ZW50cy5rZXlzCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbWVtYmVyIGluIGNsczoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGNscy5fZW51bV9tYXBfdHVwbGVzW21lbWJlcl0pICE9IGxlbihrZXlzKToKICAgICAgICAgICAgICAgIHJhaXNlIEF0dHJpYnV0ZUVycm9yKGYne21lbWJlcn0gaGFzIHRoZSB3cm9uZyBudW1iZXIgb2YgbWFwIHZhbHVlcyAoZXhwZWN0ZWQge2xlbihrZXlzKX0sJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZidnb3Qge2xlbihjbHMuX2VudW1fbWFwX3R1cGxlc1ttZW1iZXJdKX0pJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmaW5lID0gY2xzLmRlZmF1bHRfZWZmZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyBBcmUgdGhlc2UgbWV0aG9kcyBhZGRlZCBiZWZvcmUgb3IgYWZ0ZXIgdGhlIGNsYXNzIGhhcyBiZWVuIGluaXRpYWxpemVkPwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRocmVhZF9wcmludChzcmNfamFja2V0X3BhdGgpCg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgbm90IHZveC5oYXNfZXZlbnQoKEV2ZW50S2luZC5TUENPTlRST0xMRVIsIFNwY1BhcmFtLkxBTkVfWSkpOgogICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIG5leHQoaXRlcihbZSBmb3IgZSBpbiBzZWxmLmV2ZW50cy5rZXlzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lane_toggle</last-search>
+      <last-search encoding="base64">XDxfZW51bV9tYXBfdHVwbGVfa2V5XD4=</last-search>
       <last-offset />
-      <last-pattern>lane_toggle</last-pattern>
+      <last-pattern encoding="base64">XDxfZW51bV9tYXBfdHVwbGVfa2V5XD4=</last-pattern>
       <last-replace>_current_line_num</last-replace>
       <last-substitute>_state</last-substitute>
       <last-dir>1</last-dir>
@@ -278,9 +276,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">aW5mX3ZlciAuKj41</entry>
-        <entry>button_fx</entry>
-        <entry>Difficulty</entry>
         <entry encoding="base64">XDxmcm9tX3ZveF9maWx0ZXJfaWRcPg==</entry>
         <entry>pfiltergain</entry>
         <entry>se=</entry>
@@ -298,6 +293,9 @@
         <entry>TAPESTOP</entry>
         <entry>iter</entry>
         <entry>next</entry>
+        <entry>None</entry>
+        <entry>left</entry>
+        <entry encoding="base64">XDxfZW51bV9tYXBfdHVwbGVfa2V5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1w8Y1w+L2NoYXIvZw==</entry>
