@@ -9,13 +9,13 @@
         <mark key="]" line="51591" column="25" />
         <mark key="n" line="48" column="6" />
       </file>
-      <file name="/Python Console" timestamp="1567889054998">
+      <file name="/Python Console" timestamp="1567893486880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" timestamp="1565931917504">
         <mark key="'" line="1537" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1567889090532">
+      <file name="/fragment.py" timestamp="1567893413576">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -37,7 +37,7 @@
         <mark key="^" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/exceptions.txt" timestamp="1565921220731">
-        <mark key="'" line="304" column="0" />
+        <mark key="'" line="1581" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1565589392509">
         <mark key="[" line="11" column="39" />
@@ -82,7 +82,7 @@
         <mark key="^" line="3640" column="42" />
         <mark key="." line="3640" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567889231228">
+      <file name="/Dummy.txt" timestamp="1567893483134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -151,13 +151,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567889222071">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567893477203">
         <mark key="a" line="1360" column="169" />
-        <mark key="'" line="1065" column="104" />
-        <mark key="[" line="922" column="0" />
-        <mark key="]" line="922" column="16" />
-        <mark key="." line="922" column="16" />
-        <mark key="^" line="921" column="16" />
+        <mark key="'" line="870" column="30" />
+        <mark key="[" line="980" column="45" />
+        <mark key="]" line="981" column="24" />
+        <mark key="." line="981" column="24" />
+        <mark key="^" line="981" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -176,31 +176,15 @@
         <mark key="." line="408" column="8" />
         <mark key="^" line="408" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/README.md" timestamp="1567300024514">
+      <file name="$USER_HOME$/Documents/Converter/README.md" timestamp="1567892330184">
         <mark key="'" line="18" column="36" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="35" column="115" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18123" column="65" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="569" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="2693" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="2718" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="2915" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="2841" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="1598" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="8778" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="14664" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="16257" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="7213" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="2890" column="8" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="2807" column="9" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="18127" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="6709" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="352" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
       <jump line="6817" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
       <jump line="8532" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
       <jump line="9244" column="5" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
@@ -285,10 +269,26 @@
       <jump line="933" column="30" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="936" column="39" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1065" column="104" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="917" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1587" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1633" column="45" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="851" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="969" column="58" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="852" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="670" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="35" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="923" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="125" column="21" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="967" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1798" column="70" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="962" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="870" column="30" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RvcF9wb2ludC5tb21lbnQgPSBub3cK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gU3VwcG9ydCBtdWx0aXBsZSBtdXNpY19kYi54bWwgPwo=</text>
       </register>
       <register name="j" type="4">
         <text>kjg</text>
@@ -297,49 +297,51 @@
         <text>jkg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCBFdmVudEtpbmQuU1RPUCBpbiBl</text>
+        <text>loaded</text>
       </register>
       <register name="/" type="4">
-        <text>last_timesig</text>
+        <text>no metadata</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXJnZXRfamFja2V0X3BhdGggPSBmJ3tvdXRfZGlyfS9qYWNrZXRfe3N0cih2b3guZGlmZmljdWx0eS50b19qYWNrZXRfaWZzX251bWVyKCkpfS5wbmcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RvcF9wb2ludC5tb21lbnQgPSBub3cK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gU3VwcG9ydCBtdWx0aXBsZSBtdXNpY19kYi54bWwgPwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIG5vdCAobW9tZW50IGluIHNlbGYuZXZlbnRzIGFuZCBFdmVudEtpbmQuU1RPUCBpbiBzZWxmLmV2ZW50c1ttb21lbnRdKToKICAgICAgICAgICAgICAgICAgICBtb21lbnQgPSBtb21lbnQuZGlmZihUaW1pbmcoKQo=</text>
+        <text encoding="base64">ZnJvbSBvcy5wYXRoIGltcG9ydCBqb2luIGFzIHBqb2luCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIG5vdCAobW9tZW50IGluIHNlbGYuZXZlbnRzIGFuZCBFdmVudEtpbmQuU1RPUCBpbiBzZWxmLmV2ZW50c1ttb21lbnRdKToKICAgICAgICAgICAgICAgICAgICBtb21lbnQgPSBtb21lbnQuZGlmZihUaW1pbmcoKQo=</text>
+      <register name="3" type="4">
+        <text>If done correctly, there will be a number of
+`vox_XX_ifs` directories where `XX` is the number from the IFS folder. Each directory will contain a number of `.vox` 
+files. Charts go in the `data` directory.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RvcF9wb2ludC50aW1lc2lnID0gc2VsZi5sYXN0X3RpbWVzaWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">cGpvaW4oZGlycGF0aCwgZmlsZW5hbWUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZiBfZXZlbnRfY2hlY2soZXZlbnQpOgogICAgICAgICAgICAgICAgICAgIGlmIEV2ZW50S2luZC5USU1FU0lHIGluIGV2ZW50OgogICAgICAgICAgICAgICAgICAgICAgICBsYXN0X3RpbWVzaWcgPSBldmVudFtFdmVudEtpbmQuVElNRVNJR10KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgICAgICAgICAgICAgZWxpZiBFdmVudEtpbmQuU1RPUCBpbiBldmVudDoKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">ICAgICAgICBmdWxscGF0aCA9IHBqb2luKGRpcnBhdGgsIGZpbGVuYW1lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciB0IGluIHNlbGYudGltZV9pdGVyKFRpbWluZygxLCAxLCAwKSkK</text>
+        <text encoding="base64">ICAgIGZvciBkaXJwYXRoLCBkaXJuYW1lcywgZmlsZW5hbWVzIGluIG9zLndhbGsoYXJncy52b3hfZGlyKToKICAgICAgICBmb3IgZmlsZW5hbWUgaW4gZmlsdGVyKGxhbWJkYSBuOiBuLmVuZHN3aXRoKCcudm94JyksIGZpbGVuYW1lcyk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZiBfdGltaW5nLQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RvcF9wb2ludC5tb21lbnQgPSBub3cK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>last_timesig</last-search>
+      <last-search>no metadata</last-search>
       <last-offset />
-      <last-pattern>last_timesig</last-pattern>
+      <last-pattern>no metadata</last-pattern>
       <last-replace>_current_line_num</last-replace>
       <last-substitute>_state</last-substitute>
       <last-dir>1</last-dir>
@@ -347,15 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>VOL_PERCENT</entry>
-        <entry>'</entry>
-        <entry>;</entry>
-        <entry>fx-.</entry>
-        <entry>fx-.=</entry>
-        <entry>fx-.=7</entry>
-        <entry>fx-l=7</entry>
-        <entry>9</entry>
-        <entry>fx-l</entry>
         <entry>to_ksh_simple_name</entry>
         <entry encoding="base64">XDxLU0hfREVGQVVMVF9GSUxURVJfR0FJTlw+</entry>
         <entry>awakening</entry>
@@ -367,6 +360,15 @@
         <entry>se</entry>
         <entry>stop</entry>
         <entry>last_timesig</entry>
+        <entry>chart_path</entry>
+        <entry encoding="base64">XDxkaWZmX2FiYnJldmlhdGlvblw+</entry>
+        <entry encoding="base64">XDxkaWZmaWN1bHR5XD4=</entry>
+        <entry>from_inf_ver</entry>
+        <entry>VOX_ROOT</entry>
+        <entry>999</entry>
+        <entry encoding="base64">XDxNQVhfTUVBU1VSRVNcPg==</entry>
+        <entry>music_db</entry>
+        <entry>no metadata</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwbGl0dGVkL3BhcmFtcy9n</entry>
