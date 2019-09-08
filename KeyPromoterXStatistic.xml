@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -17,36 +17,12 @@
           <Count>43</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug">
-        <Item>
-          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
-          <ShortCut>'Alt+5'</ShortCut>
-          <Description>Debug</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Convert case'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'Convert case'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Full Convert'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'Full Convert'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'Unittests for test.TestMapping'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Unittests for test.TestMapping'</Description>
-          <Count>1</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unittests in test.py'">
@@ -78,7 +54,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -86,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>16</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Changelist...">
@@ -100,7 +84,7 @@
       <Statistic Action="Evaluate Expression...">
         <Item>
           <IdeaActionID>EvaluateExpression</IdeaActionID>
-          <ShortCut>'Alt+F8'</ShortCut>
+          <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
           <Count>3</Count>
         </Item>
@@ -110,7 +94,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -118,7 +102,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>6</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -169,14 +153,6 @@
           <Count>7</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Remove Watch">
-        <Item>
-          <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
-          <ShortCut>'Delete'</ShortCut>
-          <Description>Remove Watch</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Replace...">
         <Item>
           <IdeaActionID>Replace</IdeaActionID>
@@ -190,7 +166,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>31</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -201,20 +177,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run">
+      <Statistic Action="Reword...">
         <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'Alt+4'</ShortCut>
-          <Description>Run</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'Convert case'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'Convert case'</Description>
-          <Count>9</Count>
+          <IdeaActionID>Git.Reword.Commit</IdeaActionID>
+          <ShortCut>'F2' or '⇧F6'</ShortCut>
+          <Description>Reword...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Full Convert'">
@@ -222,7 +190,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Full Convert'</Description>
-          <Count>6</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test.TestMapping'">
@@ -230,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Unittests for test.TestMapping'</Description>
-          <Count>19</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test.TestMapping.test_wrong_mapping_count'">
@@ -294,7 +262,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>1</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into My Code">
@@ -318,23 +286,15 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>5</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'Convert case'">
+      <Statistic Action="Stop 'Unittests for test.TestMapping'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'Convert case'</Description>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Unittests for test.TestMapping'</Description>
           <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Full Convert'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'Full Convert'</Description>
-          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unittests in test.py'">
@@ -374,7 +334,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>12</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -382,7 +342,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Terminal</Description>
-          <Count>97</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -390,15 +350,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>33</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Unshelve...">
-        <Item>
-          <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+U'</ShortCut>
-          <Description>Unshelve...</Description>
-          <Count>1</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -414,15 +366,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>69</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="View Breakpoints...">
-        <Item>
-          <IdeaActionID>ViewBreakpoints</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
-          <Description>View Breakpoints...</Description>
-          <Count>1</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
     </option>
