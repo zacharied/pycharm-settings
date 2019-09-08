@@ -14,7 +14,7 @@
         <mark key="." line="37" column="47" />
         <mark key="^" line="37" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1567790457754">
+      <file name="/Python Console" timestamp="1567914865133">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" timestamp="1565931917504">
@@ -31,8 +31,14 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1564868904971">
+      <file name="/a.dummy" timestamp="1567913988296">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/extractor.py" timestamp="1567914448535">
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="31" column="25" />
+        <mark key="." line="31" column="25" />
+        <mark key="^" line="31" column="25" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/data/music_db.xml" timestamp="1567712545048">
         <mark key="'" line="12737" column="13" />
@@ -59,8 +65,10 @@
       <file name="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" timestamp="1564863799920">
         <mark key="'" line="3719" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567913072363">
+      <file name="/Dummy.txt" timestamp="1567914931972">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
         <mark key="[" line="7" column="17" />
@@ -92,14 +100,14 @@
         <mark key="." line="29531" column="8" />
         <mark key="^" line="29531" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567913070065">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1567914876006">
         <mark key="a" line="1360" column="169" />
         <mark key="e" line="116" column="8" />
-        <mark key="'" line="1248" column="49" />
-        <mark key="[" line="1793" column="56" />
-        <mark key="]" line="1793" column="57" />
-        <mark key="." line="1793" column="57" />
-        <mark key="^" line="1241" column="40" />
+        <mark key="'" line="863" column="20" />
+        <mark key="[" line="962" column="71" />
+        <mark key="]" line="962" column="75" />
+        <mark key="." line="962" column="75" />
+        <mark key="^" line="962" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567301285213">
         <mark key="'" line="134" column="0" />
@@ -108,19 +116,15 @@
         <mark key="." line="408" column="8" />
         <mark key="^" line="408" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/README.md" timestamp="1567300024514">
-        <mark key="'" line="18" column="36" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="35" column="115" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/README.md" timestamp="1567914358333">
+        <mark key="'" line="27" column="36" />
+        <mark key="[" line="54" column="83" />
+        <mark key="]" line="54" column="111" />
+        <mark key="." line="54" column="111" />
+        <mark key="^" line="54" column="111" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2693" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="2718" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="2915" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
-      <jump line="2841" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
       <jump line="1598" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
       <jump line="8778" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
       <jump line="14664" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
@@ -162,7 +166,6 @@
       <jump line="1196" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1277" column="94" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="230" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="237" column="21" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1275" column="45" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -198,9 +201,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Code/mapped-enum/test.py" />
       <jump line="1265" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="839" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="855" column="54" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="857" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="864" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="866" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="868" column="24" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -217,10 +217,18 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1686" column="60" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1248" column="49" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1540" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="839" column="13" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="855" column="54" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="857" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="860" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1110" column="38" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="863" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -243,16 +251,18 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>4i</text>
+        <text>break</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAZW51bV9tYXAoJ2NvbG9yIHNvdW5kJykKICAgICAgICBjbGFzcyBBbmltYWwoRW51bSk6CiAgICAgICAgICAgIENIT0NPTEFURV9MQUIgPSAnYnJvd24nLCAnd29vZicKICAgICAgICAgICAgVEFCQllfQ0FUID0gJ29yYW5nZScsICdtZW93JwogICAgICAgICAgICBMSU9OID0gJ3llbGxvdycsICdyb2FyJwogICAgICAgIHNlbGYuQW5pbWFsID0gQW5pbWFsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhBdHRyaWJ1dGVFcnJvciwgcmFpc2VzLCApCg==</text>
+      <register name="1" type="4">
+        <text>Dxx
+
+# TODO Documentation heredisable default multithreading</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -338,37 +348,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSBrZXlzLnJlcGxhY2UoJy0nLCAnXycpLnNwbGl0KCcgJykK</text>
+        <text encoding="base64">aW1wb3J0IHRxZG0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSBrZXlzLnJlcGxhY2UoJy0nLCAnXycpLnNwbGl0KCcgJykK</text>
+        <text encoding="base64">cGFyYWxsZWwgLWozIGZmbXBlZyAtaSB7fSAtcTphIDcgey59Lm9nZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlc1JlZ2V4KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhBdHRyaWJ1dGVFcnJvciwgcmFpc2VzLCApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9jCg==</text>
+        <text encoding="base64">ICAgIGtleXMgPSBrZXlzLnJlcGxhY2UoJy0nLCAnXycpLnNwbGl0KCcgJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGtleXMgPSBrZXlzLnJlcGxhY2UoJy0nLCAnXycpLnNwbGl0KCcgJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgU2FtZSB0aGluZyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlc1JlZ2V4KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IK</text>
+        <text encoding="base64">ZG9jCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>4i</last-search>
+      <last-search>break</last-search>
       <last-offset />
-      <last-pattern>4i</last-pattern>
+      <last-pattern>break</last-pattern>
       <last-replace>_current_line_num</last-replace>
       <last-substitute>_state</last-substitute>
       <last-dir>1</last-dir>
@@ -376,8 +386,6 @@
     </search>
     <history>
       <history-search>
-        <entry>se=</entry>
-        <entry>error</entry>
         <entry>l4ts</entry>
         <entry encoding="base64">XDx0b194bWxfbmFtZVw+</entry>
         <entry>iter(</entry>
@@ -394,8 +402,10 @@
         <entry>None</entry>
         <entry>left</entry>
         <entry encoding="base64">XDxfZW51bV9tYXBfdHVwbGVfa2V5XD4=</entry>
-        <entry>metadata</entry>
         <entry>4i</entry>
+        <entry>metadata</entry>
+        <entry>no metadata</entry>
+        <entry>break</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1tcKFswLTldKl1cKV0ve2RpdmlzaW9uOiBcMX0v</entry>
@@ -406,7 +416,6 @@
         <entry encoding="base64">JzwsJz5zL0tzaG9vdEVmZmVjdC9Tb3VuZEVmZmVjdA==</entry>
         <entry encoding="base64">JzwsJz5zL2Nscy9Tb3VuZEVmZmVjdC8=</entry>
         <entry encoding="base64">JzwsJz5zL3NwbGl0dGVkL3BhcmFtcy9n</entry>
-        <entry>wj</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYvY2xzLw==</entry>
         <entry>ew</entry>
         <entry>W</entry>
@@ -417,6 +426,7 @@
         <entry>wq</entry>
         <entry>we</entry>
         <entry>qw</entry>
+        <entry>wj</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
