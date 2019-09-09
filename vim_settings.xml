@@ -6,6 +6,13 @@
       <file name="vim_settings.xml" timestamp="1567789006078">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/README_inc_private.txt" timestamp="1567986572755">
+        <mark key="'" line="1" column="22" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="60" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1567793806872">
         <mark key="'" line="0" column="0" />
         <mark key="i" line="63" column="27" />
@@ -42,6 +49,9 @@
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/data/music_db.xml" timestamp="1567712545048">
         <mark key="'" line="12737" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/header.txt" timestamp="1567986021392">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
         <mark key="'" line="3" column="0" />
@@ -84,11 +94,28 @@
       <file name="$USER_HOME$/Documents/Converter/data/vox_02_ifs/001_0123_dynasty_yooh_2a.vox" timestamp="1565582074831">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/README_inc.md" timestamp="1567986257567">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/" timestamp="1564864664853">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/README_inc_public.txt" timestamp="1567986589845">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/exceptions_0.txt" timestamp="1567289910041">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1567986363760">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -125,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1598" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
       <jump line="8778" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
       <jump line="14664" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
       <jump line="16257" column="0" filename="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" />
@@ -225,10 +251,11 @@
       <jump line="860" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1110" column="38" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="863" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1" column="22" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RW5jb3VudGVyZWQgYW4gaW5hY2N1cmFjeSBvciBlcnJvcj8gQ29udGFjdCBuZWtvSFQjODAwOCBvbiBEaXNjb3JkLgoK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -251,18 +278,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>break</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAZW51bV9tYXAoJ2NvbG9yIHNvdW5kJykKICAgICAgICBjbGFzcyBBbmltYWwoRW51bSk6CiAgICAgICAgICAgIENIT0NPTEFURV9MQUIgPSAnYnJvd24nLCAnd29vZicKICAgICAgICAgICAgVEFCQllfQ0FUID0gJ29yYW5nZScsICdtZW93JwogICAgICAgICAgICBMSU9OID0gJ3llbGxvdycsICdyb2FyJwogICAgICAgIHNlbGYuQW5pbWFsID0gQW5pbWFsCg==</text>
+        <text encoding="base64">dm94MmtzaCBzb3VyY2UgY29kZSBjYW4gYmUgZm91bmQgYXQ6CiAgICBodHRwczovL2dpdGh1Yi5jb20vemFjaGFyaWVkL3ZveDJrc2gKCkluIG9yZGVyIGZvciBwcmV2aWV3cyB0byBwbGF5LCB5b3UgbXVzdCB1c2UgYSBmb3JrZWQgdmVyc2lvbiBvZiBVU0MgdGhhdCBzdXBwb3J0cyB0aGUgYHByZXZpZXdmaWxlYCBmaWVsZDoKICAgIGh0dHBzOi8vZ2l0aHViLmNvbS96YWNoYXJpZWQvdW5uYW1lZC1zZHZ4LWNsb25lCgpFbmNvdW50ZXJlZCBhbiBpbmFjY3VyYWN5IG9yIGVycm9yPyBDb250YWN0IG5la29IVCM4MDA4IG9uIERpc2NvcmQuCgpUaGVzZSBmaWxlcyBtYXkgbm90IGJlIHJlZGlzdHJpYnV0ZWQgdW5kZXIgYW55IGNpcmN1bXN0YW5jZXMuCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Dxx
-
-# TODO Documentation heredisable default multithreading</text>
+      <register name="1" type="2">
+        <text encoding="base64">RW5jb3VudGVyZWQgYW4gaW5hY2N1cmFjeSBvciBlcnJvcj8gQ29udGFjdCBuZWtvSFQjODAwOCBvbiBEaXNjb3JkLgoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -348,28 +373,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRxZG0K</text>
+        <text encoding="base64">dm94MmtzaCBzb3VyY2UgY29kZSBjYW4gYmUgZm91bmQgYXQgaHR0cHM6Ly9naXRodWIuY29tL3phY2hhcmllZC92b3gya3NoIC4KVGhlc2UgZmlsZXMgbWF5IG5vdCBiZSByZWRpc3RyaWJ1dGVkIHVuZGVyIGFueSBjaXJjdW1zdGFuY2VzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFyYWxsZWwgLWozIGZmbXBlZyAtaSB7fSAtcTphIDcgey59Lm9nZwo=</text>
+        <text encoding="base64">RW5jb3VudGVyZWQgYW4gaW5hY2N1cmFjeSBvciBlcnJvcj8gQ29udGFjdCBuZWtvSFQjODAwOCBvbiBEaXNjb3JkLgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhBdHRyaWJ1dGVFcnJvciwgcmFpc2VzLCApCg==</text>
+      <register name="4" type="4">
+        <text>Dxx
+
+# TODO Documentation heredisable default multithreading</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSBrZXlzLnJlcGxhY2UoJy0nLCAnXycpLnNwbGl0KCcgJykK</text>
+        <text encoding="base64">aW1wb3J0IHRxZG0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSBrZXlzLnJlcGxhY2UoJy0nLCAnXycpLnNwbGl0KCcgJykK</text>
+        <text encoding="base64">cGFyYWxsZWwgLWozIGZmbXBlZyAtaSB7fSAtcTphIDcgey59Lm9nZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlc1JlZ2V4KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhBdHRyaWJ1dGVFcnJvciwgcmFpc2VzLCApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZG9jCg==</text>
+        <text encoding="base64">ICAgIGtleXMgPSBrZXlzLnJlcGxhY2UoJy0nLCAnXycpLnNwbGl0KCcgJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGtleXMgPSBrZXlzLnJlcGxhY2UoJy0nLCAnXycpLnNwbGl0KCcgJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
