@@ -6,12 +6,12 @@
       <file name="vim_settings.xml" timestamp="1567789006078">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/README_inc_private.txt" timestamp="1568594621193">
-        <mark key="'" line="1" column="22" />
-        <mark key="[" line="4" column="51" />
-        <mark key="]" line="13" column="60" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/README_inc_private.txt" timestamp="1568596900853">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="78" column="105" />
+        <mark key="]" line="78" column="105" />
+        <mark key="." line="78" column="105" />
+        <mark key="^" line="78" column="105" />
       </file>
       <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1567793806872">
         <mark key="'" line="0" column="0" />
@@ -131,10 +131,10 @@
         <mark key="." line="29531" column="8" />
         <mark key="^" line="29531" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1568587547703">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1568595196836">
         <mark key="a" line="1361" column="169" />
         <mark key="e" line="116" column="8" />
-        <mark key="'" line="1459" column="35" />
+        <mark key="'" line="373" column="25" />
         <mark key="[" line="336" column="52" />
         <mark key="]" line="336" column="52" />
         <mark key="." line="336" column="52" />
@@ -156,46 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1663" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="2009" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="2108" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="2208" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="2307" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="2407" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="2506" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="2556" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="3198" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="4282" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="4332" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="4383" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="4581" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="4844" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="5043" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="5378" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="5776" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="5976" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="6181" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="6481" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="6531" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="6681" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="6706" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="6732" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="7546" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="7941" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="8312" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="8658" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="8708" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="9127" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="9325" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="9523" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="9721" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="10339" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="10487" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="10637" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="11008" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="11477" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="11798" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="11848" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
       <jump line="12613" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
       <jump line="12663" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
       <jump line="13058" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
@@ -238,7 +198,6 @@
       <jump line="1738" column="78" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1671" column="60" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1665" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1666" column="59" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1657" column="57" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1855" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -256,10 +215,51 @@
       <jump line="1460" column="102" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="337" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1459" column="35" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="286" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1206" column="84" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="828" column="47" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1100" column="80" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1112" column="73" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="373" column="25" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="24" column="10" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="53" column="8" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="21" column="5" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="45" column="9" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="12" column="24" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="77" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="29" column="36" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="86" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="83" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="76" column="18" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="75" column="9" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>%</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -282,16 +282,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmeF9jaGFuZ2VcPg==</text>
+        <text encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChmJz4gQ29weWluZyBJTkYgc29uZyB0byAie3NvbmdfaWR9X2luZi53YXYiLicpCiAgICAgICAgICAgICAgICAgICAgY29weWZpbGUoJzEud2F2JywgZid7T1VUX1NPTkdTfS97c29uZ19pZH1faW5mLndhdicpCg==</text>
+        <text encoding="base64">VEhFU0UgRklMRVMgTUFZIE5PVCBCRSBSRURJU1RSSUJVVEVEIFVOREVSIEFOWSBDSVJDVU1TVEFOQ0VTLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgOnBhcmFtIGJlYXRzOiBUaGUgbGVuZ3RoIG9mIHRoZSBGWCBob2xkIGluIGJlYXRzLiAiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -377,37 +377,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tCi0gT3RoZXIgbm90ZXMgLQotLS0tLS0tLS0tLS0tLS0KClRoZSBLU0ggZmlsZXMgaGVyZSBhcmUgbGFyZ2VyIHRoYW4gbm9ybWFsIGJlY2F1c2UgZWFjaCB0aWNrIGluIHRoZSBWT1ggY2hhcnQgKDQ4IHBlciBiZWF0IGluIDQvNCB0aW1lKSBoYXMgYSBsaW5lIGluIHRoZQpLU0ggZmlsZS4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gaW5kZXg6IDoK</text>
+        <text encoding="base64">ISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhIQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BlZWQgPSAzNQo=</text>
+        <text encoding="base64">ISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhIQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZmxvYXQoc3BsaXR0ZWRbM10pICogZmxvYXQoc3BsaXR0ZWRbMl0pICogOS44MTI1CiAgICAgICAgICAgIGlmIHNwZWVkID4gNTA6CiAgICAgICAgICAgICAgICBzcGVlZCA9IDUwCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBzcGVlZCA9IGludChzcGVlZA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhIQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZmxvYXQoc3BsaXR0ZWRbM10pICogZmxvYXQoc3BsaXR0ZWRbMl0pICogOS44MTI1CiAgICAgICAgICAgIGlmIHNwZWVkID4gNTA6CiAgICAgICAgICAgICAgICBzcGVlZCA9IDUwCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBzcGVlZCA9IGludChzcGVlZCk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhIQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIGYgaW4gKi53YXY7IGRvIGZmbXBlZyAtaSAiJGYiIC1xOmEgNyAiJHtmJXdhdn1vZ2ciOyBkb25lCg==</text>
+        <text encoding="base64">ISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhIQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvdXRwdXRfZmlsZW5hbWUgPSBmJ3tzb25nX2lkfV9pbmYud2F2Jwo=</text>
+        <text encoding="base64">Ck5vdGUgdGhhdCB0aGUgdGFwZSBzdG9wIGVmZmVjdCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmeF9jaGFuZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmeF9jaGFuZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</last-pattern>
       <last-replace>jacket_file</last-replace>
       <last-substitute>preview_file</last-substitute>
       <last-dir>1</last-dir>
@@ -415,8 +415,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZW51bV9tYXBfdHVwbGVfa2V5XD4=</entry>
-        <entry>4i</entry>
         <entry>metadata</entry>
         <entry>no metadata</entry>
         <entry>break</entry>
@@ -435,6 +433,8 @@
         <entry>TAPESTOP</entry>
         <entry>fx-</entry>
         <entry encoding="base64">XDxmeF9jaGFuZ2VcPg==</entry>
+        <entry>fallback</entry>
+        <entry encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RpdmlzaW9uLyJkaXZpc2lvbiIv</entry>
@@ -451,11 +451,11 @@
         <entry>2wq</entry>
         <entry>set number</entry>
         <entry encoding="base64">JzwsJz5zL0FVRElPX0VYVEVOU0lPTi9GWF9DSElQX1NPVU5EX0VYVEVOU0lPTi9n</entry>
-        <entry>wq</entry>
         <entry>we</entry>
         <entry>qw</entry>
         <entry>wj</entry>
         <entry encoding="base64">JzwsJz5zL3ByZXZpZXdfZmlsZS9qYWNrZXRfZmlsZS9n</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
