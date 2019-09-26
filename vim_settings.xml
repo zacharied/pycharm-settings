@@ -44,10 +44,10 @@
       <file name="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" timestamp="1568498428787">
         <mark key="'" line="18622" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/extractor.py" timestamp="1568585889864">
+      <file name="$USER_HOME$/Documents/Converter/extractor.py" timestamp="1569534497373">
         <mark key="'" line="86" column="67" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="44" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="105" column="15" />
       </file>
@@ -57,12 +57,12 @@
       <file name="$USER_HOME$/Documents/Converter/header.txt" timestamp="1567986021392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/prepare_audio.py" timestamp="1569533084529">
-        <mark key="'" line="13" column="24" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="13" column="56" />
+      <file name="$USER_HOME$/Documents/Converter/prepare_audio.py" timestamp="1569536774781">
+        <mark key="'" line="20" column="25" />
+        <mark key="[" line="31" column="93" />
+        <mark key="]" line="32" column="44" />
+        <mark key="^" line="32" column="44" />
+        <mark key="." line="32" column="44" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
         <mark key="'" line="3" column="0" />
@@ -164,10 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12663" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="13058" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="13404" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
-      <jump line="14103" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
       <jump line="14451" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
       <jump line="14652" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
       <jump line="14727" column="0" filename="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" />
@@ -264,10 +260,14 @@
       <jump line="82" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
       <jump line="13" column="24" filename="$USER_HOME$/Documents/Converter/prepare_audio.py" />
+      <jump line="22" column="22" filename="$USER_HOME$/Documents/Converter/prepare_audio.py" />
+      <jump line="45" column="28" filename="$USER_HOME$/Documents/Converter/prepare_audio.py" />
+      <jump line="3" column="27" filename="$USER_HOME$/Documents/Converter/prepare_audio.py" />
+      <jump line="25" column="25" filename="$USER_HOME$/Documents/Converter/prepare_audio.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>15000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGF1ZGlvID0gYXVkaW8gLSAoKDEwMCAtIHZvbHVtZSkgLyA1MCkgKiAyCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -290,16 +290,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>15000</text>
+        <text>os.path.basename(song)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">VEhFU0UgRklMRVMgTUFZIE5PVCBCRSBSRURJU1RSSUJVVEVEIFVOREVSIEFOWSBDSVJDVU1TVEFOQ0VTLgo=</text>
+      <register name="0" type="4">
+        <text>Thread(target=process_pool, args=(workpool[i],))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihhdWRpbykpCg==</text>
+        <text encoding="base64">ICAgIGF1ZGlvID0gYXVkaW8gLSAoKDEwMCAtIHZvbHVtZSkgLyA1MCkgKiAyCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -385,28 +385,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNvbmcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1ZGlvID0gYXVkaW8uYXBwZW5kKEF1ZGlvU2VnbWVudC5mcm9tX2ZpbGUoZid7c3lzLmFyZ3ZbMl19LykK</text>
+        <text encoding="base64">ICAgIGRiX2VudHJ5ID0gTm9uZQogICAgZm9yIGNoaWxkIGluIGRhdGFiYXNlczoKICAgICAgICBpZiBjaGlsZC5hdHRyaWJbJ2lkJ10gPT0gc29uZ19pZDoKICAgICAgICAgICAgZGJfZW50cnkgPSBjaGlsZAogICAgICAgICAgICBicmVhawogICAgaWYgZGJfZW50cnkgaXMgTm9uZToKICAgICAgICB2b2x1bWUgPSA5MAogICAgICAgIHByaW50KGYnTm8gZGF0YWJhc2UgZW50cnkgZm91bmQsIGFzc3VtaW5nIGEgdm9sdW1lIG9mIHt2b2x1bWV9LicpCiAgICBlbHNlOgogICAgICAgIHZvbHVtZSA9IGludChkYl9lbnRyeS5maW5kKCdpbmZvL3ZvbHVtZScpLnRleHQpCiAgICAgICAgcHJpbnQoZidVc2luZyB2b2x1bWUgb2Yge3ZvbHVtZX0nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmRhdGFiYXNlcyA9IFtdCmZvciBkYiBpbiBnbG9iLmdsb2IoJ0Q6L1NEVlgtRXh0cmFjdC9tdXNpY19kYi8qLnhtbCcpOgogICAgd2l0aCBvcGVuKGRiLCBlbmNvZGluZz0nc2hpZnRfamlzeDAyMTMnKSBhcyBmaWxlOgogICAgICAgIGRhdGFiYXNlcyArPSBFVC5mcm9tc3RyaW5nKGZpbGUucmVhZCgpKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tCi0gT3RoZXIgbm90ZXMgLQotLS0tLS0tLS0tLS0tLS0KClRoZSBLU0ggZmlsZXMgaGVyZSBhcmUgbGFyZ2VyIHRoYW4gbm9ybWFsIGJlY2F1c2UgZWFjaCB0aWNrIGluIHRoZSBWT1ggY2hhcnQgKDQ4IHBlciBiZWF0IGluIDQvNCB0aW1lKSBoYXMgYSBsaW5lIGluIHRoZQpLU0ggZmlsZS4gCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNvbmdwb29sKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhIQo=</text>
+        <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhIQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY2hpbGQgaW4gZGI6CiAgICAgICAgICAgIHByaW50KGNoaWxkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhIQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
