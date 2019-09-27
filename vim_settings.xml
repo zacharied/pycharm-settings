@@ -54,9 +54,6 @@
       <file name="$USER_HOME$/Code/vox2ksh/data/music_db.xml" timestamp="1567712545048">
         <mark key="'" line="12737" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/exceptions.txt" timestamp="1569539822123">
-        <mark key="'" line="1272" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="11" column="23" />
@@ -182,37 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="162" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="163" column="30" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="164" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="176" column="21" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1871" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1671" column="60" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1665" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1666" column="59" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1657" column="57" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1855" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="86" column="67" filename="$USER_HOME$/Documents/Converter/extractor.py" />
-      <jump line="172" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="306" column="25" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="317" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="444" column="33" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1471" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1798" column="36" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1457" column="173" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1458" column="102" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="335" column="9" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="333" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1460" column="102" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="337" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1459" column="35" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="286" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1206" column="84" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="828" column="47" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1100" column="80" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1112" column="73" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="373" column="25" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="24" column="10" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
       <jump line="53" column="8" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
@@ -282,6 +248,37 @@
       <jump line="1288" column="29" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1280" column="29" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1272" column="29" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1229" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1237" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1245" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1253" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1261" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1269" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1277" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1285" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1293" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1301" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1309" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1317" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1325" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1333" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1341" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1349" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1357" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1368" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1376" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1384" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1392" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1409" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1417" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1425" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1436" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1444" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1452" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1221" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1213" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1205" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1460" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -311,7 +308,7 @@
         <text>*(see note on FX)*REMOVE PERSONAL SETTINGS FROM EXTRACTOR</text>
       </register>
       <register name="/" type="4">
-        <text>starlight</text>
+        <text>no audio file found</text>
       </register>
       <register name="0" type="4">
         <text>Thread(target=process_pool, args=(workpool[i],))</text>
@@ -439,9 +436,9 @@ Obviously this requires `ffmpeg` and GNU `parallel` to be installed.</text>
       </register>
     </registers>
     <search>
-      <last-search>starlight</last-search>
+      <last-search>no audio file found</last-search>
       <last-offset />
-      <last-pattern>starlight</last-pattern>
+      <last-pattern>no audio file found</last-pattern>
       <last-replace>jacket_file</last-replace>
       <last-substitute>preview_file</last-substitute>
       <last-dir>1</last-dir>
@@ -459,7 +456,6 @@ Obviously this requires `ffmpeg` and GNU `parallel` to be installed.</text>
         <entry encoding="base64">XDxLU0hfREVGQVVMVF9TTEFNX1ZPTFw+</entry>
         <entry>other</entry>
         <entry>'other'</entry>
-        <entry>no audio file found</entry>
         <entry>TAPESTOP</entry>
         <entry>fx-</entry>
         <entry encoding="base64">XDxmeF9jaGFuZ2VcPg==</entry>
@@ -469,6 +465,7 @@ Obviously this requires `ffmpeg` and GNU `parallel` to be installed.</text>
         <entry>preview</entry>
         <entry>floor</entry>
         <entry>starlight</entry>
+        <entry>no audio file found</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RpdmlzaW9uLyJkaXZpc2lvbiIv</entry>
