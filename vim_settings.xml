@@ -92,8 +92,10 @@
       <file name="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" timestamp="1564863799920">
         <mark key="'" line="3719" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569541180246">
+      <file name="/Dummy.txt" timestamp="1569623464412">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
         <mark key="[" line="7" column="17" />
@@ -148,15 +150,15 @@
         <mark key="." line="29531" column="8" />
         <mark key="^" line="29531" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1569541169178">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1569623424427">
         <mark key="a" line="1354" column="169" />
         <mark key="e" line="116" column="8" />
-        <mark key="'" line="604" column="19" />
-        <mark key="[" line="1620" column="0" />
+        <mark key="'" line="1839" column="4" />
+        <mark key="[" line="1248" column="6" />
         <mark key="m" line="1792" column="73" />
-        <mark key="]" line="1620" column="0" />
-        <mark key="^" line="604" column="13" />
-        <mark key="." line="1620" column="0" />
+        <mark key="]" line="1248" column="6" />
+        <mark key="^" line="1248" column="7" />
+        <mark key="." line="1248" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567301285213">
         <mark key="'" line="134" column="0" />
@@ -179,9 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="10" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
-      <jump line="53" column="8" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
@@ -219,8 +218,6 @@
       <jump line="3" column="27" filename="$USER_HOME$/Documents/Converter/prepare_audio.py" />
       <jump line="25" column="25" filename="$USER_HOME$/Documents/Converter/prepare_audio.py" />
       <jump line="1228" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1648" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1269" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1562" column="10" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1621" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -231,7 +228,6 @@
       <jump line="1736" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1737" column="34" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1738" column="21" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1740" column="27" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1741" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1743" column="25" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1747" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -279,10 +275,16 @@
       <jump line="1213" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1205" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1460" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
+      <jump line="1740" column="25" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1648" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1649" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1839" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UmVtb3ZlIHBlcnNvbmFsIHNldHRpbmdzIGZyb20gZXh0cmFjdG9yCg==</text>
+        <text encoding="base64">SW5jcmVhc2Ugdm9sdW1lCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -305,16 +307,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>*(see note on FX)*REMOVE PERSONAL SETTINGS FROM EXTRACTOR</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
-        <text>no audio file found</text>
+        <text encoding="base64">XDxleGNlcHRpb25zX2NvdW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Thread(target=process_pool, args=(workpool[i],))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFycyA9IFtdCiAgICAgICAgZm9yIGNoYXIgaW4gcmFuZ2UoMTApOgogICAgICAgICAgICBjaGFycy5hcHBlbmQoY2hyKG9yZCgnMCcpICsgY2hhcikpCiAgICAgICAgZm9yIGNoYXIgaW4gcmFuZ2UoMjQpOgogICAgICAgICAgICBjaGFycy5hcHBlbmQoY2hyKG9yZCgnQScpICsgY2hhcikpCiAgICAgICAgZm9yIGNoYXIgaW4gcmFuZ2UoMTUpOgogICAgICAgICAgICBjaGFycy5hcHBlbmQoY2hyKG9yZCgnYScpICsgY2hhcikpCiAgICAgICAgaWR4ID0gcm91bmQoKHNlbGYucG9zaXRpb24gLyAxMjcpICogKGxlbihjaGFycykgLSAxKSkKICAgICAgICByZXR1cm4gY2hhcnNbaWR4XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVtb3ZlIHBlcnNvbmFsIHNldHRpbmdzIGZyb20gZXh0cmFjdG9yCg==</text>
+        <text encoding="base64">SW5jcmVhc2Ugdm9sdW1lCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -400,45 +402,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmdfZGlmZmljdWx0eV9wcmV2aWV3ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzb25nX2lkICE9ICcnOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aXNzdWVzLnR4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBbeF0gQ2FsY3VsYXRlIHJvbGwgZHVyYXRpb24gY29ycmVjdGx5ICooZXhjZXB0IGZvciB0aGUgd2hhY2sgRmxvd2VyIEhWTiByb2xsKSoKLSBbeF0gSW1wbGVtZW50IG90aGVyIGtpbmRzIG9mIHJvbGxzCi0gW3hdIEZpeCBsYXNlcnMgYXBwZWFyaW5nIGNob3BwZWQgdXAgaW4gcGxhY2VzCi0gW3hdIEZYIGNoaXAgaGl0c291bmRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvbmdfaWQgPSBpbnQob3MucGF0aC5iYXNlbmFtZShmaWxlbmFtZSkuc3BsaXQoJ18nKVsxXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBbeF0gVGVzdCB1bm5hdHVyYWwgdGltZSBzaWduYXR1cmVzIG1vcmUK</text>
+        <text encoding="base64">UmVtb3ZlIHBlcnNvbmFsIHNldHRpbmdzIGZyb20gZXh0cmFjdG9yCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IE5vdGUgdGhhdCBgZXh0cmFjdG9yLnB5YCAKd2lsbCBleHRyYWN0IHRoZSBzb25ncyB0byB0aGUgYC53YXZgIGZvcm1hdDsgeW91IG11c3QgY29udmVydCB0aGVtIHRvIGAub2dnYC4gQW4gZXhhbXBsZSBpbiBhIEJhc2ggc2hlbGwgb24gTGludXg6CgpgYGBiYXNoCiMgSW4gdGhlIGRpcmVjdG9yeSB3aXRoIHRoZSBvdXRwdXQgV0FWcyBmb3IgcHJldmlld3Mgb3IgdHJhY2tzLgpwYXJhbGxlbCAtaiQobnByb2MpIGZmbXBlZyAtaSAie30iIC1xOmEgNyAiey59Lm9nZyIgOjo6ICoud2F2CmBgYAoKT2J2aW91c2x5IHRoaXMgcmVxdWlyZXMgYGZmbXBlZ2AgYW5kIEdOVSBgcGFyYWxsZWxgIHRvIGJlIGluc3RhbGxlZA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmdfZGlmZmljdWx0eV9wcmV2aWV3ID0gTm9uZQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Note that `extractor.py` 
-will extract the songs to the `.wav` format; you must convert them to `.ogg`. An example in a Bash shell on Linux:
-
-```bash
-# In the directory with the output WAVs for previews or tracks.
-parallel -j$(nproc) ffmpeg -i &quot;{}&quot; -q:a 7 &quot;{.}.ogg&quot; ::: *.wav
-```
-
-Obviously this requires `ffmpeg` and GNU `parallel` to be installed.</text>
+      <register name="7" type="2">
+        <text encoding="base64">aXNzdWVzLnR4dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YS8K</text>
+        <text encoding="base64">LSBbeF0gQ2FsY3VsYXRlIHJvbGwgZHVyYXRpb24gY29ycmVjdGx5ICooZXhjZXB0IGZvciB0aGUgd2hhY2sgRmxvd2VyIEhWTiByb2xsKSoKLSBbeF0gSW1wbGVtZW50IG90aGVyIGtpbmRzIG9mIHJvbGxzCi0gW3hdIEZpeCBsYXNlcnMgYXBwZWFyaW5nIGNob3BwZWQgdXAgaW4gcGxhY2VzCi0gW3hdIEZYIGNoaXAgaGl0c291bmRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki5rc2gK</text>
+        <text encoding="base64">LSBbeF0gVGVzdCB1bm5hdHVyYWwgdGltZSBzaWduYXR1cmVzIG1vcmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>no audio file found</last-search>
+      <last-search encoding="base64">XDxleGNlcHRpb25zX2NvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern>no audio file found</last-pattern>
+      <last-pattern encoding="base64">XDxleGNlcHRpb25zX2NvdW50XD4=</last-pattern>
       <last-replace>jacket_file</last-replace>
       <last-substitute>preview_file</last-substitute>
       <last-dir>1</last-dir>
@@ -446,8 +440,6 @@ Obviously this requires `ffmpeg` and GNU `parallel` to be installed.</text>
     </search>
     <history>
       <history-search>
-        <entry>preview_file</entry>
-        <entry encoding="base64">XDxwbmdcPg==</entry>
         <entry encoding="base64">XDx0b19qYWNrZXRfaWZzX251bWVyXD4=</entry>
         <entry encoding="base64">XDx0b19hYmJyZXZpYXRpb25cPg==</entry>
         <entry>do_copy_audio</entry>
@@ -466,6 +458,8 @@ Obviously this requires `ffmpeg` and GNU `parallel` to be installed.</text>
         <entry>floor</entry>
         <entry>starlight</entry>
         <entry>no audio file found</entry>
+        <entry>abnormalities</entry>
+        <entry encoding="base64">XDxleGNlcHRpb25zX2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RpdmlzaW9uLyJkaXZpc2lvbiIv</entry>
