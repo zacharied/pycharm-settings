@@ -55,7 +55,7 @@
         <mark key="." line="408" column="8" />
         <mark key="^" line="408" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569616964661">
+      <file name="/Dummy.txt" timestamp="1569617917512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" timestamp="1565649191146">
@@ -73,13 +73,13 @@
       <file name="$USER_HOME$/Documents/Converter/out/pure_evil_korsk/exhaust.ksh" timestamp="1565923333984">
         <mark key="'" line="12572" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1569617115800">
+      <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1569617895484">
         <mark key="'" line="16" column="36" />
         <mark key="i" line="65" column="27" />
-        <mark key="[" line="93" column="111" />
-        <mark key="]" line="93" column="111" />
-        <mark key="." line="93" column="111" />
-        <mark key="^" line="113" column="27" />
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
       </file>
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
         <mark key="[" line="0" column="0" />
@@ -224,7 +224,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -247,7 +247,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>at least</text>
