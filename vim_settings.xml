@@ -73,12 +73,12 @@
       <file name="$USER_HOME$/Documents/Converter/out/pure_evil_korsk/exhaust.ksh" timestamp="1565923333984">
         <mark key="'" line="12572" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1569611626620">
+      <file name="$USER_HOME$/Code/mapped-enum/mapped_enum/__init__.py" timestamp="1569612519594">
         <mark key="'" line="8" column="97" />
         <mark key="i" line="65" column="27" />
-        <mark key="[" line="21" column="90" />
-        <mark key="]" line="21" column="89" />
-        <mark key="." line="21" column="89" />
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
         <mark key="^" line="21" column="89" />
       </file>
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
@@ -224,7 +224,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bWVtYmVyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -247,7 +247,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWVtYmVyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZW51bV9tYXBfdHVwbGVfa2V5XD4=</text>
