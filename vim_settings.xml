@@ -13,7 +13,7 @@
         <mark key="." line="78" column="105" />
         <mark key="^" line="78" column="105" />
       </file>
-      <file name="/Python Console" timestamp="1568587550989">
+      <file name="/Python Console" timestamp="1569631010138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" timestamp="1565931917504">
@@ -50,7 +50,7 @@
       <file name="$USER_HOME$/Documents/Converter/header.txt" timestamp="1567986021392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/prepare_audio.py" timestamp="1569540825772">
+      <file name="$USER_HOME$/Documents/Converter/prepare_audio.py" timestamp="1569630270718">
         <mark key="'" line="21" column="25" />
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="37" />
@@ -78,6 +78,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" timestamp="1564863799920">
         <mark key="'" line="3719" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1569630709841">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
         <mark key="[" line="7" column="17" />
@@ -116,11 +119,11 @@
       <file name="$USER_HOME$/Documents/Converter/exceptions_0.txt" timestamp="1567289910041">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1569540793666">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
+      <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1569630191673">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -132,15 +135,15 @@
         <mark key="." line="29531" column="8" />
         <mark key="^" line="29531" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1569629950227">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1569631111989">
         <mark key="a" line="1354" column="169" />
         <mark key="e" line="116" column="8" />
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1833" column="9" />
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="1608" column="80" />
         <mark key="m" line="1792" column="73" />
-        <mark key="]" line="1833" column="9" />
-        <mark key="^" line="1832" column="27" />
-        <mark key="." line="1833" column="9" />
+        <mark key="]" line="1608" column="82" />
+        <mark key="^" line="1608" column="82" />
+        <mark key="." line="1608" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567301285213">
         <mark key="'" line="134" column="0" />
@@ -163,19 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1738" column="21" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1741" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1743" column="25" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1747" column="32" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1749" column="22" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1750" column="31" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1751" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1753" column="20" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1754" column="74" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1757" column="28" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="463" column="67" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="605" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="6" column="16" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1288" column="29" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1280" column="29" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1272" column="29" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
@@ -263,10 +253,23 @@
       <jump line="937" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1588" column="47" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1739" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1638" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1656" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1672" column="23" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1701" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1718" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1721" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1639" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1816" column="37" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="46" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="1604" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>(</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -289,16 +292,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>Level</text>
+        <text>lock</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFyZ3BhcnNlci5hZGRfYXJndW1lbnQoJy0tY2xlYW4tb3V0cHV0JywgYWN0aW9uPSdzdG9yZV90cnVlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICBvcy5ybWRpcignb3V0JykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -384,37 +387,38 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9zLgo=</text>
+        <text encoding="base64">ZnJvbSBzaHV0aWwgaW1wb3J0IGNvcHlmaWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z3NbdGhyZWFkLmlkZW50XSA9IERlYnVnKGYnZXhjZXB0aW9uc197dGhyZWFkLmlkZW50fS50eHQnKQo=</text>
+        <text encoding="base64">ICAgIGltcAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ1RocmVhZCB7dGhyZWFkLmlkZW50fScpCg==</text>
+      <register name="4" type="4">
+        <text>p
+    argparser</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQuCg==</text>
+        <text encoding="base64">ICAgICAgICBzaHV0aWxzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhjZXB0aW9ucy50eHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgZGVidWcoKQo=</text>
+        <text encoding="base64">ICAgIGFyZ3BhcnNlci5hZGRfYXJndW1lbnQoJy0tbm8tY2xlYW4tZGVidWcnLCBhY3Rpb249J3N0b3JlX2ZhbHNlJywgZGVzdD0nZG9fY2xlYW5fZGVidWcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgZGVidWcoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBkZWJ1ZygpCg==</text>
+        <text encoding="base64">ICAgIG9zLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Level</last-search>
+      <last-search>lock</last-search>
       <last-offset />
-      <last-pattern>Level</last-pattern>
+      <last-pattern>lock</last-pattern>
       <last-replace>debug()</last-replace>
       <last-substitute>debug</last-substitute>
       <last-dir>1</last-dir>
@@ -422,8 +426,6 @@
     </search>
     <history>
       <history-search>
-        <entry>other</entry>
-        <entry>'other'</entry>
         <entry>TAPESTOP</entry>
         <entry>fx-</entry>
         <entry encoding="base64">XDxmeF9jaGFuZ2VcPg==</entry>
@@ -442,6 +444,8 @@
         <entry>()</entry>
         <entry>()()</entry>
         <entry>Level</entry>
+        <entry>copyfile</entry>
+        <entry>lock</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumb</entry>
