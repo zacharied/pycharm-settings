@@ -132,15 +132,15 @@
         <mark key="." line="29531" column="8" />
         <mark key="^" line="29531" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1569625559551">
+      <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1569629950227">
         <mark key="a" line="1354" column="169" />
         <mark key="e" line="116" column="8" />
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="1774" column="52" />
+        <mark key="[" line="1833" column="9" />
         <mark key="m" line="1792" column="73" />
-        <mark key="]" line="1775" column="24" />
-        <mark key="^" line="1775" column="24" />
-        <mark key="." line="1775" column="24" />
+        <mark key="]" line="1833" column="9" />
+        <mark key="^" line="1832" column="27" />
+        <mark key="." line="1833" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567301285213">
         <mark key="'" line="134" column="0" />
@@ -266,7 +266,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>old charts.')</text>
+        <text>]</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -289,7 +289,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>old charts.')</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>Level</text>
