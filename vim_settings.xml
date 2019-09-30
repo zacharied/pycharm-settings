@@ -37,12 +37,12 @@
       <file name="$USER_HOME$/Code/vox2ksh/data/music_db.xml" timestamp="1567712545048">
         <mark key="'" line="12737" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1569819934530">
-        <mark key="'" line="12" column="7" />
-        <mark key="[" line="1209" column="50" />
-        <mark key="]" line="1209" column="58" />
-        <mark key="^" line="1209" column="58" />
-        <mark key="." line="1209" column="58" />
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1569868442665">
+        <mark key="'" line="280" column="4" />
+        <mark key="[" line="1205" column="33" />
+        <mark key="]" line="1205" column="33" />
+        <mark key="^" line="1205" column="33" />
+        <mark key="." line="1205" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
         <mark key="[" line="8" column="0" />
@@ -82,7 +82,7 @@
       <file name="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" timestamp="1564863799920">
         <mark key="'" line="3719" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569819859989">
+      <file name="/Dummy.txt" timestamp="1569867692490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
@@ -90,12 +90,12 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/prepare_audio.py" timestamp="1569819532302">
+      <file name="$USER_HOME$/Documents/Converter/src/prepare_audio.py" timestamp="1569867513561">
         <mark key="'" line="6" column="12" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="40" />
-        <mark key="." line="45" column="40" />
-        <mark key="^" line="45" column="40" />
+        <mark key="[" line="17" column="112" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="18" column="28" />
       </file>
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
         <mark key="[" line="0" column="0" />
@@ -196,9 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1301" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1309" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1317" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1325" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1333" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1341" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
@@ -296,10 +293,13 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="12" column="7" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1" column="47" filename="$USER_HOME$/Documents/Converter/config.sample.ini" />
+      <jump line="1007" column="34" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="271" column="37" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="280" column="4" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>150000</text>
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -322,10 +322,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>150000</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>PITCHSHIFT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bXVzaWNfZGJfc291cmNlX2RpciA9ICJEOi9TRFZYLUV4dHJhY3QvbXVzaWNfZGIiCg==</text>
@@ -445,9 +445,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>PITCHSHIFT</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>PITCHSHIFT</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -455,7 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmeF9jaGFuZ2VcPg==</entry>
         <entry>fallback</entry>
         <entry encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</entry>
         <entry encoding="base64">XDx3cml0ZV90b19rc2hcPg==</entry>
@@ -475,6 +474,7 @@
         <entry>lock</entry>
         <entry>config</entry>
         <entry>&quot;</entry>
+        <entry>PITCHSHIFT</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
