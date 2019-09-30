@@ -13,7 +13,7 @@
         <mark key="." line="78" column="105" />
         <mark key="^" line="78" column="105" />
       </file>
-      <file name="/Python Console" timestamp="1569631010138">
+      <file name="/Python Console" timestamp="1569809315889">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" timestamp="1565931917504">
@@ -27,7 +27,6 @@
       <file name="/a.dummy" timestamp="1568496181550">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/debug/exceptions_8284.txt" timestamp="1569626102390" />
       <file name="$USER_HOME$/Documents/Converter/out/completeness_kameria/chart_exh.ksh" timestamp="1568498428787">
         <mark key="'" line="18622" column="0" />
       </file>
@@ -79,7 +78,7 @@
       <file name="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" timestamp="1564863799920">
         <mark key="'" line="3719" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569630709841">
+      <file name="/Dummy.txt" timestamp="1569809811897">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
@@ -87,8 +86,20 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/src/prepare_audio.py" timestamp="1569809560993">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="15" column="68" />
+        <mark key="]" line="15" column="67" />
+        <mark key="." line="15" column="67" />
+        <mark key="^" line="15" column="67" />
+      </file>
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1569808039752">
+        <mark key="[" line="68" column="34" />
+        <mark key="]" line="68" column="47" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/redzone_yuuhei/exhaust.ksh" timestamp="1565571276732">
         <mark key="'" line="15050" column="10" />
@@ -119,11 +130,18 @@
       <file name="$USER_HOME$/Documents/Converter/exceptions_0.txt" timestamp="1567289910041">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1569630191673">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="3" column="5" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1569807152299">
+        <mark key="'" line="4" column="3" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/config.sample.ini" timestamp="1569808177056">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="48" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/dynasty_yooh/advanced.ksh" timestamp="1565582102572">
         <mark key="'" line="3136" column="10" />
@@ -164,14 +182,14 @@
         <mark key="." line="26" column="64" />
         <mark key="^" line="26" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/config.ini" timestamp="1569808881352">
+        <mark key="'" line="4" column="24" />
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1288" column="29" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1280" column="29" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1272" column="29" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1229" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1237" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1245" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1253" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1261" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1269" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
@@ -266,10 +284,16 @@
       <jump line="46" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1604" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
+      <jump line="4" column="3" filename="$USER_HOME$/Documents/Converter/.gitignore" />
+      <jump line="45" column="80" filename="$USER_HOME$/Documents/Converter/src/prepare_audio.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/Converter/src/prepare_audio.py" />
+      <jump line="4" column="24" filename="$USER_HOME$/Documents/Converter/config.ini" />
+      <jump line="74" column="5" filename="$USER_HOME$/Documents/Converter/src/prepare_audio.py" />
+      <jump line="6" column="12" filename="$USER_HOME$/Documents/Converter/src/prepare_audio.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>(volume_chart, file)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -292,16 +316,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>(volume_chart, file)</text>
       </register>
       <register name="/" type="4">
-        <text>lock</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFyZ3BhcnNlci5hZGRfYXJndW1lbnQoJy0tY2xlYW4tb3V0cHV0JywgYWN0aW9uPSdzdG9yZV90cnVlJykK</text>
+        <text encoding="base64">bXVzaWNfZGJfc291cmNlX2RpciA9ICJEOi9TRFZYLUV4dHJhY3QvbXVzaWNfZGIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5ybWRpcignb3V0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZidWb2x1bWU6IHtjaGFydF9lbnRyeX0nKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -387,46 +411,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzaHV0aWwgaW1wb3J0IGNvcHlmaWxlCg==</text>
+        <text encoding="base64">cGlja2xlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcAo=</text>
+        <text encoding="base64">cGlja2xlCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>p
-    argparser</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWxzLgo=</text>
+        <text encoding="base64">ICAgIHRyZWUgPSBOb25lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhjZXB0aW9ucy50eHQK</text>
+        <text encoding="base64">ICAgIGRiX2VudHJpZXMgKz0gdHJlZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFyZ3BhcnNlci5hZGRfYXJndW1lbnQoJy0tbm8tY2xlYW4tZGVidWcnLCBhY3Rpb249J3N0b3JlX2ZhbHNlJywgZGVzdD0nZG9fY2xlYW5fZGVidWcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICBjaGFydF9lbnRyeSA9IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9zLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ01heCBkQkZTOiB7YXVkaW8ubWF4X2RCRlN9JykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lock</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>lock</last-pattern>
-      <last-replace>debug()</last-replace>
-      <last-substitute>debug</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace />
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TAPESTOP</entry>
         <entry>fx-</entry>
         <entry encoding="base64">XDxmeF9jaGFuZ2VcPg==</entry>
         <entry>fallback</entry>
@@ -446,9 +468,9 @@
         <entry>Level</entry>
         <entry>copyfile</entry>
         <entry>lock</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>set relativenumb</entry>
         <entry>ww</entry>
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5zL0tzaG9vdEVmZmVjdC9Tb3VuZEVmZmVjdA==</entry>
@@ -467,6 +489,7 @@
         <entry encoding="base64">JzwsJz5zL3ByZXZpZXdfZmlsZS9qYWNrZXRfZmlsZS9n</entry>
         <entry>wq</entry>
         <entry>%s/debug/debug()/g</entry>
+        <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

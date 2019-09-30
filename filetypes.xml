@@ -6,6 +6,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="ksh" type="PLAIN_TEXT" />
       <mapping ext="vox" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
