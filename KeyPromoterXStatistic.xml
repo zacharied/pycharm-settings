@@ -118,7 +118,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>25</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Changelist...">
@@ -150,7 +150,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>6</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -318,7 +318,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Full convert'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Prepare audio'">
@@ -535,6 +535,14 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>55</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Vim Delete Join Lines">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo Vim Delete Join Lines</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
