@@ -13,13 +13,13 @@
         <mark key="." line="78" column="105" />
         <mark key="^" line="78" column="105" />
       </file>
-      <file name="/Python Console" timestamp="1569809315889">
+      <file name="/Python Console" timestamp="1569813290894">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/madeinlove_kuroma/maximum.ksh" timestamp="1565931917504">
         <mark key="'" line="1537" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1567790452558">
+      <file name="/fragment.py" timestamp="1569813333812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -39,6 +39,13 @@
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/data/music_db.xml" timestamp="1567712545048">
         <mark key="'" line="12737" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1569813614818">
+        <mark key="'" line="12" column="7" />
+        <mark key="[" line="1209" column="50" />
+        <mark key="]" line="1209" column="58" />
+        <mark key="^" line="1209" column="58" />
+        <mark key="." line="1209" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
         <mark key="[" line="8" column="0" />
@@ -75,10 +82,11 @@
       <file name="$USER_HOME$/Documents/Converter/data/vox_10_ifs/004_0943_higher_redalice_5m.vox" timestamp="1567297553785">
         <mark key="'" line="328" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/out/rinhana_machigerita/chart_nov.ksh" timestamp="1569813789698" />
       <file name="$USER_HOME$/Documents/Converter/out/albida_muryoku/exhaust.ksh" timestamp="1564863799920">
         <mark key="'" line="3719" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569809811897">
+      <file name="/Dummy.txt" timestamp="1569813968605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
@@ -86,20 +94,21 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/prepare_audio.py" timestamp="1569809560993">
+      <file name="$USER_HOME$/Documents/Converter/src/prepare_audio.py" timestamp="1569813145585">
         <mark key="'" line="6" column="12" />
-        <mark key="[" line="15" column="68" />
-        <mark key="]" line="15" column="67" />
-        <mark key="." line="15" column="67" />
-        <mark key="^" line="15" column="67" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="40" />
+        <mark key="." line="45" column="40" />
+        <mark key="^" line="45" column="40" />
       </file>
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1569808039752">
-        <mark key="[" line="68" column="34" />
-        <mark key="]" line="68" column="47" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1569813378080">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="93" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/redzone_yuuhei/exhaust.ksh" timestamp="1565571276732">
         <mark key="'" line="15050" column="10" />
@@ -137,7 +146,8 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/config.sample.ini" timestamp="1569808177056">
+      <file name="$USER_HOME$/Documents/Converter/config.sample.ini" timestamp="1569813958536">
+        <mark key="'" line="1" column="47" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="48" />
         <mark key="^" line="3" column="47" />
@@ -190,12 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1253" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1261" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1269" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1277" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1285" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1293" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1301" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1309" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1317" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
@@ -290,10 +294,16 @@
       <jump line="4" column="24" filename="$USER_HOME$/Documents/Converter/config.ini" />
       <jump line="74" column="5" filename="$USER_HOME$/Documents/Converter/src/prepare_audio.py" />
       <jump line="6" column="12" filename="$USER_HOME$/Documents/Converter/src/prepare_audio.py" />
+      <jump line="1739" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1740" column="10" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="12" column="7" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1" column="47" filename="$USER_HOME$/Documents/Converter/config.sample.ini" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(volume_chart, file)</text>
+        <text>150000</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -316,7 +326,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>(volume_chart, file)</text>
+        <text>150000</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -325,7 +335,7 @@
         <text encoding="base64">bXVzaWNfZGJfc291cmNlX2RpciA9ICJEOi9TRFZYLUV4dHJhY3QvbXVzaWNfZGIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZidWb2x1bWU6IHtjaGFydF9lbnRyeX0nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc29uZ19pZCAhPSAnOTQzJzogY29udGludWUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -411,28 +421,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGlja2xlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGlja2xlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjaGFydF9lbnRyeSBpcyBub3QgTm9uZToKICAgICAgICAgICAgY2hhcnRfZW50cnkgPSAoY2hhcnRfZW50cnksIGF1ZGlvLm1heF9kQkZTKQogICAgICAgICAgICB2b2x1bWVfY2hhcnQuYXBwZW5kKGNoYXJ0X2VudHJ5KQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">Y29uZmlnID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyZWUgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZidWb2x1bWU6IHtjaGFydF9lbnRyeX0nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRiX2VudHJpZXMgKz0gdHJlZQo=</text>
+        <text encoding="base64">cGlja2xlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">cGlja2xlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFydF9lbnRyeSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ01heCBkQkZTOiB7YXVkaW8ubWF4X2RCRlN9JykK</text>
+        <text encoding="base64">ICAgIHRyZWUgPSBOb25lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -449,7 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fx-</entry>
         <entry encoding="base64">XDxmeF9jaGFuZ2VcPg==</entry>
         <entry>fallback</entry>
         <entry encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</entry>
@@ -468,6 +477,7 @@
         <entry>Level</entry>
         <entry>copyfile</entry>
         <entry>lock</entry>
+        <entry>config</entry>
         <entry>&quot;</entry>
       </history-search>
       <history-cmd>
