@@ -6,6 +6,13 @@
       <file name="vim_settings.xml" timestamp="1567789006078">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/README_inc_private.txt" timestamp="1569877786919">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="117" />
+        <mark key="." line="5" column="26" />
+      </file>
       <file name="/Python Console" timestamp="1569813290894">
         <mark key="[" line="0" column="0" />
       </file>
@@ -17,18 +24,6 @@
       <file name="/a.dummy" timestamp="1568496181550">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/README.md" timestamp="1569540300760">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="64" />
-        <mark key="." line="26" column="64" />
-        <mark key="^" line="26" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1569813378080">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="93" column="53" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/extractor.py" timestamp="1569534497373">
         <mark key="'" line="86" column="67" />
         <mark key="[" line="69" column="0" />
@@ -36,17 +31,58 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="105" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/config.sample.ini" timestamp="1569813958536">
-        <mark key="'" line="1" column="47" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="48" />
-        <mark key="^" line="3" column="47" />
-        <mark key="." line="3" column="47" />
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1569813614818">
+        <mark key="'" line="12" column="7" />
+        <mark key="[" line="1209" column="50" />
+        <mark key="]" line="1209" column="58" />
+        <mark key="^" line="1209" column="58" />
+        <mark key="." line="1209" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="13" column="79" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/header.txt" timestamp="1567986021392">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/prepare_audio.py" timestamp="1569630270718">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/src/prepare_audio.py" timestamp="1569852185059">
         <mark key="[" line="25" column="48" />
         <mark key="]" line="25" column="48" />
         <mark key="." line="25" column="48" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="15" column="63" />
+      </file>
+      <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1569852094958">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/prepare_audio.py" timestamp="1569813145585">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="40" />
+        <mark key="." line="45" column="40" />
+        <mark key="^" line="45" column="40" />
       </file>
       <file name="$USER_HOME$/Code/vox2ksh/src/extractor.py" timestamp="1569852946472">
         <mark key="'" line="31" column="1" />
@@ -55,87 +91,14 @@
         <mark key="^" line="72" column="82" />
         <mark key="." line="72" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="11" column="23" />
-        <mark key="^" line="13" column="79" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567301285213">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="408" column="7" />
-        <mark key="]" line="408" column="8" />
-        <mark key="." line="408" column="8" />
-        <mark key="^" line="408" column="8" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1569852094958">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1569807152299">
-        <mark key="'" line="4" column="3" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="9" column="9" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" timestamp="1565649191146">
-        <mark key="'" line="44739" column="5" />
-        <mark key="[" line="29531" column="9" />
-        <mark key="]" line="29531" column="8" />
-        <mark key="." line="29531" column="8" />
-        <mark key="^" line="29531" column="8" />
-      </file>
-      <file name="$USER_HOME$/Code/vox2ksh/config.sample.ini" timestamp="1569853006952">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/header.txt" timestamp="1567986021392">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/README_inc_private.txt" timestamp="1568596900853">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="105" />
-        <mark key="]" line="78" column="105" />
-        <mark key="." line="78" column="105" />
-        <mark key="^" line="78" column="105" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/.git/info/exclude" timestamp="1569540816407">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-      </file>
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/config.ini" timestamp="1569808881352">
-        <mark key="'" line="4" column="24" />
-        <mark key="[" line="2" column="50" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/TODO" timestamp="1569539941126">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="56" />
-        <mark key="^" line="0" column="56" />
-        <mark key="." line="0" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1569813614818">
-        <mark key="'" line="12" column="7" />
-        <mark key="[" line="1209" column="50" />
-        <mark key="]" line="1209" column="58" />
-        <mark key="^" line="1209" column="58" />
-        <mark key="." line="1209" column="58" />
+      <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1569813378080">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="93" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/README_inc.md" timestamp="1567986257567">
         <mark key="[" line="1" column="0" />
@@ -146,24 +109,43 @@
       <file name="/" timestamp="1564864664853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/prepare_audio.py" timestamp="1569630270718">
-        <mark key="'" line="21" column="25" />
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="1" column="37" />
-        <mark key="." line="1" column="37" />
+      <file name="$USER_HOME$/Documents/Converter/TODO" timestamp="1569539941126">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/README_inc_public.txt" timestamp="1567986589845">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/prepare_audio.py" timestamp="1569813145585">
-        <mark key="'" line="6" column="12" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="40" />
-        <mark key="." line="45" column="40" />
-        <mark key="^" line="45" column="40" />
+      <file name="$USER_HOME$/Documents/Converter/config.sample.ini" timestamp="1569813958536">
+        <mark key="'" line="1" column="47" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="48" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1569807152299">
+        <mark key="'" line="4" column="3" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/config.sample.ini" timestamp="1569853006952">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" timestamp="1565649191146">
+        <mark key="'" line="44739" column="5" />
+        <mark key="[" line="29531" column="9" />
+        <mark key="]" line="29531" column="8" />
+        <mark key="." line="29531" column="8" />
+        <mark key="^" line="29531" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/converter.py" timestamp="1569631111989">
         <mark key="a" line="1354" column="169" />
@@ -175,21 +157,33 @@
         <mark key="^" line="1608" column="82" />
         <mark key="." line="1608" column="82" />
       </file>
-      <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="15" column="63" />
+      <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567301285213">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="408" column="7" />
+        <mark key="]" line="408" column="8" />
+        <mark key="." line="408" column="8" />
+        <mark key="^" line="408" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/.git/info/exclude" timestamp="1569540816407">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/README.md" timestamp="1569540300760">
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="64" />
+        <mark key="." line="26" column="64" />
+        <mark key="^" line="26" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/config.ini" timestamp="1569808881352">
+        <mark key="'" line="4" column="24" />
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1341" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1349" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1357" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1368" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1376" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1384" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1392" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1409" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1417" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
@@ -284,10 +278,17 @@
       <jump line="28" column="0" filename="$USER_HOME$/Code/vox2ksh/src/extractor.py" />
       <jump line="98" column="41" filename="$USER_HOME$/Code/vox2ksh/src/extractor.py" />
       <jump line="31" column="1" filename="$USER_HOME$/Code/vox2ksh/src/extractor.py" />
+      <jump line="77" column="19" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="78" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="6" column="6" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="5" column="111" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>They were created using 
+vox2ksh converter.</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -310,7 +311,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>OUT_SONGS</text>
@@ -318,8 +319,9 @@
       <register name="0" type="4">
         <text>config['Directories']['game_source_dir'])</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CmZvciBkYXRhX2RpciBpbiBEQVRBX0RJUlM6Cg==</text>
+      <register name="1" type="4">
+        <text>They were created using 
+vox2ksh converter.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -404,29 +406,31 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBUT0RPIERvY3VtZW50YXRpb24gaGVyZS4KCg==</text>
+      <register name="2" type="4">
+        <text>The repository for this is currently not public; please ask at the contact below for
+access.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgR0FNRV9ESVIgPT0gJycgb3IgbGVuKERBVEFfRElSUykgPT0gMCBvciBPVVRfU09OR1MgPT0gJycgb3IgT1VUX1BSRVZJRVcgPT0gJycgb3IgT1VUX0pBQ0tFVCA9PSAnJzoKICAgIHByaW50KCdZb3UgaGF2ZSBub3Qgc2V0IHRoZSBwYXJhbWV0ZXJzLiBFZGl0IHRoZSBsaW5lcyBhdCB0aGUgdG9wIG9mIHRoZSBzY3JpcHQgdG8gbWF0Y2ggeW91ciBnYW1lICcKICAgICAgICAgICdpbnN0YWxsYXRpb24gYW5kIGRlc2lyZWQgb3V0cHV0IGxvY2F0aW9ucy4nLAogICAgICAgICAgZmlsZT1vcy5zeXMuc3RkZXJyKQoK</text>
+        <text encoding="base64">dm94MmtzaCBzb3VyY2UgY29kZSBjYW4gYmUgZm91bmQgYXQ6CiAgICBodHRwczovL2dpdGh1Yi5jb20vemFjaGFyaWVkL3ZveDJrc2gKCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>Also, please do NOT submit GitHub issues unless they are related to the converter application
+itself.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZmluYWxseToK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IAoKVGhlIGNoYXJ0cyBhbHNvIGhhdmUgYHNvcnR0aXRsZWAgYW5kIGBzb3J0YXJ0aXN0YCBmaWVsZHMgdGhhdCBjb250YWluIHRoZSB0ZXJtcyB1c2VkIGJ5IFNEVlggd2hlbiBzb3J0aW5nLCBob3dldmVyCnRoZXNlIGFyZSBhbHNvIG5vdCBhcGFydCBvZiBLU0ggYW5kIHRoZXJlIGlzIG5vIHN1cHBvcnQgaW4gYW55IGNsaWVudHMgeWV0Lg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OgogICAgcHJpbnQoJ0FuIGVycm9yIG9jY3VycmVkIGxvYWRpbmcgdGhlIGNvbmZpZy5pbmkgZmlsZS4nKQo=</text>
+        <text encoding="base64">VGhlc2UgY2hhcnRzIHJlbHkgb24gdGhlIGBwcmV2aWV3ZmlsZWAgZmllbGQsIHdoaWNoIGlzIG5vdCBhcGFydCBvZiBLU0guIEluIG9yZGVyIGZvciBwcmV2aWV3cyB0byBwbGF5LCB5b3UgbXVzdCB1c2UgYQpmb3JrZWQgdmVyc2lvbiBvZiBVU0MgdGhhdCBzdXBwb3J0cyB0aGlzIGZpZWxkOgogICAgaHR0cHM6Ly9naXRodWIuY29tL3phY2hhcmllZC91bm5hbWVkLXNkdngtY2xvbmUKClRoaXMgaXMgbmVjZXNzYXJ5IGJlY2F1c2UgU0RWWCBzdG9yZXMgcHJldmlldyBhdWRpbyBpbiBzZXBhcmF0ZSBmaWxlcyBmcm9tIHRyYWNrIGF1ZGlvLiBJZiBzb21lb25lIGlzIGV4cGVyaWVuY2VkIHdpdGgKYXVkaW8gZXZlbnQgYW5hbHlzaXMsIEkgd291bGQgYXBwcmVjaWF0ZSBoZWxwIHdpdGggd3JpdGluZyBhIHNjcmlwdCB0byBmaW5kIHRoZSBpbnRlcnNlY3Rpb24gcG9pbnRzIG9mIHByZXZpZXcgYXVkaW8Kd2l0aCB0cmFjayBhdWRpby4gVGhpcyB3b3VsZCBhbGxvdyBtZSB0byB1c2UgdGhlIGBwb2AgKHByZXZpZXcgb2Zmc2V0KSBhbmQgYHBsZW5ndGhgIChwcmV2aWV3IGxlbmd0aCkgZmllbGRzIGFsbG93ZWQKYnkgS1NILiBDb250YWN0IGluZm9ybWF0aW9uIGlzIGJlbG93Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgbm90IG9zLnBhdGguZXhpc3RzKCkK</text>
+        <text encoding="base64">CmZvciBkYXRhX2RpciBpbiBEQVRBX0RJUlM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bXVzaWNfZGJfZGlyID0gRDovU0RWWC1FeHRyYWN0L211c2ljX2RiCg==</text>
+        <text encoding="base64">IyBUT0RPIERvY3VtZW50YXRpb24gaGVyZS4KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc29uZ19pZCAhPSAnOTQzJzogY29udGludWUK</text>
+        <text encoding="base64">aWYgR0FNRV9ESVIgPT0gJycgb3IgbGVuKERBVEFfRElSUykgPT0gMCBvciBPVVRfU09OR1MgPT0gJycgb3IgT1VUX1BSRVZJRVcgPT0gJycgb3IgT1VUX0pBQ0tFVCA9PSAnJzoKICAgIHByaW50KCdZb3UgaGF2ZSBub3Qgc2V0IHRoZSBwYXJhbWV0ZXJzLiBFZGl0IHRoZSBsaW5lcyBhdCB0aGUgdG9wIG9mIHRoZSBzY3JpcHQgdG8gbWF0Y2ggeW91ciBnYW1lICcKICAgICAgICAgICdpbnN0YWxsYXRpb24gYW5kIGRlc2lyZWQgb3V0cHV0IGxvY2F0aW9ucy4nLAogICAgICAgICAgZmlsZT1vcy5zeXMuc3RkZXJyKQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
