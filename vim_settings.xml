@@ -13,6 +13,11 @@
         <mark key="^" line="5" column="117" />
         <mark key="." line="5" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1570309693489">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1569813290894">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,12 +64,12 @@
         <mark key="]" line="25" column="48" />
         <mark key="." line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1564105331233">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="15" column="63" />
+      <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1570310709505">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
       </file>
       <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
         <mark key="[" line="0" column="0" />
@@ -108,6 +113,12 @@
       </file>
       <file name="/" timestamp="1564864664853">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped_enum/test.py" timestamp="1570309609855">
+        <mark key="[" line="124" column="19" />
+        <mark key="]" line="124" column="18" />
+        <mark key="^" line="124" column="18" />
+        <mark key="." line="124" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/TODO" timestamp="1569539941126">
         <mark key="[" line="0" column="0" />
@@ -184,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1392" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1409" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1417" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1425" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1436" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
@@ -284,11 +293,12 @@
       <jump line="6" column="6" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
       <jump line="5" column="111" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
+      <jump line="29" column="42" filename="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>They were created using 
-vox2ksh converter.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -311,17 +321,16 @@ vox2ksh converter.</text>
         <text />
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>OUT_SONGS</text>
+        <text>there is more than one</text>
       </register>
       <register name="0" type="4">
         <text>config['Directories']['game_source_dir'])</text>
       </register>
-      <register name="1" type="4">
-        <text>They were created using 
-vox2ksh converter.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -406,40 +415,41 @@ vox2ksh converter.</text>
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>The repository for this is currently not public; please ask at the contact below for
-access.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dm94MmtzaCBzb3VyY2UgY29kZSBjYW4gYmUgZm91bmQgYXQ6CiAgICBodHRwczovL2dpdGh1Yi5jb20vemFjaGFyaWVkL3ZveDJrc2gKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUK</text>
       </register>
-      <register name="4" type="4">
-        <text>Also, please do NOT submit GitHub issues unless they are related to the converter application
-itself.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBhbGxvd19vdmVycmlkZToK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IAoKVGhlIGNoYXJ0cyBhbHNvIGhhdmUgYHNvcnR0aXRsZWAgYW5kIGBzb3J0YXJ0aXN0YCBmaWVsZHMgdGhhdCBjb250YWluIHRoZSB0ZXJtcyB1c2VkIGJ5IFNEVlggd2hlbiBzb3J0aW5nLCBob3dldmVyCnRoZXNlIGFyZSBhbHNvIG5vdCBhcGFydCBvZiBLU0ggYW5kIHRoZXJlIGlzIG5vIHN1cHBvcnQgaW4gYW55IGNsaWVudHMgeWV0Lg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">VGhlc2UgY2hhcnRzIHJlbHkgb24gdGhlIGBwcmV2aWV3ZmlsZWAgZmllbGQsIHdoaWNoIGlzIG5vdCBhcGFydCBvZiBLU0guIEluIG9yZGVyIGZvciBwcmV2aWV3cyB0byBwbGF5LCB5b3UgbXVzdCB1c2UgYQpmb3JrZWQgdmVyc2lvbiBvZiBVU0MgdGhhdCBzdXBwb3J0cyB0aGlzIGZpZWxkOgogICAgaHR0cHM6Ly9naXRodWIuY29tL3phY2hhcmllZC91bm5hbWVkLXNkdngtY2xvbmUKClRoaXMgaXMgbmVjZXNzYXJ5IGJlY2F1c2UgU0RWWCBzdG9yZXMgcHJldmlldyBhdWRpbyBpbiBzZXBhcmF0ZSBmaWxlcyBmcm9tIHRyYWNrIGF1ZGlvLiBJZiBzb21lb25lIGlzIGV4cGVyaWVuY2VkIHdpdGgKYXVkaW8gZXZlbnQgYW5hbHlzaXMsIEkgd291bGQgYXBwcmVjaWF0ZSBoZWxwIHdpdGggd3JpdGluZyBhIHNjcmlwdCB0byBmaW5kIHRoZSBpbnRlcnNlY3Rpb24gcG9pbnRzIG9mIHByZXZpZXcgYXVkaW8Kd2l0aCB0cmFjayBhdWRpby4gVGhpcyB3b3VsZCBhbGxvdyBtZSB0byB1c2UgdGhlIGBwb2AgKHByZXZpZXcgb2Zmc2V0KSBhbmQgYHBsZW5ndGhgIChwcmV2aWV3IGxlbmd0aCkgZmllbGRzIGFsbG93ZWQKYnkgS1NILiBDb250YWN0IGluZm9ybWF0aW9uIGlzIGJlbG93Lgo=</text>
+      <register name="6" type="4">
+        <text>method, the
+    `enum_map` method will be . Otherwise, an error will be thrown.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmZvciBkYXRhX2RpciBpbiBEQVRBX0RJUlM6Cg==</text>
+        <text encoding="base64">SW5zcGVjdGlvbiB0ZXN0cwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBUT0RPIERvY3VtZW50YXRpb24gaGVyZS4KCg==</text>
+      <register name="8" type="4">
+        <text>They were created using 
+vox2ksh converter.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aWYgR0FNRV9ESVIgPT0gJycgb3IgbGVuKERBVEFfRElSUykgPT0gMCBvciBPVVRfU09OR1MgPT0gJycgb3IgT1VUX1BSRVZJRVcgPT0gJycgb3IgT1VUX0pBQ0tFVCA9PSAnJzoKICAgIHByaW50KCdZb3UgaGF2ZSBub3Qgc2V0IHRoZSBwYXJhbWV0ZXJzLiBFZGl0IHRoZSBsaW5lcyBhdCB0aGUgdG9wIG9mIHRoZSBzY3JpcHQgdG8gbWF0Y2ggeW91ciBnYW1lICcKICAgICAgICAgICdpbnN0YWxsYXRpb24gYW5kIGRlc2lyZWQgb3V0cHV0IGxvY2F0aW9ucy4nLAogICAgICAgICAgZmlsZT1vcy5zeXMuc3RkZXJyKQoK</text>
+      <register name="9" type="4">
+        <text>The repository for this is currently not public; please ask at the contact below for
+access.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>OUT_SONGS</last-search>
+      <last-search>there is more than one</last-search>
       <last-offset />
-      <last-pattern>OUT_SONGS</last-pattern>
+      <last-pattern>there is more than one</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -447,7 +457,6 @@ itself.</text>
     </search>
     <history>
       <history-search>
-        <entry>fallback</entry>
         <entry encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</entry>
         <entry encoding="base64">XDx3cml0ZV90b19rc2hcPg==</entry>
         <entry>preview</entry>
@@ -467,9 +476,9 @@ itself.</text>
         <entry>config</entry>
         <entry>&quot;</entry>
         <entry>OUT_SONGS</entry>
+        <entry>there is more than one</entry>
       </history-search>
       <history-cmd>
-        <entry>ww</entry>
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5zL0tzaG9vdEVmZmVjdC9Tb3VuZEVmZmVjdA==</entry>
         <entry encoding="base64">JzwsJz5zL2Nscy9Tb3VuZEVmZmVjdC8=</entry>
@@ -488,6 +497,7 @@ itself.</text>
         <entry>wq</entry>
         <entry>%s/debug/debug()/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -535,6 +545,9 @@ itself.</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
