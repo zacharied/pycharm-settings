@@ -36,12 +36,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="105" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1569813614818">
-        <mark key="'" line="12" column="7" />
-        <mark key="[" line="1209" column="50" />
-        <mark key="]" line="1209" column="58" />
-        <mark key="^" line="1209" column="58" />
-        <mark key="." line="1209" column="58" />
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1571088936230">
+        <mark key="'" line="1214" column="13" />
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="34" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
         <mark key="[" line="8" column="0" />
@@ -205,9 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1417" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1425" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1436" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1444" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1452" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1221" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
@@ -305,10 +302,13 @@
       <jump line="80" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
       <jump line="29" column="42" filename="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" />
       <jump line="37" column="4" filename="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" />
+      <jump line="461" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1214" column="13" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>8</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -331,10 +331,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>there is more than one</text>
+        <text encoding="base64">XDxLU0hfREVGQVVMVF9TTEFNX1ZPTFw+</text>
       </register>
       <register name="0" type="4">
         <text>config['Directories']['game_source_dir'])</text>
@@ -2401,9 +2401,9 @@
       </register>
     </registers>
     <search>
-      <last-search>there is more than one</last-search>
+      <last-search encoding="base64">XDxLU0hfREVGQVVMVF9TTEFNX1ZPTFw+</last-search>
       <last-offset />
-      <last-pattern>there is more than one</last-pattern>
+      <last-pattern encoding="base64">XDxLU0hfREVGQVVMVF9TTEFNX1ZPTFw+</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2411,8 +2411,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZhdWx0X2VmZmVjdFw+</entry>
-        <entry encoding="base64">XDx3cml0ZV90b19rc2hcPg==</entry>
         <entry>preview</entry>
         <entry>floor</entry>
         <entry>starlight</entry>
@@ -2431,6 +2429,8 @@
         <entry>&quot;</entry>
         <entry>OUT_SONGS</entry>
         <entry>there is more than one</entry>
+        <entry>WOBBLE</entry>
+        <entry encoding="base64">XDxLU0hfREVGQVVMVF9TTEFNX1ZPTFw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
