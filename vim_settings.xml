@@ -36,12 +36,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="105" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1571088936230">
-        <mark key="'" line="1214" column="13" />
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="34" column="29" />
-        <mark key="^" line="34" column="29" />
-        <mark key="." line="34" column="29" />
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1572287122748">
+        <mark key="'" line="361" column="31" />
+        <mark key="[" line="384" column="0" />
+        <mark key="]" line="384" column="0" />
+        <mark key="^" line="384" column="0" />
+        <mark key="." line="384" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
         <mark key="[" line="8" column="0" />
@@ -205,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1444" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
-      <jump line="1452" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1221" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1213" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
       <jump line="1205" column="14" filename="$USER_HOME$/Documents/Converter/exceptions.txt" />
@@ -305,6 +303,8 @@
       <jump line="461" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1214" column="13" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="414" column="46" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="361" column="31" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -334,7 +334,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxLU0hfREVGQVVMVF9TTEFNX1ZPTFw+</text>
+        <text>updatePeriod</text>
       </register>
       <register name="0" type="4">
         <text>config['Directories']['game_source_dir'])</text>
@@ -2401,9 +2401,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxLU0hfREVGQVVMVF9TTEFNX1ZPTFw+</last-search>
+      <last-search>updatePeriod</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxLU0hfREVGQVVMVF9TTEFNX1ZPTFw+</last-pattern>
+      <last-pattern>updatePeriod</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2411,7 +2411,6 @@
     </search>
     <history>
       <history-search>
-        <entry>preview</entry>
         <entry>floor</entry>
         <entry>starlight</entry>
         <entry>no audio file found</entry>
@@ -2431,6 +2430,7 @@
         <entry>there is more than one</entry>
         <entry>WOBBLE</entry>
         <entry encoding="base64">XDxLU0hfREVGQVVMVF9TTEFNX1ZPTFw+</entry>
+        <entry>updatePeriod</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
