@@ -74,7 +74,7 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572290557436">
+      <file name="/Dummy.txt" timestamp="1572291343343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -106,11 +106,11 @@
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1572289078888">
+      <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1572291341384">
         <mark key="'" line="60" column="46" />
-        <mark key="[" line="54" column="118" />
-        <mark key="]" line="55" column="14" />
-        <mark key="." line="55" column="14" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="^" line="55" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/README_inc.md" timestamp="1567986257567">
@@ -301,8 +301,8 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIFNjcmlwdCBiZWdpbnMgaGVyZS4gRG8gbm90IGVkaXQgYW55dGhpbmcgcGFzdCB0aGlzIGxpbmUuICMKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgojIFRPRE8gRG9jdW1lbnRhdGlvbiBoZXJlLgo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -334,7 +334,7 @@
         <text encoding="base64">KlRPRE86IEV4dHJhY3QgRlggY2hpcCBzb3VuZHMgaW4gZXh0cmFjdG9yLioK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V0FWLgo=</text>
+        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIFNjcmlwdCBiZWdpbnMgaGVyZS4gRG8gbm90IGVkaXQgYW55dGhpbmcgcGFzdCB0aGlzIGxpbmUuICMKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgojIFRPRE8gRG9jdW1lbnRhdGlvbiBoZXJlLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -419,24 +419,24 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">V0FWLgo=</text>
+      </register>
+      <register name="3" type="4">
         <text>For audio files, the 
 `extractor.py` script in this repo will extract the data in the correct naming convention.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAid2VpcmQiIHNvbmdzIGhhdmUgYSBsYWJlbCBmaWVsZCBsaWtlICIxbjAwMDEiIG9yIHdoYXRldmVyLgo=</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2VpcmQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAid2VpcmQiIHNvbmdzIGhhdmUgYSBsYWJlbCBmaWVsZCBsaWtlICIxbjAwMDEiIG9yIHdoYXRldmVyLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2VpcmQgPSAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2386,10 +2386,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3V0cHV0X2RpciA9IGNvbmZpZ1snRGlyZWN0b3JpZXMnXVsnY29tYmluZWRfc29uZ19wcmV2aWV3X2F1ZGlvX2RpciddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">amFja2V0Xwo=</text>
+        <text encoding="base64">b3V0cHV0X2RpciA9IGNvbmZpZ1snRGlyZWN0b3JpZXMnXVsnY29tYmluZWRfc29uZ19wcmV2aWV3X2F1ZGlvX2RpciddCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
