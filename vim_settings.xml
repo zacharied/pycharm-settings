@@ -6,20 +6,21 @@
       <file name="vim_settings.xml" timestamp="1567789006078">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/README_inc_private.txt" timestamp="1569877786919">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="117" />
-        <mark key="." line="5" column="26" />
+      <file name="$USER_HOME$/Documents/Converter/config.ini" timestamp="1572289542517">
+        <mark key="'" line="4" column="24" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1570309693489">
+      <file name="/Python Console" timestamp="1577596616227">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1569813290894">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/README_inc.md" timestamp="1567986257567">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1569813333812">
         <mark key="[" line="0" column="0" />
@@ -29,82 +30,13 @@
       <file name="/a.dummy" timestamp="1568496181550">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/extractor.py" timestamp="1569534497373">
-        <mark key="'" line="86" column="67" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="44" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="105" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1572287724213">
-        <mark key="'" line="1033" column="55" />
-        <mark key="[" line="374" column="0" />
-        <mark key="]" line="374" column="0" />
-        <mark key="^" line="648" column="1" />
-        <mark key="." line="374" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="11" column="23" />
-        <mark key="^" line="13" column="79" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/header.txt" timestamp="1567986021392">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/prepare_audio.py" timestamp="1569630270718">
-        <mark key="'" line="21" column="25" />
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="1" column="37" />
-        <mark key="." line="1" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/vox2ksh/src/prepare_audio.py" timestamp="1569852185059">
-        <mark key="[" line="25" column="48" />
-        <mark key="]" line="25" column="48" />
-        <mark key="." line="25" column="48" />
-      </file>
-      <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1570311793019">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="46" column="11" />
-        <mark key="." line="46" column="11" />
-        <mark key="^" line="48" column="3" />
-      </file>
-      <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1572291343343">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="44" />
       </file>
       <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/src/prepare_audio.py" timestamp="1572288004905">
-        <mark key="'" line="6" column="12" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="28" column="71" />
-        <mark key="." line="45" column="40" />
-        <mark key="^" line="45" column="40" />
-      </file>
-      <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1570311542474">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/Code/vox2ksh/src/extractor.py" timestamp="1569852946472">
-        <mark key="'" line="31" column="1" />
-        <mark key="[" line="72" column="76" />
-        <mark key="]" line="72" column="82" />
-        <mark key="^" line="72" column="82" />
-        <mark key="." line="72" column="82" />
-      </file>
-      <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1572291341384">
         <mark key="'" line="60" column="46" />
@@ -113,20 +45,112 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="55" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/README_inc.md" timestamp="1567986257567">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/README.md" timestamp="1572290529857">
+        <mark key="[" line="6" column="90" />
+        <mark key="]" line="8" column="62" />
+        <mark key="." line="8" column="62" />
+        <mark key="^" line="8" column="62" />
       </file>
-      <file name="/" timestamp="1564864664853">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/prepare_audio.py" timestamp="1569630270718">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/test.py" timestamp="1570310986165">
         <mark key="[" line="108" column="16" />
         <mark key="]" line="108" column="38" />
         <mark key="." line="108" column="38" />
         <mark key="^" line="108" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/README_inc_private.txt" timestamp="1569877786919">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="117" />
+        <mark key="." line="5" column="26" />
+      </file>
+      <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/config.sample.ini" timestamp="1569853006952">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1570309693489">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="13" column="79" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" timestamp="1565649191146">
+        <mark key="'" line="44739" column="5" />
+        <mark key="[" line="29531" column="9" />
+        <mark key="]" line="29531" column="8" />
+        <mark key="." line="29531" column="8" />
+        <mark key="^" line="29531" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/extractor.py" timestamp="1569534497373">
+        <mark key="'" line="86" column="67" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="44" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="105" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1577596715655">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/src/extractor.py" timestamp="1569852946472">
+        <mark key="'" line="31" column="1" />
+        <mark key="[" line="72" column="76" />
+        <mark key="]" line="72" column="82" />
+        <mark key="^" line="72" column="82" />
+        <mark key="." line="72" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567301285213">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="408" column="7" />
+        <mark key="]" line="408" column="8" />
+        <mark key="." line="408" column="8" />
+        <mark key="^" line="408" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/vox2ksh/src/prepare_audio.py" timestamp="1569852185059">
+        <mark key="[" line="25" column="48" />
+        <mark key="]" line="25" column="48" />
+        <mark key="." line="25" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/.git/info/exclude" timestamp="1569540816407">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/vox2ksh/src/converter.py" timestamp="1577598012341">
+        <mark key="'" line="361" column="31" />
+        <mark key="[" line="365" column="76" />
+        <mark key="]" line="365" column="76" />
+        <mark key="." line="365" column="76" />
+        <mark key="^" line="365" column="76" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1570311793019">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="11" />
+        <mark key="." line="46" column="11" />
+        <mark key="^" line="48" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/TODO" timestamp="1569539941126">
         <mark key="[" line="0" column="0" />
@@ -139,12 +163,37 @@
         <mark key="." line="2" column="72" />
         <mark key="^" line="2" column="72" />
       </file>
+      <file name="/" timestamp="1564864664853">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1570311542474">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" timestamp="1577597801570">
+        <mark key="'" line="7319" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1572287724213">
+        <mark key="'" line="1033" column="55" />
+        <mark key="[" line="374" column="0" />
+        <mark key="]" line="374" column="0" />
+        <mark key="^" line="648" column="1" />
+        <mark key="." line="374" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/config.sample.ini" timestamp="1572290270483">
         <mark key="'" line="3" column="47" />
         <mark key="[" line="18" column="82" />
         <mark key="]" line="18" column="83" />
         <mark key="^" line="18" column="83" />
         <mark key="." line="18" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/prepare_audio.py" timestamp="1572288004905">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="28" column="71" />
+        <mark key="." line="45" column="40" />
+        <mark key="^" line="45" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/.gitignore" timestamp="1569807152299">
         <mark key="'" line="4" column="3" />
@@ -153,151 +202,112 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/vox2ksh/config.sample.ini" timestamp="1569853006952">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/out/chouchoukousoku_kameria/exhaust.ksh" timestamp="1565649191146">
-        <mark key="'" line="44739" column="5" />
-        <mark key="[" line="29531" column="9" />
-        <mark key="]" line="29531" column="8" />
-        <mark key="." line="29531" column="8" />
-        <mark key="^" line="29531" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567301285213">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="408" column="7" />
-        <mark key="]" line="408" column="8" />
-        <mark key="." line="408" column="8" />
-        <mark key="^" line="408" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/.git/info/exclude" timestamp="1569540816407">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/README.md" timestamp="1572290529857">
-        <mark key="[" line="6" column="90" />
-        <mark key="]" line="8" column="62" />
-        <mark key="." line="8" column="62" />
-        <mark key="^" line="8" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/config.ini" timestamp="1572289542517">
-        <mark key="'" line="4" column="24" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="42" />
-        <mark key="." line="5" column="41" />
-        <mark key="^" line="5" column="41" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="987" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1800" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="300" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1798" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1815" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1806" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1796" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="64" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1539" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1814" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="935" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="937" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1588" column="47" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1739" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1638" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1656" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1672" column="23" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1701" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1718" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1721" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1639" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1816" column="37" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="46" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1604" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="4" column="3" filename="$USER_HOME$/Documents/Converter/.gitignore" />
-      <jump line="45" column="80" filename="$USER_HOME$/Documents/Converter/src/prepare_audio.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/Converter/src/prepare_audio.py" />
-      <jump line="4" column="24" filename="$USER_HOME$/Documents/Converter/config.ini" />
-      <jump line="74" column="5" filename="$USER_HOME$/Documents/Converter/src/prepare_audio.py" />
-      <jump line="6" column="12" filename="$USER_HOME$/Documents/Converter/src/prepare_audio.py" />
-      <jump line="1739" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1740" column="10" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="12" column="7" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1" column="47" filename="$USER_HOME$/Documents/Converter/config.sample.ini" />
-      <jump line="20" column="0" filename="$USER_HOME$/Code/vox2ksh/src/extractor.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Code/vox2ksh/src/extractor.py" />
-      <jump line="98" column="41" filename="$USER_HOME$/Code/vox2ksh/src/extractor.py" />
-      <jump line="31" column="1" filename="$USER_HOME$/Code/vox2ksh/src/extractor.py" />
-      <jump line="77" column="19" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
-      <jump line="78" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
-      <jump line="6" column="6" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
-      <jump line="5" column="111" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
-      <jump line="80" column="0" filename="$USER_HOME$/Documents/Converter/README_inc_private.txt" />
-      <jump line="29" column="42" filename="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" />
-      <jump line="37" column="4" filename="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" />
-      <jump line="461" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1214" column="13" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="414" column="46" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="361" column="31" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="383" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="657" column="25" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1528" column="9" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="193" column="20" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1295" column="53" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1527" column="5" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="178" column="23" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="192" column="26" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="205" column="26" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="216" column="4" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="674" column="4" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="744" column="27" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="745" column="27" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="769" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1033" column="55" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="27" column="16" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="83" column="50" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="87" column="46" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="109" column="46" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="123" column="40" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="70" column="4" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="71" column="32" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="72" column="64" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="57" column="8" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="134" column="30" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="104" column="29" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="55" column="15" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="51" column="15" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="52" column="12" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="82" column="54" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="96" column="48" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="113" column="8" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="115" column="9" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="116" column="26" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="117" column="39" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="118" column="16" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="46" column="12" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="56" column="50" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="60" column="46" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="13075" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13076" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13077" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13078" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13079" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13080" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13081" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13082" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13083" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13084" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13085" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13086" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13087" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13088" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13089" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13090" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13091" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13092" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13093" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13094" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13095" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13096" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13097" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13098" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13099" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13100" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13101" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13102" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13103" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13104" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13105" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13106" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13107" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13108" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13109" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13110" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13111" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13112" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13113" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13114" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13115" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13116" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13117" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13118" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13590" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13591" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13592" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13593" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13594" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13595" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13596" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13597" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13598" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13599" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13600" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13601" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13602" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13603" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13604" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13605" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13606" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13607" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13608" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13609" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13610" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13611" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13612" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13613" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13615" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13616" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13617" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13618" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13619" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13620" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13621" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13622" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="13623" column="5" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="8956" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="17955" column="44" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="8902" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="9941" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="9942" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="10042" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="10043" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="16039" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="16090" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="1173" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="1692" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="4493" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="4546" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="4919" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="6549" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="7344" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="1823" column="36" filename="$USER_HOME$/PycharmProjects/vox2ksh/src/converter.py" />
+      <jump line="362" column="16" filename="$USER_HOME$/PycharmProjects/vox2ksh/src/converter.py" />
+      <jump line="365" column="31" filename="$USER_HOME$/PycharmProjects/vox2ksh/src/converter.py" />
+      <jump line="361" column="31" filename="$USER_HOME$/PycharmProjects/vox2ksh/src/converter.py" />
+      <jump line="17945" column="9" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="6921" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
+      <jump line="7319" column="0" filename="$USER_HOME$/PycharmProjects/vox2ksh/out/juujuu_yakiniku_kameria/chart_exh.ksh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIFNjcmlwdCBiZWdpbnMgaGVyZS4gRG8gbm90IGVkaXQgYW55dGhpbmcgcGFzdCB0aGlzIGxpbmUuICMKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgojIFRPRE8gRG9jdW1lbnRhdGlvbiBoZXJlLgo=</text>
+      <register name="&quot;" type="4">
+        <text>4 / float(splitted[3]))}&quot;</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -320,16 +330,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4 / float(splitted[3]))}&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>data_dir</text>
+        <text>fx-.=0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KlRPRE86IEV4dHJhY3QgRlggY2hpcCBzb3VuZHMgaW4gZXh0cmFjdG9yLioK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYubWVhc3VyZSA9PSBvdGhlci5tZWFzdXJlIGFuZCBzZWxmLmJlYXQgPT0gb3RoZXIuYmVhdCBhbmQgc2VsZi5vZmZzZXQgPj0gb3RoZXIub2Zmc2V0KSBcCiAgICAgICAgICAgIG9yIChzZWxmLm1lYXN1cmUgPT0gb3RoZXIubWVhc3VyZSBhbmQgc2VsZi5iZWF0ID49IG90aGVyLmJlYXQpIFwKICAgICAgICAgICAgb3IgKHNlbGYubWVhc3VyZSA+PSBvdGhlci5tZWFzdXJlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIFNjcmlwdCBiZWdpbnMgaGVyZS4gRG8gbm90IGVkaXQgYW55dGhpbmcgcGFzdCB0aGlzIGxpbmUuICMKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgojIFRPRE8gRG9jdW1lbnRhdGlvbiBoZXJlLgo=</text>
+        <text encoding="base64">CiAgICBkZWYgX19hZGRfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIHNlbGYuYWRkKAoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -415,23 +425,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0FWLgo=</text>
+        <text encoding="base64">CiAgICBkZWYgX19hZGRfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIHNlbGYuYWRkKAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>For audio files, the 
-`extractor.py` script in this repo will extract the data in the correct naming convention.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAogICAgZGVmIF9faW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2FkZF9fKHNlbGYsIG90aGVyKToKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAid2VpcmQiIHNvbmdzIGhhdmUgYSBsYWJlbCBmaWVsZCBsaWtlICIxbjAwMDEiIG9yIHdoYXRldmVyLgo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2FkCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2VpcmQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJlYXQgPSBiICsgMQoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2381,49 +2390,48 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3cgPSBUaW1pbmcobWVhc3VyZSwgYmVhdCwgb2Zmc2V0KQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3V0cHV0X2RpciA9IGNvbmZpZ1snRGlyZWN0b3JpZXMnXVsnY29tYmluZWRfc29uZ19wcmV2aWV3X2F1ZGlvX2RpciddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm93ID0gVGltaW5nKG1lYXN1cmUsIDEsIDApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>data_dir</last-search>
+      <last-search>fx-.=0</last-search>
       <last-offset />
-      <last-pattern>data_dir</last-pattern>
-      <last-replace />
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>fx-.=0</last-pattern>
+      <last-replace encoding="base64">Pg==</last-replace>
+      <last-substitute encoding="base64">Pj0=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>()()</entry>
-        <entry>Level</entry>
-        <entry>copyfile</entry>
-        <entry>lock</entry>
-        <entry>config</entry>
-        <entry>&quot;</entry>
-        <entry>OUT_SONGS</entry>
-        <entry>there is more than one</entry>
-        <entry>WOBBLE</entry>
-        <entry encoding="base64">XDxLU0hfREVGQVVMVF9TTEFNX1ZPTFw+</entry>
-        <entry>updatePeriod</entry>
-        <entry>tilt</entry>
-        <entry>zero</entry>
-        <entry>none</entry>
         <entry>ZERO</entry>
         <entry>TILT</entry>
         <entry encoding="base64">XDxkYXRhX2Rpclw+</entry>
         <entry encoding="base64">XDxkYl9zb3VyY2VfZGlyXD4=</entry>
         <entry encoding="base64">XDx3ZWlyZFw+</entry>
         <entry>data_dir</entry>
+        <entry encoding="base64">XDxsYXNlcl9yYW5nZVw+</entry>
+        <entry>time_iter</entry>
+        <entry>add</entry>
+        <entry>Timing</entry>
+        <entry encoding="base64">Pj0=</entry>
+        <entry>fx-</entry>
+        <entry>#44</entry>
+        <entry>1</entry>
+        <entry>^1</entry>
+        <entry>01</entry>
+        <entry>#45</entry>
+        <entry>fx-.=1</entry>
+        <entry>updatePeriod</entry>
+        <entry>fx-.=0</entry>
       </history-search>
       <history-cmd>
-        <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5zL0tzaG9vdEVmZmVjdC9Tb3VuZEVmZmVjdA==</entry>
         <entry encoding="base64">JzwsJz5zL2Nscy9Tb3VuZEVmZmVjdC8=</entry>
         <entry encoding="base64">JzwsJz5zL3NwbGl0dGVkL3BhcmFtcy9n</entry>
@@ -2442,6 +2450,7 @@
         <entry>%s/debug/debug()/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">JzwsJz5zLz49Lz4vZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
