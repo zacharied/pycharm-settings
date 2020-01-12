@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1567789006078">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/README_inc_private.txt" timestamp="1569877786919">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="5" column="25" />
@@ -18,16 +15,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1569813290894">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1569813333812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1568496181550">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/extractor.py" timestamp="1569534497373">
         <mark key="'" line="86" column="67" />
@@ -36,21 +27,19 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="105" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1572287724213">
-        <mark key="'" line="1033" column="55" />
-        <mark key="[" line="374" column="0" />
-        <mark key="]" line="374" column="0" />
-        <mark key="^" line="648" column="1" />
-        <mark key="." line="374" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1578862394803">
+        <mark key="'" line="300" column="24" />
+        <mark key="j" line="684" column="38" />
+        <mark key="[" line="1227" column="6" />
+        <mark key="]" line="1227" column="15" />
+        <mark key="." line="1227" column="15" />
+        <mark key="^" line="1227" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="11" column="23" />
         <mark key="^" line="13" column="79" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/header.txt" timestamp="1567986021392">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/prepare_audio.py" timestamp="1569630270718">
         <mark key="'" line="21" column="25" />
@@ -70,9 +59,6 @@
         <mark key="]" line="46" column="11" />
         <mark key="." line="46" column="11" />
         <mark key="^" line="48" column="3" />
-      </file>
-      <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1572291343343">
         <mark key="[" line="0" column="0" />
@@ -103,9 +89,6 @@
         <mark key="^" line="72" column="82" />
         <mark key="." line="72" column="82" />
       </file>
-      <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1572291341384">
         <mark key="'" line="60" column="46" />
         <mark key="[" line="17" column="0" />
@@ -118,9 +101,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="/" timestamp="1564864664853">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/test.py" timestamp="1570310986165">
         <mark key="[" line="108" column="16" />
@@ -194,12 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="987" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1800" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="300" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1798" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1815" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1806" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1796" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="64" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
       <jump line="1539" column="12" filename="$USER_HOME$/Documents/Converter/converter.py" />
@@ -294,10 +268,16 @@
       <jump line="56" column="50" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
       <jump line="60" column="46" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
       <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="1315" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="270" column="25" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="281" column="4" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="298" column="36" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="404" column="38" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="300" column="24" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIFNjcmlwdCBiZWdpbnMgaGVyZS4gRG8gbm90IGVkaXQgYW55dGhpbmcgcGFzdCB0aGlzIGxpbmUuICMKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgojIFRPRE8gRG9jdW1lbnRhdGlvbiBoZXJlLgo=</text>
+      <register name="&quot;" type="4">
+        <text>ackground.from_vox_id(int(self.get_metadata('bg_no')))}</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -320,16 +300,33 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ackground.from_vox_id(int(self.get_metadata('bg_no')))}</text>
       </register>
       <register name="/" type="4">
-        <text>data_dir</text>
+        <text>TAPESTOP</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">KlRPRE86IEV4dHJhY3QgRlggY2hpcCBzb3VuZHMgaW4gZXh0cmFjdG9yLioK</text>
+      <register name="0" type="4">
+        <text>Background.from_vox_id(int(self.get_metadata('bg_no')))</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIFNjcmlwdCBiZWdpbnMgaGVyZS4gRG8gbm90IGVkaXQgYW55dGhpbmcgcGFzdCB0aGlzIGxpbmUuICMKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgojIFRPRE8gRG9jdW1lbnRhdGlvbiBoZXJlLgo=</text>
+      <register name="1" type="4">
+        <text>p
+
+        header = f'''// Source: {self.source_file_name}
+// Created by vox2ksh-{os.popen('git rev-parse HEAD').read()[:8].strip()}.
+title={self.get_metadata('title_name')}
+artist={self.get_metadata('artist_name')}
+effect={self.get_metadata('effected_by', True)}
+sorttitle={self.get_metadata('title_yomigana')}
+sortartist={self.get_metadata('artist_yomigana')}
+jacket={jacket_basename}
+illustrator={self.get_metadata('illustrator', True)}
+difficulty={self.difficulty.to_ksh_name()}
+level={self.get_metadata('difnum', True)}
+t={self.bpm_string()}
+m={track_basename}
+mvol={self.get_metadata('volume')}
+o=0
+bg={Background.from_vo</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -415,23 +412,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0FWLgo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>For audio files, the 
-`extractor.py` script in this repo will extract the data in the correct naming convention.</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlbGlmIHZveF9pZCA9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIgR2V0IHRoZSBLU0ggbmFtZSBvZiB0aGUgYmFja2dyb3VuZCBjb3JyZXNwb25kaW5nIHRvIHRoZSBJRC4gIiIiCiAgICAgICAgaWYgdm94X2lkID09IDA6Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gdm94X2lkOiBjCiAgICAgICAgOnJldHVybjogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAid2VpcmQiIHNvbmdzIGhhdmUgYSBsYWJlbCBmaWVsZCBsaWtlICIxbjAwMDEiIG9yIHdoYXRldmVyLgo=</text>
+        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIFNjcmlwdCBiZWdpbnMgaGVyZS4gRG8gbm90IGVkaXQgYW55dGhpbmcgcGFzdCB0aGlzIGxpbmUuICMKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgojIFRPRE8gRG9jdW1lbnRhdGlvbiBoZXJlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2VpcmQgPSAK</text>
+        <text encoding="base64">V0FWLgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2380,20 +2376,21 @@
           <key char="103" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>For audio files, the 
+`extractor.py` script in this repo will extract the data in the correct naming convention.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3V0cHV0X2RpciA9IGNvbmZpZ1snRGlyZWN0b3JpZXMnXVsnY29tYmluZWRfc29uZ19wcmV2aWV3X2F1ZGlvX2RpciddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>data_dir</last-search>
+      <last-search>TAPESTOP</last-search>
       <last-offset />
-      <last-pattern>data_dir</last-pattern>
+      <last-pattern>TAPESTOP</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2401,7 +2398,6 @@
     </search>
     <history>
       <history-search>
-        <entry>()()</entry>
         <entry>Level</entry>
         <entry>copyfile</entry>
         <entry>lock</entry>
@@ -2421,16 +2417,15 @@
         <entry encoding="base64">XDxkYl9zb3VyY2VfZGlyXD4=</entry>
         <entry encoding="base64">XDx3ZWlyZFw+</entry>
         <entry>data_dir</entry>
+        <entry>TAPESTOP</entry>
       </history-search>
       <history-cmd>
-        <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5zL0tzaG9vdEVmZmVjdC9Tb3VuZEVmZmVjdA==</entry>
         <entry encoding="base64">JzwsJz5zL2Nscy9Tb3VuZEVmZmVjdC8=</entry>
         <entry encoding="base64">JzwsJz5zL3NwbGl0dGVkL3BhcmFtcy9n</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYvY2xzLw==</entry>
         <entry>ew</entry>
         <entry>W</entry>
-        <entry>set relativenumber</entry>
         <entry>2wq</entry>
         <entry>set number</entry>
         <entry encoding="base64">JzwsJz5zL0FVRElPX0VYVEVOU0lPTi9GWF9DSElQX1NPVU5EX0VYVEVOU0lPTi9n</entry>
@@ -2442,6 +2437,8 @@
         <entry>%s/debug/debug()/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>set relati</entry>
+        <entry>set relativenumber</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
