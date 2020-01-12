@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1567789006078">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/README_inc_private.txt" timestamp="1569877786919">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="5" column="25" />
@@ -18,16 +15,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1569813290894">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1569813333812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1568496181550">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/extractor.py" timestamp="1569534497373">
         <mark key="'" line="86" column="67" />
@@ -36,21 +27,18 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="105" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1578864268671">
-        <mark key="'" line="1212" column="47" />
-        <mark key="[" line="1227" column="6" />
-        <mark key="]" line="1227" column="15" />
-        <mark key="." line="1227" column="15" />
-        <mark key="^" line="1227" column="15" />
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1578871994879">
+        <mark key="'" line="262" column="21" />
+        <mark key="[" line="357" column="25" />
+        <mark key="]" line="361" column="24" />
+        <mark key="." line="361" column="24" />
+        <mark key="^" line="361" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="11" column="23" />
         <mark key="^" line="13" column="79" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Converter/header.txt" timestamp="1567986021392">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/prepare_audio.py" timestamp="1569630270718">
         <mark key="'" line="21" column="25" />
@@ -72,11 +60,8 @@
         <mark key="." line="46" column="11" />
         <mark key="^" line="48" column="3" />
       </file>
-      <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
+      <file name="/Dummy.txt" timestamp="1578870352401">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1578864638094">
-        <mark key="[" line="4" column="97" />
         <mark key="]" line="4" column="96" />
         <mark key="." line="4" column="96" />
         <mark key="^" line="4" column="96" />
@@ -105,9 +90,6 @@
         <mark key="^" line="72" column="82" />
         <mark key="." line="72" column="82" />
       </file>
-      <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1572291341384">
         <mark key="'" line="60" column="46" />
         <mark key="[" line="17" column="0" />
@@ -120,9 +102,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="/" timestamp="1564864664853">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/test.py" timestamp="1570310986165">
         <mark key="[" line="108" column="16" />
@@ -168,8 +147,15 @@
         <mark key="." line="29531" column="8" />
         <mark key="^" line="29531" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/ksh_effects.py" timestamp="1578864783159">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Converter/out/nanairo_otetsu/chart_inf.ksh" timestamp="1578865525894">
+        <mark key="'" line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Converter/src/ksh_effects.py" timestamp="1578872664319">
+        <mark key="'" line="21" column="22" />
+        <mark key="[" line="113" column="57" />
+        <mark key="]" line="113" column="68" />
+        <mark key="^" line="113" column="68" />
+        <mark key="." line="113" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567301285213">
         <mark key="'" line="134" column="0" />
@@ -199,25 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1814" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="935" column="17" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="937" column="29" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1588" column="47" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1739" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1638" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1656" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1672" column="23" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1701" column="15" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1718" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1721" column="19" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1639" column="8" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1816" column="37" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="46" column="4" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="1604" column="43" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/Converter/converter.py" />
-      <jump line="4" column="3" filename="$USER_HOME$/Documents/Converter/.gitignore" />
       <jump line="45" column="80" filename="$USER_HOME$/Documents/Converter/src/prepare_audio.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Converter/src/prepare_audio.py" />
       <jump line="4" column="24" filename="$USER_HOME$/Documents/Converter/config.ini" />
@@ -246,7 +213,6 @@
       <jump line="414" column="46" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="361" column="31" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="383" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="657" column="25" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1528" column="9" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="193" column="20" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
@@ -299,10 +265,30 @@
       <jump line="437" column="53" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="438" column="12" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1212" column="47" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="17" column="8" filename="$USER_HOME$/Documents/Converter/out/nanairo_otetsu/chart_inf.ksh" />
+      <jump line="354" column="24" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="351" column="17" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="809" column="31" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="989" column="60" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1075" column="64" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1077" column="64" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1087" column="57" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1089" column="57" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="341" column="17" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="285" column="6" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="23" column="20" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="291" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1635" column="24" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="82" column="35" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="87" column="36" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="21" column="22" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="262" column="21" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dwo=</text>
+      <register name="&quot;" type="4">
+        <text>attack_time</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -325,16 +311,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>https://github.com/Kuenaimaku/Lasergame/tree/master/backgrounds</text>
+        <text>attack_time</text>
       </register>
       <register name="/" type="4">
-        <text>HEAD</text>
+        <text>loFreq</text>
       </register>
-      <register name="0" type="4">
-        <text>Background.from_vox_id(int(self.get_metadata('bg_no')))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtc1snYXR0YWNrVGltZSddID0gc2VsZi5zdWZmaXgoc3RyKGludChhdHRhY2tfdGltZSkpLCAnbXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -419,40 +405,23 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>p
-
-        header = f'''// Source: {self.source_file_name}
-// Created by vox2ksh-{os.popen('git rev-parse HEAD').read()[:8].strip()}.
-title={self.get_metadata('title_name')}
-artist={self.get_metadata('artist_name')}
-effect={self.get_metadata('effected_by', True)}
-sorttitle={self.get_metadata('title_yomigana')}
-sortartist={self.get_metadata('artist_yomigana')}
-jacket={jacket_basename}
-illustrator={self.get_metadata('illustrator', True)}
-difficulty={self.difficulty.to_ksh_name()}
-level={self.get_metadata('difnum', True)}
-t={self.bpm_string()}
-m={track_basename}
-mvol={self.get_metadata('volume')}
-o=0
-bg={Background.from_vo</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtc1snYXR0YWNrVGltZSddID0gc2VsZi5zdWZmaXgoc3RyKGludChhdHRhY2tfdGltZSkpLCAnbXMnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtc1snbWl4J10gPSBzZWxmLnBlcmNlbnQobWl4LCBpc19kZWNpbWFsPUZhbHNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHZveF9pZCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgR2V0IHRoZSBLU0ggbmFtZSBvZiB0aGUgYmFja2dyb3VuZCBjb3JyZXNwb25kaW5nIHRvIHRoZSBJRC4gIiIiCiAgICAgICAgaWYgdm94X2lkID09IDA6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0eXBlKHdhdmVsZW5ndGgpIGlzIHR1cGxlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gdm94X2lkOiBjCiAgICAgICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIFNjcmlwdCBiZWdpbnMgaGVyZS4gRG8gbm90IGVkaXQgYW55dGhpbmcgcGFzdCB0aGlzIGxpbmUuICMKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgojIFRPRE8gRG9jdW1lbnRhdGlvbiBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtc1snbWl4J10gPSBzZWxmLnBlcmNlbnQobWl4LCBpc19kZWNpbWFsPUZhbHNlKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2402,20 +2371,19 @@ bg={Background.from_vo</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">V0FWLgo=</text>
+        <text encoding="base64">ICAgICAgICB3YXZlbGVuZ3RoID0gaW50KGZsb2F0KHdhdmVsZW5ndGgpICogNCkK</text>
       </register>
-      <register name="9" type="4">
-        <text>For audio files, the 
-`extractor.py` script in this repo will extract the data in the correct naming convention.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB3YXZlbGVuZ3RoID0gaW50KGZsb2F0KHdhdmVsZW5ndGgpICogNCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HEAD</last-search>
+      <last-search>loFreq</last-search>
       <last-offset />
-      <last-pattern>HEAD</last-pattern>
+      <last-pattern>loFreq</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2423,9 +2391,6 @@ bg={Background.from_vo</text>
     </search>
     <history>
       <history-search>
-        <entry>lock</entry>
-        <entry>config</entry>
-        <entry>&quot;</entry>
         <entry>OUT_SONGS</entry>
         <entry>there is more than one</entry>
         <entry>WOBBLE</entry>
@@ -2443,9 +2408,11 @@ bg={Background.from_vo</text>
         <entry>TAPESTOP</entry>
         <entry>d</entry>
         <entry>HEAD</entry>
+        <entry encoding="base64">XDxLc2hFZmZlY3REZWZpbmVcPg==</entry>
+        <entry>to_define_line</entry>
+        <entry>loFreq</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0tzaG9vdEVmZmVjdC9Tb3VuZEVmZmVjdA==</entry>
         <entry encoding="base64">JzwsJz5zL2Nscy9Tb3VuZEVmZmVjdC8=</entry>
         <entry encoding="base64">JzwsJz5zL3NwbGl0dGVkL3BhcmFtcy9n</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYvY2xzLw==</entry>
@@ -2454,7 +2421,6 @@ bg={Background.from_vo</text>
         <entry>2wq</entry>
         <entry>set number</entry>
         <entry encoding="base64">JzwsJz5zL0FVRElPX0VYVEVOU0lPTi9GWF9DSElQX1NPVU5EX0VYVEVOU0lPTi9n</entry>
-        <entry>we</entry>
         <entry>qw</entry>
         <entry>wj</entry>
         <entry encoding="base64">JzwsJz5zL3ByZXZpZXdfZmlsZS9qYWNrZXRfZmlsZS9n</entry>
@@ -2464,6 +2430,8 @@ bg={Background.from_vo</text>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set relati</entry>
         <entry>set relativenumber</entry>
+        <entry>ws</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
