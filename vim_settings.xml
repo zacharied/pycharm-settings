@@ -169,8 +169,8 @@
       <file name="$USER_HOME$/Documents/Converter/out/nanairo_otetsu/chart_inf.ksh" timestamp="1578865525894">
         <mark key="'" line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/ksh_effects.py" timestamp="1579055438518">
-        <mark key="'" line="44" column="27" />
+      <file name="$USER_HOME$/Documents/Converter/src/ksh_effects.py" timestamp="1579475662036">
+        <mark key="'" line="92" column="61" />
         <mark key="[" line="182" column="43" />
         <mark key="]" line="182" column="44" />
         <mark key="." line="182" column="44" />
@@ -204,11 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="15" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="51" column="15" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="52" column="12" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="82" column="54" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
       <jump line="96" column="48" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
       <jump line="113" column="8" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
       <jump line="115" column="9" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
@@ -244,7 +239,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
       <jump line="291" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1635" column="24" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="82" column="35" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
       <jump line="21" column="22" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
       <jump line="262" column="21" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
@@ -304,6 +298,12 @@
       <jump line="2495" column="0" filename="$USER_HOME$/Documents/Converter/out/albida_muryoku/chart_inf.ksh" />
       <jump line="345" column="32" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="173" column="0" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="36" column="32" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="50" column="33" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="56" column="34" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="82" column="25" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="68" column="23" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="92" column="61" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -333,7 +333,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>fx-.</text>
+        <text>int</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtc1snbG9GcmVxJ10gPSBzZWxmLnN1ZmZpeChzdHIoZnJlcSksICdIeicpCg==</text>
@@ -2400,9 +2400,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fx-.</last-search>
+      <last-search>int</last-search>
       <last-offset />
-      <last-pattern>fx-.</last-pattern>
+      <last-pattern>int</last-pattern>
       <last-replace>Kind</last-replace>
       <last-substitute>KshEffectOld</last-substitute>
       <last-dir>1</last-dir>
@@ -2418,7 +2418,6 @@
         <entry encoding="base64">XDxLc2hFZmZlY3REZWZpbmVcPg==</entry>
         <entry>to_define_line</entry>
         <entry>loFreq</entry>
-        <entry>int</entry>
         <entry>wavelength</entry>
         <entry>flanger</entry>
         <entry>Flanger</entry>
@@ -2430,6 +2429,7 @@
         <entry>hiCutGain</entry>
         <entry>effect</entry>
         <entry>fx-.</entry>
+        <entry>int</entry>
       </history-search>
       <history-cmd>
         <entry>2wq</entry>
