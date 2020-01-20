@@ -36,7 +36,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="105" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1579480290414">
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1579480423869">
         <mark key="'" line="75" column="46" />
         <mark key="[" line="80" column="72" />
         <mark key="]" line="80" column="73" />
@@ -74,11 +74,11 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1579480328911">
+      <file name="/Dummy.txt" timestamp="1579480449126">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="96" />
-        <mark key="." line="0" column="96" />
-        <mark key="^" line="0" column="96" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
         <mark key="[" line="7" column="17" />
@@ -308,7 +308,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICMgVE9ETyBTYWZlIHRvIGNvbnZlcnQgdG8gaW50Pw==</text>
+        <text>pdate DEBUG</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -331,7 +331,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgVE9ETyBTYWZlIHRvIGNvbnZlcnQgdG8gaW50Pw==</text>
+        <text>pdate DEBUG</text>
       </register>
       <register name="/" type="4">
         <text>fx_load</text>
