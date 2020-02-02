@@ -36,12 +36,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="105" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1579483516331">
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1580608525461">
         <mark key="'" line="157" column="17" />
-        <mark key="[" line="80" column="72" />
-        <mark key="]" line="80" column="73" />
-        <mark key="^" line="80" column="73" />
-        <mark key="." line="80" column="73" />
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="24" />
+        <mark key="^" line="29" column="24" />
+        <mark key="." line="29" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
         <mark key="[" line="8" column="0" />
@@ -308,7 +308,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pdate DEBUG</text>
+        <text>59</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -331,7 +331,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>pdate DEBUG</text>
+        <text>59</text>
       </register>
       <register name="/" type="4">
         <text>Lowpass</text>
