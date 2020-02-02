@@ -74,11 +74,8 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1579480449126">
+      <file name="/Dummy.txt" timestamp="1580612047127">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
         <mark key="[" line="7" column="17" />
@@ -170,12 +167,12 @@
       <file name="$USER_HOME$/Documents/Converter/out/nanairo_otetsu/chart_inf.ksh" timestamp="1578865525894">
         <mark key="'" line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/ksh_effects.py" timestamp="1579483532638">
+      <file name="$USER_HOME$/Documents/Converter/src/ksh_effects.py" timestamp="1580612015080">
         <mark key="'" line="182" column="45" />
-        <mark key="[" line="129" column="47" />
-        <mark key="]" line="129" column="56" />
-        <mark key="." line="129" column="56" />
-        <mark key="^" line="129" column="56" />
+        <mark key="[" line="144" column="78" />
+        <mark key="]" line="145" column="49" />
+        <mark key="." line="145" column="49" />
+        <mark key="^" line="145" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567301285213">
         <mark key="'" line="134" column="0" />
@@ -307,8 +304,8 @@
       <jump line="157" column="17" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>59</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UmV3cml0ZSBlZmZlY3RzIGVuZ2luZQoKVGhpcyB3YXMgZG9uZSB0byBtYWtlIHR5aW5nIGxhc2VyIGVmZmVjdHMgdG8gRlggaG9sZCBlZmZlY3RzIGVhc2llciAtLQp0aGUgZnVuY3Rpb25zIHN1cHBvcnQgdHVwbGVzIGFzIGlucHV0cywgd2hpY2gsIHdoZW4gcHJlc2VudCwgd2lsbCB0dXJuCml0IGludG8gYSBkZWZpbmUgc3VpdGFibGUgZm9yIGEgZmlsdGVyLgo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -340,7 +337,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtc1snbG9GcmVxJ10gPSBzZWxmLnN1ZmZpeChzdHIoZnJlcSksICdIeicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X3N0YWNrKCkpCg==</text>
+        <text encoding="base64">UmV3cml0ZSBlZmZlY3RzIGVuZ2luZQoKVGhpcyB3YXMgZG9uZSB0byBtYWtlIHR5aW5nIGxhc2VyIGVmZmVjdHMgdG8gRlggaG9sZCBlZmZlY3RzIGVhc2llciAtLQp0aGUgZnVuY3Rpb25zIHN1cHBvcnQgdHVwbGVzIGFzIGlucHV0cywgd2hpY2gsIHdoZW4gcHJlc2VudCwgd2lsbCB0dXJuCml0IGludG8gYSBkZWZpbmUgc3VpdGFibGUgZm9yIGEgZmlsdGVyLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -426,13 +423,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXgK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtc1snbWl4J10gPSBzZWxmLnBlcmNlbnQobWl4LCBpc19kZWNpbWFsPUZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtzaF9lZmZlY3RzLkZsYW5nZXJFZmZlY3QoKnNwbGl0dGVkWzE6XSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X3N0YWNrKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtzaF9lZmZlY3RzLlBpdGNoc2hpZnRFZmZlY3QoKnNwbGl0dGVkWzE6XSkK</text>
+        <text encoding="base64">ICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXgK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtzaF9lZmZlY3RzLkZsYW5nZXJFZmZlY3QoKnNwbGl0dGVkWzE6XSkK</text>
@@ -441,7 +438,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtzaF9lZmZlY3RzLlBpdGNoc2hpZnRFZmZlY3QoKnNwbGl0dGVkWzE6XSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBUT0RPIFVzZSBtYXBwZWRfZW51bQpjbGFzcyBLc2hFZmZlY3RPbGQoRW51bSk6CiAgICBkZWYgdG9fa3NoX3NpbXBsZV9uYW1lKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnZhbHVlCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgY2hvb3NlX3JhbmRvbShjbHMpOgogICAgICAgIGNob2ljZSA9IHJhbmRvbS5jaG9pY2UoY2xzKQogICAgICAgIGlmIGNob2ljZSA9PSBjbHMuVEFQRVNUT1Agb3IgY2hvaWNlID09IGNscy5QSVRDSFNISUZUOgogICAgICAgICAgICByZXR1cm4gY2xzLmNob29zZV9yYW5kb20oKQogICAgICAgIHJldHVybiBjaG9pY2UKCiAgICBSRVRSSUdHRVIgPSAnUmV0cmlnZ2VyJwogICAgR0FURSA9ICdHYXRlJwogICAgRkxBTkdFUiA9ICdGbGFuZ2VyJwogICAgQklUQ1JVU0hFUiA9ICdCaXRDcnVzaGVyJwogICAgUEhBU0VSID0gJ1BoYXNlcicKICAgIFdPQkJMRSA9ICdXb2JibGUnCiAgICBQSVRDSFNISUZUID0gJ1BpdGNoU2hpZnQnCiAgICBUQVBFU1RPUCA9ICdUYXBlU3RvcCcKICAgIEVDSE8gPSAnRWNobycKICAgIFNJREVDSEFJTiA9ICdTaWRlQ2hhaW4nCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtzaF9lZmZlY3RzLkZsYW5nZXJFZmZlY3QoKnNwbGl0dGVkWzE6XSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2391,10 +2388,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGRlZmluZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtzaF9lZmZlY3RzLlBpdGNoc2hpZnRFZmZlY3QoKnNwbGl0dGVkWzE6XSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZpbmUuZWZmZWN0ID0KICAgICAgICBkZWZpbmUubWFpbl9wYXJhbSA9ICcyMDAnCg==</text>
+        <text encoding="base64">IyBUT0RPIFVzZSBtYXBwZWRfZW51bQpjbGFzcyBLc2hFZmZlY3RPbGQoRW51bSk6CiAgICBkZWYgdG9fa3NoX3NpbXBsZV9uYW1lKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnZhbHVlCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgY2hvb3NlX3JhbmRvbShjbHMpOgogICAgICAgIGNob2ljZSA9IHJhbmRvbS5jaG9pY2UoY2xzKQogICAgICAgIGlmIGNob2ljZSA9PSBjbHMuVEFQRVNUT1Agb3IgY2hvaWNlID09IGNscy5QSVRDSFNISUZUOgogICAgICAgICAgICByZXR1cm4gY2xzLmNob29zZV9yYW5kb20oKQogICAgICAgIHJldHVybiBjaG9pY2UKCiAgICBSRVRSSUdHRVIgPSAnUmV0cmlnZ2VyJwogICAgR0FURSA9ICdHYXRlJwogICAgRkxBTkdFUiA9ICdGbGFuZ2VyJwogICAgQklUQ1JVU0hFUiA9ICdCaXRDcnVzaGVyJwogICAgUEhBU0VSID0gJ1BoYXNlcicKICAgIFdPQkJMRSA9ICdXb2JibGUnCiAgICBQSVRDSFNISUZUID0gJ1BpdGNoU2hpZnQnCiAgICBUQVBFU1RPUCA9ICdUYXBlU3RvcCcKICAgIEVDSE8gPSAnRWNobycKICAgIFNJREVDSEFJTiA9ICdTaWRlQ2hhaW4nCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
