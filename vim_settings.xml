@@ -36,12 +36,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="105" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1581135361514">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="281" column="93" />
-        <mark key="]" line="281" column="108" />
-        <mark key="^" line="281" column="108" />
-        <mark key="." line="281" column="108" />
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1581141430080">
+        <mark key="'" line="744" column="13" />
+        <mark key="[" line="1253" column="57" />
+        <mark key="]" line="1255" column="73" />
+        <mark key="^" line="1255" column="73" />
+        <mark key="." line="1255" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/chart_grv.ksh" timestamp="1581135765711">
         <mark key="'" line="14668" column="12" />
@@ -81,7 +81,7 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1581135364417">
+      <file name="/Dummy.txt" timestamp="1581140450747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="34" />
         <mark key="^" line="10" column="34" />
@@ -212,19 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="30" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
-      <jump line="15" column="12" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
-      <jump line="178" column="8" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
-      <jump line="69" column="8" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
-      <jump line="29" column="4" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
-      <jump line="1757" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="147" column="38" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
-      <jump line="12" column="14" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
-      <jump line="998" column="33" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="819" column="36" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="235" column="63" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="668" column="27" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="959" column="33" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="965" column="64" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="290" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="805" column="16" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
@@ -312,10 +299,23 @@
       <jump line="1054" column="54" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="43" column="35" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="418" column="29" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="816" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="905" column="21" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="909" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1488" column="7" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="735" column="29" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="5" column="33" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1037" column="29" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="745" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="587" column="4" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1251" column="52" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1253" column="47" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="744" column="13" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>-</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -338,16 +338,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>define_line</text>
+        <text>process</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVmZmVjdF9pbmRleDogaW50CiAgICBwYXJhbV9pbmRleDogaW50CiAgICBwYXJhbV9yYW5nZTogVHVwbGVbZmxvYXQsIGZsb2F0XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -433,22 +433,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0eXBlKHZhbCkgaXMgc3RyOgogICAgICAgICAgICByZXR1cm4gdmFsICsgc3VmZml4Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtc1sncGl0Y2gnXSA9IHNlbGYuc3VmZml4KHNhbXBsZXMsICdzYW1wbGVzJykKICAgICAgICBzZWxmLnBhcmFtc1snbWl4J10gPSBzZWxmLnBlcmNlbnQobWl4LCBpc19kZWNpbWFsPUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0eXBlKHZhbCkgaXMgc3RyOgogICAgICAgICAgICByZXR1cm4gb3BlcmF0aW9uKHZhbCkK</text>
+        <text encoding="base64">Zm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtzaF9lZmZlY3RzLlBpdGNoc2hpZnRFZmZlY3QoKnNwbGl0dGVkWzE6XSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtzaF9lZmZlY3RzLkJpdGNydXNoZXJFZmZlY3QoKnNwbGl0dGVkWzE6XSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiB0eXBlKHZhbCkgaXMgc3RyOgogICAgICAgICAgICByZXR1cm4gdmFsICsgc3VmZml4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWN0aW9uX2xpbmVfbnVtIC8gMiwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtc1sncGl0Y2gnXSA9IHNlbGYuc3VmZml4KHNhbXBsZXMsICdzYW1wbGVzJykKICAgICAgICBzZWxmLnBhcmFtc1snbWl4J10gPSBzZWxmLnBlcmNlbnQobWl4LCBpc19kZWNpbWFsPUZhbHNlKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2398,19 +2398,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVmZmVjdF9pbmRleDogaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0eXBlKHZhbCkgaXMgc3RyOgogICAgICAgICAgICByZXR1cm4gb3BlcmF0aW9uKHZhbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVmZmVjdF9pbmRleCA9IGVmZmVjdF9pbmRleAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtzaF9lZmZlY3RzLlBpdGNoc2hpZnRFZmZlY3QoKnNwbGl0dGVkWzE6XSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>define_line</last-search>
+      <last-search>process</last-search>
       <last-offset />
-      <last-pattern>define_line</last-pattern>
+      <last-pattern>process</last-pattern>
       <last-replace>Kind</last-replace>
       <last-substitute>filter</last-substitute>
       <last-dir>1</last-dir>
@@ -2418,8 +2418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shutil.rmtree</entry>
-        <entry>rmtree</entry>
         <entry encoding="base64">XDxUQUJfRUZGRUNUXD4=</entry>
         <entry>typing</entry>
         <entry>TAB EFFECT</entry>
@@ -2438,6 +2436,8 @@
         <entry>filtertype</entry>
         <entry>define_fx</entry>
         <entry>define_line</entry>
+        <entry>AUTO_TAB</entry>
+        <entry>process</entry>
       </history-search>
       <history-cmd>
         <entry>2wq</entry>
@@ -2515,6 +2515,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
