@@ -37,10 +37,10 @@
         <mark key="^" line="105" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1581211204657">
-        <mark key="'" line="164" column="0" />
-        <mark key="[" line="213" column="12" />
-        <mark key="]" line="213" column="23" />
-        <mark key="." line="213" column="12" />
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="217" column="12" />
+        <mark key="]" line="217" column="23" />
+        <mark key="." line="217" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/TODO.md" timestamp="1569540666880">
         <mark key="[" line="8" column="0" />
@@ -58,6 +58,7 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
+      <file name="/converter.py" timestamp="1581220500091" />
       <file name="$USER_HOME$/Code/vox2ksh/src/prepare_audio.py" timestamp="1569852185059">
         <mark key="[" line="25" column="48" />
         <mark key="]" line="25" column="48" />
@@ -2525,6 +2526,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
