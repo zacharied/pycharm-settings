@@ -181,12 +181,12 @@
       <file name="$USER_HOME$/Documents/Converter/out/nanairo_otetsu/chart_inf.ksh" timestamp="1578865525894">
         <mark key="'" line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/ksh_effects.py" timestamp="1581211811181">
-        <mark key="'" line="51" column="19" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="119" column="18" />
+      <file name="$USER_HOME$/Documents/Converter/src/ksh_effects.py" timestamp="1581214906882">
+        <mark key="'" line="178" column="21" />
+        <mark key="[" line="193" column="51" />
+        <mark key="]" line="193" column="64" />
+        <mark key="." line="193" column="64" />
+        <mark key="^" line="193" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567301285213">
         <mark key="'" line="134" column="0" />
@@ -216,24 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1073" column="79" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="358" column="28" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="982" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1046" column="54" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="248" column="19" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1047" column="32" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1008" column="21" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1416" column="25" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1335" column="45" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1333" column="65" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1331" column="66" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1330" column="49" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1328" column="66" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1327" column="48" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1326" column="82" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1181" column="13" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1155" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1154" column="1" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1049" column="39" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="19379" column="9" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/chart_grv.ksh" />
       <jump line="1830" column="11" filename="$USER_HOME$/Documents/Converter/out/panic_holic_cshow/chart_grv.ksh" />
@@ -316,6 +298,24 @@
       <jump line="51" column="19" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
       <jump line="165" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="11" column="17" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="33" column="12" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="41" column="12" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="42" column="52" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="86" column="41" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="107" column="21" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="157" column="23" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="124" column="43" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="134" column="48" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="146" column="23" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="153" column="36" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="156" column="23" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="160" column="48" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="163" column="23" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="168" column="64" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="171" column="23" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="178" column="21" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -345,7 +345,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>mapped_</text>
+        <text>mix</text>
       </register>
       <register name="0" type="4">
         <text>'CAM_RotX':</text>
@@ -2412,9 +2412,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mapped_</last-search>
+      <last-search>mix</last-search>
       <last-offset />
-      <last-pattern>mapped_</last-pattern>
+      <last-pattern>mix</last-pattern>
       <last-replace>Kind</last-replace>
       <last-substitute>filter</last-substitute>
       <last-dir>1</last-dir>
@@ -2422,7 +2422,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcm9tX2VmZmVjdF9pbmZvX2xpbmVcPg==</entry>
         <entry>KshFilterDefine</entry>
         <entry>BITCRUSHER</entry>
         <entry>BITCRUSH</entry>
@@ -2442,6 +2441,7 @@
         <entry>filtertype</entry>
         <entry encoding="base64">XDxmMVw+</entry>
         <entry>mapped_</entry>
+        <entry>mix</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ByZXZpZXdfZmlsZS9qYWNrZXRfZmlsZS9n</entry>
@@ -2450,7 +2450,6 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set relati</entry>
         <entry>ws</entry>
-        <entry>we</entry>
         <entry>wk</entry>
         <entry encoding="base64">JzwsJz5zL2RlZmluZSA9IC9yZXR1cm4=</entry>
         <entry encoding="base64">JzwsJz5zL2RlZmluZSA9IC9yZXR1cm4gLw==</entry>
@@ -2463,6 +2462,7 @@
         <entry encoding="base64">JzwsJz5kL3JldHVybi4qLw==</entry>
         <entry encoding="base64">JzwsJz5nL3JldHVybi4qL2Q=</entry>
         <entry encoding="base64">JzwsJz5nL3JldHVybi9k</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
