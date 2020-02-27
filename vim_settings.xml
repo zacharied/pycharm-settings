@@ -74,10 +74,10 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1581379692904">
+      <file name="/Dummy.txt" timestamp="1582846829915">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped-enum/setup.py" timestamp="1567802471271">
@@ -320,7 +320,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ksh_effects.array_param_string(t.effect_class.filter_end_params())</text>
+        <text>Fix PitchShift effects appearing as Bitcrush in output</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -343,7 +343,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>ksh_effects.array_param_string(t.effect_class.filter_end_params())</text>
+        <text>Fix PitchShift effects appearing as Bitcrush in output</text>
       </register>
       <register name="/" type="4">
         <text>filter_begin</text>
