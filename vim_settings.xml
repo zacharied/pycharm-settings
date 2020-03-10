@@ -18,10 +18,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1583797823963">
+      <file name="/Python Console" timestamp="1583801730622">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1581294457137">
+      <file name="/fragment.py" timestamp="1583801739361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -75,6 +75,11 @@
         <mark key="[" line="25" column="48" />
         <mark key="]" line="25" column="48" />
         <mark key="." line="25" column="48" />
+      </file>
+      <file name="$USER_HOME$/Code/BALLS/demo.py" timestamp="1583800983642">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapped_enum/mapped_enum/__init__.py" timestamp="1570311793019">
         <mark key="'" line="37" column="4" />
@@ -153,11 +158,6 @@
         <mark key="^" line="0" column="56" />
         <mark key="." line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/mapped_enum/README.md" timestamp="1570311522243">
-        <mark key="]" line="2" column="72" />
-        <mark key="." line="2" column="72" />
-        <mark key="^" line="2" column="72" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/config.sample.ini" timestamp="1572290270483">
         <mark key="'" line="3" column="47" />
         <mark key="[" line="18" column="82" />
@@ -201,6 +201,13 @@
         <mark key="." line="189" column="73" />
         <mark key="^" line="189" column="73" />
       </file>
+      <file name="$USER_HOME$/Code/BALLS/blobTrace.py" timestamp="1583802041829">
+        <mark key="'" line="77" column="55" />
+        <mark key="[" line="70" column="49" />
+        <mark key="]" line="70" column="66" />
+        <mark key="^" line="70" column="66" />
+        <mark key="." line="70" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/out/higher_redalice/maximum.ksh" timestamp="1567301285213">
         <mark key="'" line="134" column="0" />
         <mark key="[" line="408" column="7" />
@@ -229,13 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1067" column="12" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1051" column="12" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="73" column="69" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="205" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="299" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="300" column="73" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="337" column="12" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1141" column="35" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1142" column="30" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1171" column="118" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
@@ -329,10 +329,17 @@
       <jump line="145" column="8" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
       <jump line="1485" column="129" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1308" column="94" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="32" column="8" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
+      <jump line="59" column="23" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
+      <jump line="18" column="14" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
+      <jump line="68" column="27" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
+      <jump line="75" column="55" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -355,16 +362,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>filter_begin</text>
+        <text>,</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgZXh0cmEgPSBmJzt7aW50KDI1MDAgLyAoZHVyYXRpb24gKyAxMCkpfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmltcG9ydCBtYXRoCg==</text>
+        <text encoding="base64">YmxvYlBhdGgucGF0aCgidGVzdF92aWRzL2JvdW5jZS5tcDQiKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -450,22 +457,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBkZWYgZGlyZWN0aW9uX2RlZ3JlZXMoc2VsZik6CiAgICAgICAgcmV0dXJuIG1hdGguZGVncmVlcyhzZWxmLmRpcmVjdGlvbikK</text>
+        <text encoding="base64">YmxvYlRyYWNlLnRyYWNlKCJ0ZXN0X3ZpZHMvMXRocm93Lm1wNCIpCmJsb2JUcmFjZS50cmFjZSgidGVzdF92aWRzLzJiYWxsLm1wNCIpCmJsb2JUcmFjZS50cmFjZSgidGVzdF92aWRzLzNiYWxsLm1wNCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgZGVmIHQK</text>
+        <text encoding="base64">ICAgIGJhbGxzID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIiAKICAgIFRoZSBjdXJyZW50IHBvc2l0aW9uIG9mIHRoZSBiYWxsIGluIHRoZSBwbGFuZSBwZXJwZW5kaWN1bGFyIHRvIHRoZSBvYnNlcnZlcidzIGxpbmUgb2Ygc2lnaHQuIFRoZSBwbGFuZSBpcyBkZWZpbmVkCiAgICBzdWNoIHRoYXQgYSBoaWdoZXIgWC1jb29yZGluYXRlIG1lYW5zIHRoZSBiYWxsIGlzIG1vdmluZyByaWdodCByZWxhdGl2ZSB0byB0aGUgb2JzZXJ2ZXIsIGFuZCBhIGhpZ2hlciBZLWNvb3JkaW5hdGUKICAgIG1lYW5zIHRoZSBiYWxsIGlzIG1vdmluZyB1cHdhcmRzIChhZ2FpbnN0IGdyYXZpdHkpIGluIHBoeXNpY2FsIHNwYWNlLgogICAgIiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIiBUaGUgcmF0ZSBvZiBtb3ZlbWVudCwgZGVmaW5lZCBpbiB1bml0cyBwZXIgZnJhbWUuICIiIgo=</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIiBUaGUgZGlyZWN0aW9uIG9mIG1vdmVtZW50LCBpbiByYWRpYW5zLiAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAjY3YyLmltc2hvdygiTWFzayIsbWFzaykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNsYXNzIFZlY3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2415,27 +2422,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgZGVmIF9fCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgYyBpbiBiYWxsczoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgY2lyY2xlLmludGVyc2VjdHMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>filter_begin</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>filter_begin</last-pattern>
-      <last-replace>Kind</last-replace>
-      <last-substitute>filter</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace encoding="base64">LCA=</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>else</entry>
         <entry>None if</entry>
         <entry>[now]</entry>
         <entry>\[now\]</entry>
@@ -2455,9 +2461,9 @@
         <entry>TAPESTOP</entry>
         <entry>filter_start_params</entry>
         <entry>filter_begin</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3ByZXZpZXdfZmlsZS9qYWNrZXRfZmlsZS9n</entry>
         <entry>%s/debug/debug()/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -2476,6 +2482,7 @@
         <entry encoding="base64">JzwsJz5nL3JldHVybi4qL2Q=</entry>
         <entry encoding="base64">JzwsJz5nL3JldHVybi9k</entry>
         <entry>we</entry>
+        <entry encoding="base64">JzwsJz5zLywvLCAv</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -2541,6 +2548,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

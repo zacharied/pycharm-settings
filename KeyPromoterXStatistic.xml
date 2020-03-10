@@ -105,6 +105,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'demo'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'demo'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'manual-tilt'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -158,7 +166,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>4</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -294,7 +302,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>93</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -422,7 +430,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'demo'</Description>
-          <Count>1</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'manual-tilt'">
@@ -569,6 +577,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'demo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'demo'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'manual-tilt'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -614,7 +630,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>70</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Vim Delete Join Lines">
