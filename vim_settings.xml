@@ -73,7 +73,7 @@
         <mark key="." line="108" column="38" />
         <mark key="^" line="108" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/demo.py" timestamp="1585103282542">
+      <file name="$USER_HOME$/Code/20_balls/demo.py" timestamp="1585105472591">
         <mark key="[" line="3" column="44" />
         <mark key="]" line="3" column="44" />
         <mark key="." line="3" column="44" />
@@ -118,11 +118,12 @@
         <mark key="." line="29531" column="8" />
         <mark key="^" line="29531" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/twentyxx.py" timestamp="1585103954089">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="5" column="117" />
-        <mark key="^" line="5" column="117" />
-        <mark key="." line="5" column="117" />
+      <file name="$USER_HOME$/Code/20_balls/twentyxx.py" timestamp="1585106419394">
+        <mark key="'" line="11" column="35" />
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
+        <mark key="^" line="15" column="58" />
       </file>
       <file name="$USER_HOME$/Code/BALLS/blobPath.py" timestamp="1583797821292">
         <mark key="[" line="5" column="10" />
@@ -252,20 +253,14 @@
         <mark key="." line="19" column="56" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/blobTrace.py" timestamp="1585103854017">
-        <mark key="'" line="40" column="19" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="141" />
-        <mark key="." line="40" column="19" />
-        <mark key="^" line="40" column="19" />
+      <file name="$USER_HOME$/Code/20_balls/blobTrace.py" timestamp="1585106278887">
+        <mark key="'" line="75" column="20" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1472" column="54" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1390" column="71" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1391" column="109" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="173" column="31" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
-      <jump line="49" column="31" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
       <jump line="1292" column="70" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1264" column="70" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="619" column="4" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
@@ -361,10 +356,15 @@
       <jump line="95" column="42" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="94" column="62" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="40" column="19" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="6" column="48" filename="$USER_HOME$/Code/20_balls/twentyxx.py" />
+      <jump line="9" column="35" filename="$USER_HOME$/Code/20_balls/twentyxx.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="17" column="14" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="75" column="20" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, int(y)),</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0YXRlCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -387,7 +387,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>, int(y)),</text>
+        <text>cv2.FON</text>
       </register>
       <register name="/" type="4">
         <text>ballId</text>
@@ -396,7 +396,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdjIucHV0VGV4dChmcmFtZSwgdGhpc0ZyYW1lQ2lyY2xlc1stMV1bMV0ubmFtZSwgKGludCh4KSwgaW50KHkpKSwgY3YyLkZPTlRfSEVSU0hFWV9TSU1QTEVYLCAyLCAoMjU1LCAwLCAwKSwgdGhpY2tuZXNzPTIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGN2Mi5wdXRUZXh0KAo=</text>
+        <text encoding="base64">ICAgIHN0YXRlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -482,22 +482,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgdHdlbnR5eHguZHJhd0h1ZChmcmFtZSwgYmFsbHMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">SFVEX1kgPSAKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN2Mi5wdXRUZXh0KAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQmFsbENpcmNsZToKICAgIGJhbGw6IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgCgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2447,10 +2447,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBiYWxsSWQgPSAnQScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
