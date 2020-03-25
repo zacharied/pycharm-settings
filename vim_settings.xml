@@ -30,6 +30,10 @@
       <file name="/a.dummy" timestamp="1578873689848">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/20_balls/balls.py" timestamp="1585102693350">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/header.txt" timestamp="1567986021392">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,10 +73,10 @@
         <mark key="." line="108" column="38" />
         <mark key="^" line="108" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/demo.py" timestamp="1585101154575">
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="39" />
-        <mark key="." line="3" column="39" />
+      <file name="$USER_HOME$/Code/20_balls/demo.py" timestamp="1585103282542">
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/README_inc_private.txt" timestamp="1569877786919">
         <mark key="'" line="84" column="0" />
@@ -242,27 +246,15 @@
         <mark key="." line="19" column="56" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/blobTrace.py" timestamp="1585100891588">
-        <mark key="[" line="22" column="58" />
-        <mark key="]" line="22" column="58" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/Code/20_balls/blobTrace.py" timestamp="1585103385229">
+        <mark key="'" line="100" column="62" />
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+        <mark key="^" line="40" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1141" column="35" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1142" column="30" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1171" column="118" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1293" column="51" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="727" column="27" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="743" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1066" column="38" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1094" column="46" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1386" column="49" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1383" column="48" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="705" column="27" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1388" column="82" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1233" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1232" column="56" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1472" column="54" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1390" column="71" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
@@ -350,10 +342,23 @@
       <jump line="68" column="27" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
       <jump line="75" column="55" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
+      <jump line="24" column="9" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="29" column="17" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="31" column="4" filename="$USER_HOME$/Code/20_balls/balls.py" />
+      <jump line="22" column="27" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="93" column="27" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="82" column="28" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="87" column="24" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="91" column="39" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="18" column="3" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="95" column="42" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="94" column="62" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>,1</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -376,16 +381,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>,1</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>ballId</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -471,22 +476,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQpibG9iVHJhY2UudHJhY2UoInRlc3Rfdmlkcy81YmFsbC5tcDQiKQoKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmxvYlBhdGgucGF0aCgidGVzdF92aWRzL2JvdW5jZS5tcDQiKQo=</text>
+        <text encoding="base64">Y2xhc3MgQmFsbENpcmNsZToKICAgIGJhbGw6IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmxvYlRyYWNlLnRyYWNlKCJ0ZXN0X3ZpZHMvMXRocm93Lm1wNCIpCmJsb2JUcmFjZS50cmFjZSgidGVzdF92aWRzLzJiYWxsLm1wNCIpCmJsb2JUcmFjZS50cmFjZSgidGVzdF92aWRzLzNiYWxsLm1wNCIpCg==</text>
+        <text encoding="base64">Y2xhc3MgCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhbGxzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2436,19 +2441,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBiYWxsSWQgPSAnQScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCgo=</text>
+        <text encoding="base64">CiAgICBncmVlbkxvd2VyID0gKDQwLDU1LDIwKQogICAgZ3JlZW5VcHBlciA9ICg5NSwyNTUsMjU1KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>ballId</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>ballId</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -2456,8 +2461,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ZERO</entry>
-        <entry>TILT</entry>
         <entry encoding="base64">XDxkYXRhX2Rpclw+</entry>
         <entry encoding="base64">XDxkYl9zb3VyY2VfZGlyXD4=</entry>
         <entry encoding="base64">XDx3ZWlyZFw+</entry>
@@ -2476,6 +2479,8 @@
         <entry>fx-.=1</entry>
         <entry>updatePeriod</entry>
         <entry>fx-.=0</entry>
+        <entry encoding="base64">XDx0aGlzRnJhbWVDaXJjbGVzXD4=</entry>
+        <entry>ballId</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0tzaG9vdEVmZmVjdC9Tb3VuZEVmZmVjdA==</entry>
