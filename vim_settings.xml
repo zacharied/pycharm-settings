@@ -30,9 +30,12 @@
       <file name="/a.dummy" timestamp="1578873689848">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/balls.py" timestamp="1585102693350">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="33" />
+      <file name="$USER_HOME$/Code/20_balls/balls.py" timestamp="1585169903284">
+        <mark key="'" line="12" column="15" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+        <mark key="^" line="18" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/header.txt" timestamp="1567986021392">
         <mark key="[" line="0" column="0" />
@@ -73,10 +76,12 @@
         <mark key="." line="108" column="38" />
         <mark key="^" line="108" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/demo.py" timestamp="1585105472591">
-        <mark key="[" line="3" column="44" />
-        <mark key="]" line="3" column="44" />
-        <mark key="." line="3" column="44" />
+      <file name="$USER_HOME$/Code/20_balls/demo.py" timestamp="1585167364554">
+        <mark key="'" line="11" column="21" />
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/README_inc_private.txt" timestamp="1569877786919">
         <mark key="'" line="84" column="0" />
@@ -118,12 +123,11 @@
         <mark key="." line="29531" column="8" />
         <mark key="^" line="29531" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/twentyxx.py" timestamp="1585106419394">
-        <mark key="'" line="11" column="35" />
-        <mark key="[" line="15" column="59" />
-        <mark key="]" line="15" column="58" />
-        <mark key="." line="15" column="58" />
-        <mark key="^" line="15" column="58" />
+      <file name="$USER_HOME$/Code/20_balls/twentyxx.py" timestamp="1585170197748">
+        <mark key="'" line="19" column="64" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Code/BALLS/blobPath.py" timestamp="1583797821292">
         <mark key="[" line="5" column="10" />
@@ -185,6 +189,13 @@
         <mark key="." line="189" column="73" />
         <mark key="^" line="189" column="73" />
       </file>
+      <file name="$USER_HOME$/Code/20_balls/demo" timestamp="1585168976973">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="26" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
         <mark key="[" line="0" column="0" />
       </file>
@@ -211,6 +222,7 @@
       <file name="/" timestamp="1564864664853">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/-1199943126/cv2/cv2/__init__.py" timestamp="1585168083953" />
       <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1570311542474">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="18" />
@@ -253,53 +265,15 @@
         <mark key="." line="19" column="56" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/blobTrace.py" timestamp="1585106278887">
-        <mark key="'" line="75" column="20" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Code/20_balls/blobTrace.py" timestamp="1585171702625">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="49" />
+        <mark key="." line="42" column="49" />
+        <mark key="^" line="42" column="49" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1292" column="70" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1264" column="70" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="619" column="4" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1068" column="56" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1291" column="39" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="279" column="33" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1023" column="21" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1069" column="32" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1070" column="33" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="757" column="13" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1021" column="43" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1419" column="97" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1470" column="49" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="273" column="4" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="271" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="277" column="48" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1071" column="74" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="782" column="53" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1476" column="30" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1475" column="60" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="863" column="16" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1073" column="42" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="877" column="15" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1099" column="34" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1101" column="34" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1106" column="26" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1108" column="45" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1117" column="82" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1121" column="56" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1124" column="59" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1226" column="44" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1285" column="108" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1310" column="77" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1356" column="43" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1357" column="54" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1368" column="68" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1387" column="45" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1394" column="102" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1405" column="49" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1407" column="51" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1440" column="43" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
@@ -342,29 +316,68 @@
       <jump line="68" column="27" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
       <jump line="75" column="55" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
-      <jump line="24" column="9" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
-      <jump line="29" column="17" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="31" column="4" filename="$USER_HOME$/Code/20_balls/balls.py" />
       <jump line="22" column="27" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
-      <jump line="93" column="27" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="43" column="4" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="82" column="28" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="87" column="24" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
-      <jump line="91" column="39" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="18" column="3" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="69" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="95" column="42" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
-      <jump line="94" column="62" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
-      <jump line="40" column="19" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="6" column="48" filename="$USER_HOME$/Code/20_balls/twentyxx.py" />
       <jump line="9" column="35" filename="$USER_HOME$/Code/20_balls/twentyxx.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
-      <jump line="17" column="14" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="75" column="20" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="17" column="12" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="9" column="14" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="138" column="70" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="67" column="4" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="64" column="4" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="153" column="8" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="63" column="4" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="152" column="27" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="97" column="29" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="41" column="21" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="24" column="10" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="25" column="17" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="4" column="6" filename="$USER_HOME$/Code/20_balls/balls.py" />
+      <jump line="93" column="38" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="88" column="16" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="32" column="27" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="9" column="28" filename="$USER_HOME$/Code/20_balls/balls.py" />
+      <jump line="145" column="140" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="34" column="52" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="29" column="31" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="31" column="22" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="56" column="6" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="36" column="36" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="91" column="25" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="94" column="24" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="96" column="48" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="144" column="74" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="8" column="15" filename="$USER_HOME$/Code/20_balls/balls.py" />
+      <jump line="11" column="21" filename="$USER_HOME$/Code/20_balls/demo.py" />
+      <jump line="150" column="20" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="142" column="37" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/20_balls/demo" />
+      <jump line="29" column="4" filename="$USER_HOME$/Code/20_balls/demo" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/20_balls/demo" />
+      <jump line="147" column="19" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="15" column="10" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="19" column="64" filename="$USER_HOME$/Code/20_balls/twentyxx.py" />
+      <jump line="40" column="8" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="51" column="31" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="65" column="17" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -387,16 +400,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>cv2.FON</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
-        <text>ballId</text>
+        <text>air</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdjIucHV0VGV4dChmcmFtZSwgdGhpc0ZyYW1lQ2lyY2xlc1stMV1bMV0ubmFtZSwgKGludCh4KSwgaW50KHkpKSwgY3YyLkZPTlRfSEVSU0hFWV9TSU1QTEVYLCAyLCAoMjU1LCAwLCAwKSwgdGhpY2tuZXNzPTIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAod2lkdGgsIF8pLCBfID0gY3YyLmdldFRleHRTaXplKHN0cihmcmFtZUluZGV4KSwgY3YyLkZPTlRfSEVSU0hFWV9TSU1QTEVYLCAxLCAxKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -482,22 +495,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgdHdlbnR5eHguZHJhd0h1ZChmcmFtZSwgYmFsbHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmp1bXBQb2ludCA9IENvb3JkcygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">CmRlZiBkcmF3VHJhY2tiYXIoZnJhbWUpOgogICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SFVEX1kgPSAKCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN2Mi5wdXRUZXh0KAo=</text>
+        <text encoding="base64">ZGVmIHRydW5jYXRlKG51bWJlciwgZGlnaXRzKSAtPiBmbG9hdDoKICAgIHN0ZXBwZXIgPSAxMC4wICoqIGRpZ2l0cwogICAgcmV0dXJuIG1hdGgudHJ1bmMoc3RlcHBlciAqIG51bWJlcikgLyBzdGVwcGVyCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2447,36 +2460,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5leHRGcmFtZSA9IFRydWUKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ballId</last-search>
+      <last-search>air</last-search>
       <last-offset />
-      <last-pattern>ballId</last-pattern>
-      <last-replace encoding="base64">LCA=</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern>air</last-pattern>
+      <last-replace>file_arg</last-replace>
+      <last-substitute>sys\.argv\[1\]</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhX2Rpclw+</entry>
-        <entry encoding="base64">XDxkYl9zb3VyY2VfZGlyXD4=</entry>
-        <entry encoding="base64">XDx3ZWlyZFw+</entry>
-        <entry>data_dir</entry>
-        <entry encoding="base64">XDxsYXNlcl9yYW5nZVw+</entry>
-        <entry>time_iter</entry>
-        <entry>add</entry>
-        <entry>Timing</entry>
-        <entry encoding="base64">Pj0=</entry>
-        <entry>fx-</entry>
         <entry>#44</entry>
         <entry>1</entry>
         <entry>^1</entry>
@@ -2485,12 +2488,20 @@
         <entry>fx-.=1</entry>
         <entry>updatePeriod</entry>
         <entry>fx-.=0</entry>
-        <entry encoding="base64">XDx0aGlzRnJhbWVDaXJjbGVzXD4=</entry>
         <entry>ballId</entry>
+        <entry encoding="base64">XDxsYXN0RnJhbWVDaXJjbGVzXD4=</entry>
+        <entry encoding="base64">XDx0aGlzRnJhbWVDaXJjbGVzXD4=</entry>
+        <entry encoding="base64">XDxjaXJjbGVcPg==</entry>
+        <entry encoding="base64">XDxmbG9hdFw+</entry>
+        <entry encoding="base64">XDxjZW50ZXJcPg==</entry>
+        <entry encoding="base64">XDwwXD4=</entry>
+        <entry encoding="base64">XDxyYWRpdXNcPg==</entry>
+        <entry>sys¥.argv¥[1¥]</entry>
+        <entry>sys\.argv\[1\]</entry>
+        <entry>pos</entry>
+        <entry>air</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0tzaG9vdEVmZmVjdC9Tb3VuZEVmZmVjdA==</entry>
-        <entry encoding="base64">JzwsJz5zL2Nscy9Tb3VuZEVmZmVjdC8=</entry>
         <entry encoding="base64">JzwsJz5zL3NwbGl0dGVkL3BhcmFtcy9n</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYvY2xzLw==</entry>
         <entry>ew</entry>
@@ -2508,6 +2519,8 @@
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zLz49Lz4vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3N5c8KlLmFyZ3bCpVsxwqVdL2ZpbGVfYXJnL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3N5c1wuYXJndlxbMVxdL2ZpbGVfYXJnL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
