@@ -33,13 +33,6 @@
       <file name="/a.dummy" timestamp="1578873689848">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/balls.py" timestamp="1585187005506">
-        <mark key="'" line="19" column="37" />
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="21" column="44" />
-        <mark key="^" line="21" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/Converter/header.txt" timestamp="1567986021392">
         <mark key="[" line="0" column="0" />
       </file>
@@ -193,12 +186,12 @@
         <mark key="." line="189" column="73" />
         <mark key="^" line="189" column="73" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/demo" timestamp="1585168976973">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="29" column="26" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Code/20_balls/demo" timestamp="1585243992512">
+        <mark key="'" line="9" column="32" />
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="52" />
+        <mark key="." line="11" column="45" />
       </file>
       <file name="KeyPromoterXStatistic.xml" timestamp="1565032984481">
         <mark key="[" line="0" column="0" />
@@ -268,19 +261,15 @@
         <mark key="." line="19" column="56" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/blobTrace.py" timestamp="1585186882583">
-        <mark key="'" line="112" column="100" />
-        <mark key="[" line="157" column="72" />
-        <mark key="]" line="159" column="75" />
-        <mark key="." line="159" column="75" />
-        <mark key="^" line="159" column="75" />
+      <file name="$USER_HOME$/Code/20_balls/blobTrace.py" timestamp="1585244033949">
+        <mark key="'" line="59" column="24" />
+        <mark key="[" line="164" column="61" />
+        <mark key="]" line="165" column="61" />
+        <mark key="^" line="165" column="61" />
+        <mark key="." line="165" column="61" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="27" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
-      <jump line="75" column="55" filename="$USER_HOME$/Code/BALLS/blobTrace.py" />
-      <jump line="31" column="4" filename="$USER_HOME$/Code/20_balls/balls.py" />
       <jump line="22" column="27" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="43" column="4" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="82" column="28" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
@@ -296,7 +285,6 @@
       <jump line="9" column="14" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="138" column="70" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
-      <jump line="67" column="4" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="64" column="4" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="63" column="4" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="152" column="27" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
@@ -377,10 +365,15 @@
       <jump line="41" column="70" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="112" column="100" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="19" column="8" filename="$USER_HOME$/Code/20_balls/balls.py" />
+      <jump line="9" column="32" filename="$USER_HOME$/Code/20_balls/demo" />
+      <jump line="67" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="59" column="24" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB2YWwgPCAwOgogICAgICAgICAgICB2YWwgKz0gbWF0aC5waQo=</text>
+      <register name="&quot;" type="4">
+        <text>, range=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -403,7 +396,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>, range=</text>
       </register>
       <register name="/" type="4">
         <text>ball</text>
@@ -412,108 +405,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdjIucHV0VGV4dChmcmFtZSwgdGhpc0ZyYW1lQ2lyY2xlc1stMV1bMV0ubmFtZSwgKGludCh4KSwgaW50KHkpKSwgY3YyLkZPTlRfSEVSU0hFWV9TSU1QTEVYLCAyLCAoMjU1LCAwLCAwKSwgdGhpY2tuZXNzPTIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB2YWwgPCAwOgogICAgICAgICAgICB2YWwgKz0gbWF0aC5waQo=</text>
+        <text encoding="base64">cHJpbnQoYXJncy5mcmFtZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="49" code="0" mods="0" />
-          <key char="53" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="74" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="74" code="0" mods="0" />
-          <key char="74" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="74" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmlsZV9hcmcgPSBzeXMuYXJndlsxXQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgbGVuKHN5cy5hcmd2KSAhPSAyOgogICAgcHJpbnQoJ09uZSBhcnVnbWVudCBpcyByZXF1aXJlZDogdGhlIG5hbWUgb2YgdGhlIHZpZGVvIHRvIHByb2Nlc3MuJywgZmlsZT1zeXMuc3RkZXJyKQogICAgc3lzLmV4aXQoMSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRlID0gQmFsbFN0YXRlLlVOREVDTEFSRUQKICAgICAgICBzZWxmLmZvdW5kID0gRmFsc2UKICAgICAgICBzZWxmLmNpcmNsZSA9IENpcmNsZShDb29yZHMoKSwgMCkK</text>
+        <text encoding="base64">YXJncy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZWYgc2V0X2Nvb3JkcyhzZWxmLCBjb29yZHM6IENvb3Jkcyk6CiAgICAgICAgc2VsZi5jaXJjbGUuY29vcmRzID0gY29vcmRzCiAgICAgICAgc2VsZi5iYWxsLmNvb3JkcyA9IGNvb3Jkcwo=</text>
+        <text encoding="base64">cGFyc2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhbGwgPSBiYWxsCg==</text>
+        <text encoding="base64">aWQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhbGw6IEJhbGwK</text>
+        <text encoding="base64">ICAgICAgICBpZiB2YWwgPCAwOgogICAgICAgICAgICB2YWwgKz0gbWF0aC5waQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2463,10 +2379,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIHByZXZCYWxsLnN0YXRlIGlzIEJhbGxTdGF0ZS5KVU1QU1FVQVQgb3IgcHJldkJhbGwuc3RhdGUgaXMgQmFsbFN0YXRlLkFJUkJPUk5FOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByZXZCYWxsLmJhbGwubW92ZW1lbnQgPSBNb3ZlbWVudFZlY3RvcihwcmV2QmFsbC5iYWxsLmNvb3Jkcy5hbmdsZV90byhjZW50ZXIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
