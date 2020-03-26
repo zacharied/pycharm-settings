@@ -30,12 +30,12 @@
       <file name="/a.dummy" timestamp="1578873689848">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/balls.py" timestamp="1585185189105">
+      <file name="$USER_HOME$/Code/20_balls/balls.py" timestamp="1585185664440">
         <mark key="'" line="20" column="7" />
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="53" column="50" />
-        <mark key="." line="53" column="50" />
-        <mark key="^" line="53" column="50" />
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="45" />
+        <mark key="." line="38" column="45" />
+        <mark key="^" line="38" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/header.txt" timestamp="1567986021392">
         <mark key="[" line="0" column="0" />
@@ -223,7 +223,6 @@
       <file name="/" timestamp="1564864664853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/-1199943126/cv2/cv2/__init__.py" timestamp="1585168083953" />
       <file name="$USER_HOME$/Code/mapped_enum/setup.py" timestamp="1570311542474">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="18" />
@@ -266,8 +265,8 @@
         <mark key="." line="19" column="56" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/20_balls/blobTrace.py" timestamp="1585185286007">
-        <mark key="'" line="159" column="73" />
+      <file name="$USER_HOME$/Code/20_balls/blobTrace.py" timestamp="1585185479891">
+        <mark key="'" line="112" column="93" />
         <mark key="[" line="158" column="86" />
         <mark key="]" line="158" column="86" />
         <mark key="." line="158" column="86" />
@@ -275,8 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1091" column="26" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="1089" column="22" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1479" column="20" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1296" column="49" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="694" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
@@ -371,14 +368,16 @@
       <jump line="113" column="45" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="7" column="45" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="17" column="7" filename="$USER_HOME$/Code/20_balls/balls.py" />
-      <jump line="112" column="85" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="157" column="73" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
-      <jump line="33" column="19" filename="$USER_HOME$/Code/20_balls/balls.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/Code/20_balls/balls.py" />
+      <jump line="32" column="6" filename="$USER_HOME$/Code/20_balls/balls.py" />
+      <jump line="112" column="93" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/20_balls/balls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRpcmVjdGlvbjogZmxvYXQKICAgICIiIiBUaGUgZGlyZWN0aW9uIG9mIG1vdmVtZW50LCBpbiByYWRpYW5zLiAiIiIKCiAgICB2ZWxvY2l0eTogZmxvYXQKICAgICIiIiBUaGUgcmF0ZSBvZiBtb3ZlbWVudCwgaW4gdW5pdHMgcGVyIGZyYW1lLiAiIiIK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -410,7 +409,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdjIucHV0VGV4dChmcmFtZSwgdGhpc0ZyYW1lQ2lyY2xlc1stMV1bMV0ubmFtZSwgKGludCh4KSwgaW50KHkpKSwgY3YyLkZPTlRfSEVSU0hFWV9TSU1QTEVYLCAyLCAoMjU1LCAwLCAwKSwgdGhpY2tuZXNzPTIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRpcmVjdGlvbjogZmxvYXQKICAgICIiIiBUaGUgZGlyZWN0aW9uIG9mIG1vdmVtZW50LCBpbiByYWRpYW5zLiAiIiIKCiAgICB2ZWxvY2l0eTogZmxvYXQKICAgICIiIiBUaGUgcmF0ZSBvZiBtb3ZlbWVudCwgaW4gdW5pdHMgcGVyIGZyYW1lLiAiIiIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -496,22 +495,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgZGVmIGRpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmV2QmFsbAo=</text>
+        <text encoding="base64">ICAgIAogICAgZGVmIGRpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmV2QmFsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmV2QmFsbC5iYWxsLm1vdmVtZW50ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmV2QmFsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAod2lkdGgsIF8pLCBfID0gY3YyLmdldFRleHRTaXplKHN0cihmcmFtZUluZGV4KSwgY3YyLkZPTlRfSEVSU0hFWV9TSU1QTEVYLCAxLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmV2QmFsbC5iYWxsLm1vdmVtZW50ID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmp1bXBQb2ludCA9IENvb3JkcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAod2lkdGgsIF8pLCBfID0gY3YyLmdldFRleHRTaXplKHN0cihmcmFtZUluZGV4KSwgY3YyLkZPTlRfSEVSU0hFWV9TSU1QTEVYLCAxLCAxKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2461,10 +2460,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmRlZiBkcmF3VHJhY2tiYXIoZnJhbWUpOgogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmp1bXBQb2ludCA9IENvb3JkcygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+        <text encoding="base64">CmRlZiBkcmF3VHJhY2tiYXIoZnJhbWUpOgogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
