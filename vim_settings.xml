@@ -18,7 +18,7 @@
         <mark key="^" line="5" column="117" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1586823303851">
+      <file name="/Python Console" timestamp="1586887747428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/BALLS/blobPath.py" timestamp="1583797821292">
@@ -48,8 +48,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="105" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1586887587920">
-        <mark key="'" line="1614" column="58" />
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1586896481658">
+        <mark key="'" line="1665" column="4" />
         <mark key="[" line="1638" column="58" />
         <mark key="]" line="1638" column="67" />
         <mark key="." line="1638" column="67" />
@@ -272,9 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="59" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
-      <jump line="91" column="20" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="98" column="38" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="100" column="69" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="102" column="28" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
@@ -372,6 +369,9 @@
       <jump line="1611" column="89" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1614" column="58" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1600" column="4" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1564" column="41" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1665" column="4" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -401,7 +401,7 @@
         <text>song_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBVURJT19FWFRFTlNJT05cPg==</text>
+        <text encoding="base64">XDxkb19jb3B5X3ByZXZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc19hdWRpb19maWxlcyhzb25nX2ZpbGVzLCBpbmZfdmVyLCBzb25nX291dHB1dF9kaXIpCg==</text>
@@ -2404,9 +2404,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBVURJT19FWFRFTlNJT05cPg==</last-search>
+      <last-search encoding="base64">XDxkb19jb3B5X3ByZXZpZXdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBVURJT19FWFRFTlNJT05cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkb19jb3B5X3ByZXZpZXdcPg==</last-pattern>
       <last-replace>s3v</last-replace>
       <last-substitute>2dx</last-substitute>
       <last-dir>1</last-dir>
@@ -2414,8 +2414,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TAPESTOP</entry>
-        <entry>filter_start_params</entry>
         <entry>filter_begin</entry>
         <entry>,</entry>
         <entry>TODO</entry>
@@ -2434,6 +2432,8 @@
         <entry>game_id</entry>
         <entry>no audio file found</entry>
         <entry encoding="base64">XDxBVURJT19FWFRFTlNJT05cPg==</entry>
+        <entry encoding="base64">XDxkb19jb3B5X2F1ZGlvXD4=</entry>
+        <entry encoding="base64">XDxkb19jb3B5X3ByZXZpZXdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
