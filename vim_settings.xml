@@ -68,11 +68,11 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1586823908823">
-        <mark key="'" line="44" column="37" />
-        <mark key="[" line="52" column="58" />
-        <mark key="]" line="52" column="58" />
-        <mark key="." line="52" column="58" />
+      <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1586825871784">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="103" column="82" />
+        <mark key="]" line="103" column="82" />
+        <mark key="." line="103" column="82" />
         <mark key="^" line="52" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Converter/README_inc.md" timestamp="1567986257567">
@@ -273,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="60" column="4" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="104" column="36" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
       <jump line="108" column="48" filename="$USER_HOME$/Code/20_balls/blobTrace.py" />
@@ -373,10 +372,11 @@
       <jump line="17" column="18" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="747" column="38" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="753" column="32" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>, inf_ver</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -399,10 +399,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>, inf_ver</text>
       </register>
       <register name="/" type="4">
-        <text>find(</text>
+        <text encoding="base64">XDxnZXRfamFja2V0X2Rlc3RpbmF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc19hdWRpb19maWxlcyhzb25nX2ZpbGVzLCBpbmZfdmVyLCBzb25nX291dHB1dF9kaXIpCg==</text>
@@ -2405,9 +2405,9 @@
       </register>
     </registers>
     <search>
-      <last-search>find(</last-search>
+      <last-search encoding="base64">XDxnZXRfamFja2V0X2Rlc3RpbmF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>find(</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfamFja2V0X2Rlc3RpbmF0aW9uXD4=</last-pattern>
       <last-replace>s3v</last-replace>
       <last-substitute>2dx</last-substitute>
       <last-dir>1</last-dir>
@@ -2415,7 +2415,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tab_param_overrides</entry>
         <entry>#define_filter</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxub2RlXD4=</entry>
@@ -2435,6 +2434,7 @@
         <entry>vvd</entry>
         <entry>difficulty</entry>
         <entry>find(</entry>
+        <entry encoding="base64">XDxnZXRfamFja2V0X2Rlc3RpbmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
