@@ -186,12 +186,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="105" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1587786291419">
-        <mark key="'" line="1663" column="52" />
-        <mark key="[" line="1558" column="25" />
-        <mark key="]" line="1558" column="34" />
-        <mark key="." line="1558" column="34" />
-        <mark key="^" line="1558" column="34" />
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1588023983165">
+        <mark key="'" line="1426" column="51" />
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="13" />
+        <mark key="." line="32" column="13" />
+        <mark key="^" line="32" column="13" />
       </file>
       <file name="$USER_HOME$/Code/BALLS/balls.py" timestamp="1587589202939">
         <mark key="[" line="25" column="21" />
@@ -231,7 +231,7 @@
         <mark key="." line="20" column="92" />
         <mark key="^" line="20" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587786310888">
+      <file name="/Dummy.txt" timestamp="1588023997954">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="53" />
@@ -287,12 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="37" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
-      <jump line="163" column="40" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="573" column="16" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="791" column="12" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="569" column="0" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="20" column="14" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="781" column="44" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="775" column="20" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="755" column="13" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
@@ -387,10 +381,16 @@
       <jump line="459" column="13" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="856" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1661" column="52" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1420" column="32" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1181" column="8" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1268" column="81" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1419" column="46" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1271" column="61" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="1426" column="51" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>out</text>
+        <text>4</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -413,10 +413,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>out</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXJnZXRfamFja2V0X3BhdGhcPg==</text>
+        <text encoding="base64">XDxTTEFNX1RJQ0tTXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc19hdWRpb19maWxlcyhzb25nX2ZpbGVzLCBpbmZfdmVyLCBzb25nX291dHB1dF9kaXIpCg==</text>
@@ -2419,9 +2419,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXJnZXRfamFja2V0X3BhdGhcPg==</last-search>
+      <last-search encoding="base64">XDxTTEFNX1RJQ0tTXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXJnZXRfamFja2V0X3BhdGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTTEFNX1RJQ0tTXD4=</last-pattern>
       <last-replace>s3v</last-replace>
       <last-substitute>2dx</last-substitute>
       <last-dir>1</last-dir>
@@ -2429,8 +2429,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfamFja2V0X2Rlc3RpbmF0aW9uXD4=</entry>
-        <entry encoding="base64">XDx0ZXN0Y2FzZVw+</entry>
         <entry>CASES</entry>
         <entry>game_id</entry>
         <entry>no audio file found</entry>
@@ -2449,6 +2447,8 @@
         <entry>coords</entry>
         <entry encoding="base64">XDxnYW1lX2lkXD4=</entry>
         <entry encoding="base64">XDx0YXJnZXRfamFja2V0X3BhdGhcPg==</entry>
+        <entry encoding="base64">XDxzbGFtX3N0YXR1c1w+</entry>
+        <entry encoding="base64">XDxTTEFNX1RJQ0tTXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
