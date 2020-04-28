@@ -454,7 +454,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'demo'</Description>
-          <Count>42</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'manual-tilt'">
@@ -606,7 +606,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'demo'</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'manual-tilt'">
@@ -654,7 +654,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>107</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Vim Delete Join Lines">
