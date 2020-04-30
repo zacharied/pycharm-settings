@@ -74,6 +74,9 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/Converter/out/syonenha_sorawo_tadoru_toromaru/chart_grv.ksh" timestamp="1588274586397">
+        <mark key="'" line="14383" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/src/extractor.py" timestamp="1587073548340">
         <mark key="'" line="110" column="30" />
         <mark key="[" line="78" column="0" />
@@ -121,12 +124,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/ksh_effects.py" timestamp="1587785632097">
-        <mark key="'" line="128" column="69" />
-        <mark key="[" line="128" column="69" />
-        <mark key="]" line="128" column="69" />
-        <mark key="." line="128" column="69" />
-        <mark key="^" line="128" column="69" />
+      <file name="$USER_HOME$/Documents/Converter/src/ksh_effects.py" timestamp="1588274849677">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="110" column="33" />
+        <mark key="]" line="110" column="54" />
+        <mark key="." line="110" column="54" />
+        <mark key="^" line="110" column="54" />
       </file>
       <file name="$USER_HOME$/Code/BALLS/blobTrace.py" timestamp="1588035027214">
         <mark key="'" line="19" column="17" />
@@ -170,7 +173,7 @@
         <mark key="^" line="5" column="117" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1587666100605">
+      <file name="/Python Console" timestamp="1588274101271">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1587589019548">
@@ -231,7 +234,7 @@
         <mark key="." line="20" column="92" />
         <mark key="^" line="20" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588035372503">
+      <file name="/Dummy.txt" timestamp="1588274705427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="48" />
         <mark key="^" line="2" column="48" />
@@ -287,9 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="781" column="44" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="775" column="20" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
-      <jump line="755" column="13" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="756" column="13" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="772" column="58" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="42" column="16" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
@@ -387,10 +387,13 @@
       <jump line="1419" column="46" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1271" column="61" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="1426" column="51" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
+      <jump line="111" column="52" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="14383" column="9" filename="$USER_HOME$/Documents/Converter/out/syonenha_sorawo_tadoru_toromaru/chart_grv.ksh" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -413,7 +416,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>required=False</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTEFNX1RJQ0tTXD4=</text>
@@ -444,22 +447,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgbm90IGFyZ3MuZmlsZW5hbWUuZW5kc3dpdGgoJy5tcDQnKToKICAgICMgQXBwZW5kIHZpZGVvIGV4dGVuc2lvbi4KICAgIGFyZ3MuZmlsZW5hbWUgKz0gJy5tcDQnCgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aWYgbm90IGFyZ3MuZmlsZW5hbWUuZW5kc3dpdGgoJy5tcDQnKToKICAgICMgQXBwZW5kIHZpZGVvIGV4dGVuc2lvbi4KICAgIGFyZ3MuZmlsZW5hbWUgKz0gJy5tcDQnCgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdNYWtpbgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KCdNYWtpbgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm94Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICNYIHZlbG9jaXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm94Lgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
