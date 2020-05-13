@@ -193,8 +193,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="105" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1588023983165">
-        <mark key="'" line="1426" column="51" />
+      <file name="$USER_HOME$/Documents/Converter/src/converter.py" timestamp="1589329626408">
+        <mark key="'" line="370" column="45" />
         <mark key="[" line="32" column="13" />
         <mark key="]" line="32" column="13" />
         <mark key="." line="32" column="13" />
@@ -288,7 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="756" column="13" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="772" column="58" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
       <jump line="42" column="16" filename="$USER_HOME$/Documents/Converter/src/extractor.py" />
       <jump line="2" column="22" filename="$USER_HOME$/Documents/Converter/src/util.py" />
@@ -388,6 +387,7 @@
       <jump line="111" column="52" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
       <jump line="14383" column="9" filename="$USER_HOME$/Documents/Converter/out/syonenha_sorawo_tadoru_toromaru/chart_grv.ksh" />
       <jump line="132" column="0" filename="$USER_HOME$/Documents/Converter/src/ksh_effects.py" />
+      <jump line="370" column="45" filename="$USER_HOME$/Documents/Converter/src/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
