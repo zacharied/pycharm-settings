@@ -124,12 +124,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Converter/src/ksh_effects.py" timestamp="1588274849677">
+      <file name="$USER_HOME$/Documents/Converter/src/ksh_effects.py" timestamp="1589330589355">
         <mark key="'" line="132" column="0" />
-        <mark key="[" line="110" column="33" />
-        <mark key="]" line="110" column="54" />
-        <mark key="." line="110" column="54" />
-        <mark key="^" line="110" column="54" />
+        <mark key="[" line="125" column="111" />
+        <mark key="]" line="126" column="33" />
+        <mark key="." line="126" column="33" />
+        <mark key="^" line="126" column="33" />
       </file>
       <file name="$USER_HOME$/Code/BALLS/blobTrace.py" timestamp="1588694230372">
         <mark key="[" line="14" column="12" />
@@ -232,7 +232,7 @@
         <mark key="." line="20" column="92" />
         <mark key="^" line="20" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588704326781">
+      <file name="/Dummy.txt" timestamp="1589331037747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="48" />
         <mark key="^" line="2" column="48" />
@@ -391,7 +391,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>rate</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -414,7 +414,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>rate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTEFNX1RJQ0tTXD4=</text>
@@ -423,7 +423,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc19hdWRpb19maWxlcyhzb25nX2ZpbGVzLCBpbmZfdmVyLCBzb25nX291dHB1dF9kaXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5tYWluX3BhcmFtID0gd2F2ZWxlbmd0aCBpZiBzZWxmLmVmZmVjdCAhPSBLc2hFZmZlY3RLaW5kLkVmCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -445,22 +445,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgbm90IGFyZ3MuZmlsZW5hbWUuZW5kc3dpdGgoJy5tcDQnKToKICAgICMgQXBwZW5kIHZpZGVvIGV4dGVuc2lvbi4KICAgIGFyZ3MuZmlsZW5hbWUgKz0gJy5tcDQnCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucGFyYW1zWydyYXRlJ10gPSBzZWxmLnBlcmNlbnQoc3RyKGZsb2F0KHJhdGUpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIFRoaXMgbWF5IG9yIG1heSBub3QgYmUgY29ycmVjdC4KICAgICAgICAgICAgcHJvZHVjdCA9IGludChmbG9hdCh3YXZlbGVuZ3RoKSAqIDE2KQogICAgICAgICAgICBpZiBwcm9kdWN0IDwgMDoKICAgICAgICAgICAgICAgIGRlYnVnKCkucmVjb3JkKERlYnVnLkxldmVsLldBUk5JTkcsICdlZmZlY3RzJywgJ2Bwcm9kdWN0YCBpcyBuZWdhdGl2ZSBmb3IgYW4gaW5zdGFuY2Ugb2YgZWZmZWN0IDY7IG1ha2luZyBpdCBwb3NpdGl2ZScpCiAgICAgICAgICAgICAgICBwcm9kdWN0ID0gLXByb2R1Y3QKICAgICAgICAgICAgc2VsZi5tYWluX3BhcmFtID0gc3RyKHByb2R1Y3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdNYWtpbgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm94Lgo=</text>
+        <text encoding="base64">aWYgbm90IGFyZ3MuZmlsZW5hbWUuZW5kc3dpdGgoJy5tcDQnKToKICAgICMgQXBwZW5kIHZpZGVvIGV4dGVuc2lvbi4KICAgIGFyZ3MuZmlsZW5hbWUgKz0gJy5tcDQnCgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2410,10 +2410,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICNYIHZlbG9jaXR5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICNYIHZlbG9jaXR5Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdNYWtpbgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
