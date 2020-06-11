@@ -45,6 +45,12 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1567789001655">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/kson-py/kson.py" timestamp="1591905941198">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Converter/src/util.py" timestamp="1586823789360">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="0" column="87" />
@@ -393,8 +399,8 @@
       <jump line="6381" column="9" filename="$USER_HOME$/Documents/Converter/out/qubism_hate_brilliance/chart_exh.ksh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>�</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgS3NvbjoKICAgIAo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -426,7 +432,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9zaXRpb25fa3NoX2kgPSBtYXRoLmNlaWwoKChldmVudC5wb3NpdGlvbiAvIDEyNykgKiAobGVuKGtzaF9sYXNlcl9jaGFycykgLSAxKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFsnPz8nLCAng7UnXSwK</text>
+        <text encoding="base64">Y2xhc3MgS3NvbjoKICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -448,22 +454,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFsnPz8nLCAng7UnXSwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXN0X2xhc2VyXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXN0X2xhc2VyXwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2413,10 +2419,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFycyA9IFtdCiAgICAgICAgZm9yIGNoYXIgaW4gcmFuZ2UoMTApOgogICAgICAgICAgICBjaGFycy5hcHBlbmQoY2hyKG9yZCgnMCcpICsgY2hhcikpCiAgICAgICAgZm9yIGNoYXIgaW4gcmFuZ2UoMjQpOgogICAgICAgICAgICBjaGFycy5hcHBlbmQoY2hyKG9yZCgnQScpICsgY2hhcikpCiAgICAgICAgZm9yIGNoYXIgaW4gcmFuZ2UoMTUpOgogICAgICAgICAgICBjaGFycy5hcHBlbmQoY2hyKG9yZCgnYScpICsgY2hhcikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBrc2hfbGFzZXJfY2hhcnMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFycyA9IFtdCiAgICAgICAgZm9yIGNoYXIgaW4gcmFuZ2UoMTApOgogICAgICAgICAgICBjaGFycy5hcHBlbmQoY2hyKG9yZCgnMCcpICsgY2hhcikpCiAgICAgICAgZm9yIGNoYXIgaW4gcmFuZ2UoMjQpOgogICAgICAgICAgICBjaGFycy5hcHBlbmQoY2hyKG9yZCgnQScpICsgY2hhcikpCiAgICAgICAgZm9yIGNoYXIgaW4gcmFuZ2UoMTUpOgogICAgICAgICAgICBjaGFycy5hcHBlbmQoY2hyKG9yZCgnYScpICsgY2hhcikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
